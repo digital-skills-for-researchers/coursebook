@@ -1,0 +1,20 @@
+name: Digital Skills and Scholarship for Researchers
+
+baseurl: "/digital-skills-for-researchers"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  enable_coderay: false
+
+# Where things are
+source:       .
+destination:  ./_site
+layouts_dir:  ./_layouts
+includes_dir: ./_includes
+sass:
+    sass_dir: ./_sass
+
+# keep the built site tidy, only include files we need for publishing
+exclude: ["node_modules", "Gemfile", "Gruntfile.js", "package.json", "README.md", "*.sublime-project", "*.sublime-workspace"]

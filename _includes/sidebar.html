@@ -5,7 +5,7 @@ Modules
 {% for module in site.data.modules %}
 
 	<li>
-		<a href="/modules/{{ module.slug }}">
+		<a href="{{ site.baseurl }}/modules/{{ module.slug }}">
 			{{ module.name }}
 		</a>
 	</li>
