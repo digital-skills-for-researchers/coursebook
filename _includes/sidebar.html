@@ -1,0 +1,15 @@
+<ul class="nav nav-stacked">
+
+Modules
+
+{% for module in site.data.modules %}
+
+	<li>
+		<a href="/modules/{{ module.slug }}">
+			{{ module.name }}
+		</a>
+	</li>
+
+{% endfor %}
+
+</ul>

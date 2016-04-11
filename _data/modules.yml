@@ -1,0 +1,37 @@
+
+
+- name: Project Management
+  slug: project-management
+
+- name: Data Management
+  slug: data-management
+
+- name: Shell
+  slug: shell
+
+- name: Programming
+  slug: programming
+
+- name: Version Control
+  slug: version-control
+
+- name: Reproducible Workflows
+  slug: reproducible-workflows
+
+- name: Graphs and Visualisation
+  slug: graphs-and-visualisation
+
+- name: Graphs and Visualisation 2
+  slug: graphs-and-visualisation-2
+
+- name: Identifiers
+  slug: identifiers
+
+- name: Sharing
+  slug: sharing
+
+- name: Licensing
+  slug: licensing
+
+- name: Publication
+  slug: publication
