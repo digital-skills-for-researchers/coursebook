@@ -1,6 +1,6 @@
 # Digital Skills for Researchers: Coursebook
 
-The live version of this coursebook can be viewed [here](digital-skills-for-researchers.github.io/coursebook/)
+The live version of this coursebook can be viewed [here](http://digital-skills-for-researchers.github.io/coursebook/)
 
 ## Contributions
 
