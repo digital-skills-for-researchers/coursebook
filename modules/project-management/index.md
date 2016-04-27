@@ -14,12 +14,12 @@ This module will introduce some commonly used processes for project management i
 
 By the end of this module you should be able to:
 
-a. Explain the key differences between Agile and Waterfall methodologies
-b. Describe the roles of Scrum, Agile and Kanban in project management
-c. Articulate the benefits of using a methodology in project management
-d. Confidently contribute to task creating and weighting in sprint planning
-e. Use Kanban to manage and track the progress of a project
-f. Confidently participate in sprint planning, review and retrospective meetings
+- a. Explain the key differences between Agile and Waterfall methodologies
+- b. Describe the roles of Scrum, Agile and Kanban in project management
+- c. Articulate the benefits of using a methodology in project management
+- d. Confidently contribute to task creating and weighting in sprint planning
+- e. Use Kanban to manage and track the progress of a project
+- f. Confidently participate in sprint planning, review and retrospective meetings
 
 
 
