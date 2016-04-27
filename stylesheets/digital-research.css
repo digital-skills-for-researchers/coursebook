@@ -1,0 +1,19 @@
+.sidebar {
+	border-right: 1px dotted #CCC;
+}
+
+
+.module-info > section {
+	padding: 30px;
+}
+
+/* the first section, containing the intro */
+.module-info > section:first-of-type {
+	background: lightblue;
+}
+
+.module-info h3 {
+	border-top: 1px solid gray;
+	padding-top: 30px;
+	margin-top: 30px;
+}
