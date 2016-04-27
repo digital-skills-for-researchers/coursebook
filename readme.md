@@ -12,10 +12,10 @@ To submit changes or corrections please:
 
 If you have many changes to submit please:
 
-- For this project
-- Create a branch for a logical grouping of changes
+- Fork this project
+- **Create a branch** for each logical grouping of changes
 - Make and commit the corrections
-- Submit a pull request for your branch
+- Submit a separate pull request for each branch / change
 
 Please keep pull requests small to help us merge your suggestions more efficiently.
 
