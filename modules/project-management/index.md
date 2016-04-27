@@ -93,20 +93,20 @@ Things you should have completed by the end of this module:
 
 
 
-1. Project brief
+**1. Project brief**
 Create a document describing the purpose of the project and what you intend to produce.
 _Demonstrates learning outcomes ?_
 
 
 
-2. Personal Kanban board
+**2. Personal Kanban board**
 Create and populate your first Kanban board, ready for first sprint planning!
 _Demonstrates learning outcomes ?_
 
 
 
 
-3. Team documentation
+**3. Team documentation**
 Document your team and get every member to sign the agreement.
 _Demonstrates learning outcomes ?_
 
