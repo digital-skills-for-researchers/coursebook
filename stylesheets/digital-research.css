@@ -10,6 +10,7 @@
 /* the first section, containing the intro */
 .module-info > section:first-of-type {
 	background: lightblue;
+	font-size: 140%;
 }
 
 .module-info h3 {
@@ -17,3 +18,43 @@
 	padding-top: 30px;
 	margin-top: 30px;
 }
+
+/* resource lists */
+.module-info > section ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+/* resource list items */
+.module-info > section ul li {
+	border-top: 1px solid #ccc;
+}
+
+/* last resource list item in list */
+.module-info > section ul li:last-of-type {
+	border-bottom: 1px solid #ccc;
+}
+
+/* resource list item marker */
+.module-info > section ul li a:before {
+	content: "\00a0 + "; /* code for &nbsp; followed by + */
+}
+
+/* resource links */
+.module-info > section ul li a {
+	display: block;
+	padding: 4px 0;
+	text-decoration: none;
+}
+
+
+/* resource links on hover */
+.module-info > section ul li a:hover {
+	background: #EEEFFF;
+	color: #222333;
+}
+
+
+
+
+

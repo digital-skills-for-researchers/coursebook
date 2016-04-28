@@ -1,0 +1,20 @@
+body {
+	font-size: 12px;
+}
+
+.sidebar {
+	display: none;
+}
+
+.module-info > section {
+	padding: 0;
+}
+
+.module-info > section:first-of-type {
+	border-bottom: 1px solid #666;
+	padding-bottom: 30px;
+}
+
+h2 {
+	font-size: 18px;
+}
