@@ -2,6 +2,21 @@
 
 The live version of this coursebook can be viewed [here](http://digital-skills-for-researchers.github.io/coursebook/)
 
+
+
+## Community
+
+You can find us on [Slack](https://digi-research-skills.slack.com/)!
+
+Email one of the team to request an invite:
+
+- Fabiana Kubke [f.kubke@auckland.ac.nz](mailto:"f.kubke@auckland.ac.nz")
+- Tanya Gray [t.gray@aucklanduni.ac.nz](mailto:"t.gray@aucklanduni.ac.nz")
+
+
+
+
+
 ## Contributions
 
 To submit changes or corrections please:
