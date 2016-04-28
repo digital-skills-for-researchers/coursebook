@@ -15,6 +15,15 @@ body {
 	padding-bottom: 30px;
 }
 
+/* 
+intended to target the link to either
+"view weekly schedule" or to "view 
+assessment schedule"
+*/
+.module-info > section:first-of-type a:last-of-type {
+	display: none;
+}
+
 h2 {
 	font-size: 18px;
 }
