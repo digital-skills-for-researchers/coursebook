@@ -34,30 +34,18 @@ Further discussion, stories from real world, activities.
 
 **Resources**
 
-- [list](#)
-- [of](#)
-- [resources](#)
+_No resources yet_
 
 
 
 
 ## Hacky Hour | Personal Kanban
 
-- Set up a Kanban board either in Trello, a notebook or other option.
-- Document team members and roles.
-- Document agreed times and places for meetings.
-- Create backlog for personal project.
-- First sprint planning meeting: create sprint backlog, decompose tasks.
-
-
-Planning meetings all done as team. Requires students to articulate what they need to achieve for project.
+This Hacky Hour should be used to plan and document your project using the methods learned during lectures. Complete the worksheet and have it signed off by a supervisor.
 
 **Resources**
 
-- [Instruction sheet](hacky-hour-worksheet.html)
-- [list](#)
-- [of](#)
-- [resources](#)
+- [Hacky Hour Worksheet](hacky-hour-worksheet.html)
 
 
 
