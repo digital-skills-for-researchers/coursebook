@@ -1,7 +1,10 @@
+.main-container {
+	background: green;
+}
+
 .sidebar {
 	border-right: 1px dotted #CCC;
 }
-
 
 .module-info > section {
 	padding: 30px;

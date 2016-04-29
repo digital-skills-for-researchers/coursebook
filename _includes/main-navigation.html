@@ -1,0 +1,21 @@
+<ul id="nav-mobile" class="side-nav fixed">
+
+	<li class="logo">
+		<a href="{{ site.baseurl }}/">
+		Digital Skills<br> 
+		for Research
+		</a>
+	</li>
+
+<!-- one list item for each module -->
+{% for module in site.data.modules %}
+	<li class="bold">
+		<a href="{{ site.baseurl }}/modules/{{ module.slug }}"
+		   class="waves-effect waves-teal">
+			{{ forloop.index }}. {{ module.name }}
+		</a>
+	</li>
+
+{% endfor %}
+
+</ul>
