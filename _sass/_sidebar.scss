@@ -1,0 +1,22 @@
+#nav-mobile .logo a {
+	height: auto;
+	line-height: 110%;
+	font-size: 170%;
+	font-weight: bold;
+	margin: 30px 0;
+}
+
+
+ul.side-nav.fixed li a {
+    font-size: 13px;
+    line-height: 40px;
+    height: 40px;
+}
+.side-nav.fixed a {
+    display: block;
+    padding: 0 30px;
+    color: #444;
+}
+.bold>a {
+    font-weight: bold;
+}

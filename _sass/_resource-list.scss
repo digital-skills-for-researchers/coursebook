@@ -1,0 +1,34 @@
+/* resource lists */
+ul.resources {
+	list-style-type: none;
+	padding: 0;
+}
+
+/* resource list items */
+ul.resources li {
+	border-top: 1px solid #ccc;
+}
+
+/* last resource list item in list */
+ul.resources li:last-of-type {
+	border-bottom: 1px solid #ccc;
+}
+
+/* resource list item marker */
+ul.resources li a:before {
+	content: "\00a0 + "; /* code for &nbsp; followed by + */
+}
+
+/* resource links */
+ul.resources li a {
+	display: block;
+	padding: 4px 0;
+	text-decoration: none;
+}
+
+
+/* resource links on hover */
+ul.resources li a:hover {
+	background: #EEEFFF;
+	color: #222333;
+}
