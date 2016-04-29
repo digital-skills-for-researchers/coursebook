@@ -2,8 +2,8 @@ body {
 	font-size: 12px;
 }
 
-main {
-	padding: 0;
+main, footer {
+	padding: 15px 0;
 }
 
 #page-header {
@@ -45,4 +45,10 @@ assessment schedule"
 footer {
 	font-size: 70%;
 }
+
+/* show full URLs for links when printed */
+a[href]:after {
+content: " (" attr(href) ")";
+}
+  
 
