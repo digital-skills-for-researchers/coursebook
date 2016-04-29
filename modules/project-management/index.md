@@ -21,10 +21,8 @@ Overview of these things, why, what they mean.
 **Resources**
 
 - [Lecture Slides](http://linkhere.com)
-- [Example Link](http://areallylonglink.com/morestuff/thingtoread.html)
-- [Another thing to read](http://google.com)
-- [More Stuff here](http://thingstosee.com)
-
+- [Project Management Methodologies](https://www.wrike.com/project-management-guide/methodologies/)
+{:.resources}
 
 
 
@@ -46,6 +44,7 @@ This Hacky Hour should be used to plan and document your project using the metho
 **Resources**
 
 - [Hacky Hour Worksheet](hacky-hour-worksheet.html)
+{:.resources}
 
 
 
@@ -61,5 +60,6 @@ This Hacky Hour should be used to plan and document your project using the metho
 - [Agile Chalk Talk: Story Points (video)](https://www.youtube.com/watch?v=90Xx8QVnXRc)
 - [Introduction to Scrum - 7 Minutes (video)](https://www.youtube.com/watch?v=9TycLR0TqFA)
 - [Agile Samurai (book)](TODO)
+{:.resources}
 
 
