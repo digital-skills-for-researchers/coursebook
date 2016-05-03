@@ -13,7 +13,6 @@ This module will teach you the skills and concepts for effective Data Management
 
 
 
-
 ## Lecture 1 | What is Data Management?
 
 
@@ -50,5 +49,10 @@ This Hacky Hour should be used to start managing your project data using the pri
 
 
 {:.resources}
+
+
+
+
+
 
 

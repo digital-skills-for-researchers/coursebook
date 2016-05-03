@@ -8,9 +8,11 @@ layout: module
 [View Schedule for Week One](index.html)
 
 
+
 ## Learning Outcomes
 
 Upon completion of this module you should be able to:
+
 
 - a. Create a file naming scheme and organise data in an accesible and logical manner
 - b. Create README files oulining project purpose, data collection processes, naming conventions 
@@ -19,9 +21,8 @@ Upon completion of this module you should be able to:
 - e. Understand issues around data senstivity, and how to mitigate and manage these issues  
 
 
-
-
 ## Badges
+
 
 1. **File naming and organisation**
 Given a list of poorly and inconsistenyly named files, come up with a improved naming convention. Create a folder stucture for the files and move them into it.  

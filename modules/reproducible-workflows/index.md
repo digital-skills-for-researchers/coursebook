@@ -1,7 +1,7 @@
 ---
-title: Data Management
+title: Reproducible Workflows
 layout: module
 ---
 
-# Data Management
+# Reproducible Workflows
 
