@@ -33,20 +33,12 @@ Given a simple scientific scenario with experimental data, create a README.txt f
 _Learning outcomes: b_
 
 
-3. **Arrays and lists**
+3. **Creating meta data**
+Using the same scenatio as Badge 2, create meta data using [STANDARD X]
 _Learning outcomes: c_
 
 
-4. **Creating Functions**
-Create a document describing the purpose of the project and what you intend to produce.
+4. **Intellectual and ethical issues w.r.t data**
+Using same scenario as Badges 2 and 3, identify how the raw data might need to be collected (anonymisation), stored for a length of time/destroyed after study as well as limitations around sharing for IP reasons.  
 _Learning outcomes: d_
 
-
-5. **Defensive Programming**
-Given a simple function, can identify what pre and post conditions need to be tested for, and identify the invariants in the function. 
-_Learning outcomes: d, e_
-
-
-6. **Test Driven Development**
-Given the outline of a simple function, you can create a series of tests that check function validity, corner cases and faulty/incorrect input.
-_Learning outcome: e_
