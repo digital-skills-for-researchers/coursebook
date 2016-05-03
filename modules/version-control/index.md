@@ -11,23 +11,32 @@ This module will introduce you to the workflows used with the popular version co
 
 
 
-## Lecture 1 | Topic
+## Block 1 | Introduction to Git
 
 Introduction to the basics of Version Control, Git and GitHub.
+
+**Schedule**
+
+- [Lecture: Version Control Introduction](slideshows/version-control-intro.html)
+- [Activity: Install and Configure Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/02-setup.html)
+- [Lecture: Repositories](slideshows/repositories.html)
+- [Activity: Create a Repository (Software Carpentry)](http://swcarpentry.github.io/git-novice/03-create.html)
+- [Lecture: Git Workflow](slideshows/git-workflow.html)
+- [Activity: Tactile Git Workflow](activities/tactile-git-workflow.html)
+- [Activity: Shell Git Workflow (Software Carpentry)](http://swcarpentry.github.io/git-novice/04-changes.html)
+{:.resources}
+
 
 **Resources**
 
 - [Version Control with Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/)
 - [Automated Version Control (Software Carpentry)](http://swcarpentry.github.io/git-novice/01-basics.html)
-- [Setting Up Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/02-setup.html)
-- [Creating a Repository (Software Carpentry)](http://swcarpentry.github.io/git-novice/03-create.html)
-- [Tracking Changes (Software Carpentry)](http://swcarpentry.github.io/git-novice/04-changes.html)
 - [Basic Git Workflow (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-workflow/exercises/hello-git)
 {:.resources}
 
 
 
-## Lecture 2 | Topic
+## Block 2 | Everyday Git
 
 Advanced functionality and commands using Git.
 
