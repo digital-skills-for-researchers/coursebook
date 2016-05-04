@@ -16,6 +16,7 @@ Upon completion of this module you should be able to:
 - b. Create simple functions 
 - c. Use loops and conditional statements to control program flow
 - d. Load, process and save data  
+- e. Structure and comment code so that it's purpose is clear and it is re usable by others. 
 
 
 
@@ -32,11 +33,12 @@ _Learning outcomes: b_
 
 
 3. **Arrays and lists**
+Using indexing and slicing, 
 _Learning outcomes: c_
 
 
 4. **Creating Functions**
-Create a document describing the purpose of the project and what you intend to produce.
+Can create simple functions 
 _Learning outcomes: d_
 
 

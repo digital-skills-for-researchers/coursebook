@@ -34,7 +34,7 @@ _No resources yet_
 
 ## Hacky Hour | Project Data Analysis
 
-This Hacky Hour should be used to start managing your project data using the principles taught in this module. Start creating a data management plan. Think about how to name and organise your files.  
+This Hacky Hour should be used to start managing your project data using the principles taught in this module. Think about how to name and organise your files. Start creating a data management plan, so that your data can live beyond the timeframe of your project.   
 
 **Resources**
 
@@ -46,6 +46,8 @@ This Hacky Hour should be used to start managing your project data using the pri
 
 - Data Management for Researchers - available as ebook through the [library](http://www.library.auckland.ac.nz/?FROM_REF=bn-bc)
 - [Managing and Sharing Data - UK Data Archive](http://www.data-archive.ac.uk/media/2894/managingsharing.pdf)
+- [Some Simple Guidelines for Effective Data Management](http://onlinelibrary.wiley.com/doi/10.1890/0012-9623-90.2.205/full)
+
 
 
 {:.resources}
