@@ -45,10 +45,10 @@
 - name: Version Control
   slug: version-control
   status:
-    weeklySchedule: not-started
-    assessmentGuide: not-started
+    weeklySchedule: in-progress
+    assessmentGuide: in-progress
     teachingGuide: not-started
-    teachingResources: not-started
+    teachingResources: in-progress
     assessmentResources: not-started
 
 
