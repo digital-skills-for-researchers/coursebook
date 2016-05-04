@@ -1,0 +1,122 @@
+{% assign statuses = "not-started started in-progress in-review complete" | split: ' ' %}
+
+<ul class="project-progress collapsible popout" data-collapsible="accordion">
+{% for module in site.data.modules %}
+
+	{% for status in statuses %}
+
+		{% if module.status.weeklySchedule == status %}
+			{% assign weeklySchedule = forloop.index0 | times: 25 %}
+		{% endif %}
+
+		{% if module.status.teachingGuide == status %}
+			{% assign teachingGuide = forloop.index0 | times: 25 %}
+		{% endif %}
+
+		{% if module.status.teachingResources == status %}
+			{% assign teachingResources = forloop.index0 | times: 25 %}
+		{% endif %}
+
+		{% if module.status.assessmentGuide == status %}
+			{% assign assessmentGuide = forloop.index0 | times: 25 %}
+		{% endif %}
+
+		{% if module.status.assessmentResources == status %}
+			{% assign assessmentResources = forloop.index0 | times: 25 %}
+		{% endif %}
+
+	{% endfor %}
+
+	{% capture totalPercent %}{{ weeklySchedule | plus: teachingGuide | plus: teachingResources | plus: assessmentGuide | plus: assessmentResources | divided_by: 5 }}{% endcapture %}
+
+	<li>	
+
+		<!-- total progress -->
+		<div class="collapsible-header">
+	  		
+	  		<i class="material-icons">library_books</i>
+	  		{{ module.name }} | {{ totalPercent }}%
+
+	  		<div class="progress">
+			    <div class="determinate" style="width: {{totalPercent}}%"></div>
+			</div>
+
+	  	</div>
+
+
+	  	<ul class="collapsible-body collection">
+
+			<!-- weekly schedule -->
+			<li class="sub-task collection-item">
+				<a class="name" href="{{site.baseurl}}/modules/{{ module.slug }}">
+					Weekly Schedule
+				</a>
+				<div class="progress">
+				    <div class="determinate {{ module.status.weeklySchedule }}"></div>
+				</div>
+				<span class="percentage">
+					{{ weeklySchedule }}%
+				</span>
+			</li>
+
+			<!-- teaching guide -->
+			<li class="sub-task collection-item">
+				<a class="name" href="{{site.baseurl}}/modules/{{ module.slug }}/teaching-guide.html">
+					Teaching Guide
+				</a>
+				<div class="progress">
+				    <div class="determinate {{ module.status.teachingGuide }}"></div>
+				</div>
+				<span class="percentage">
+					{{ teachingGuide }}%
+				</span>
+			</li>
+
+			<!-- teaching resources -->
+			<li class="sub-task collection-item">
+				<a class="name" href="{{site.baseurl}}/modules/{{ module.slug }}">
+					Teaching Resources
+				</a>
+				<div class="progress">
+				    <div class="determinate {{ module.status.teachingResources }}"></div>
+				</div>
+				<span class="percentage">
+					{{ teachingResources }}%
+				</span>
+			</li>
+
+			<!-- assessment schedule -->
+			<li class="sub-task collection-item">
+				<a class="name" href="{{site.baseurl}}/modules/{{ module.slug }}/assessment.html">
+					Assessment Guide
+				</a>
+				<div class="progress">
+				    <div class="determinate {{ module.status.assessmentGuide }}"></div>
+				</div>
+				<span class="percentage">
+					{{ assessmentGuide }}%
+				</span>
+			</li>
+
+			<!-- assessment resources -->
+			<li class="sub-task collection-item">
+				<a class="name" href="{{site.baseurl}}/modules/{{ module.slug }}/assessment.html">
+					Assessment Resources
+				</a>
+				<div class="progress">
+				    <div class="determinate {{ module.status.assessmentResources }}"></div>
+				</div>
+				<span class="percentage">
+					{{ assessmentResources }}%
+				</span>
+			</li>
+
+		</ul>
+
+
+
+
+	</li>
+
+{% endfor %}
+</ul>
