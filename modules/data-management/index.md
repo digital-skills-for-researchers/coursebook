@@ -13,7 +13,7 @@ This module will teach you the skills and concepts for effective Data Management
 
 
 
-## Lecture 1 | What is Data Management?
+## Block 1 | What is Data Management?
 
 
 
@@ -24,7 +24,7 @@ This module will teach you the skills and concepts for effective Data Management
 
 
 
-## Lecture 2 | Storing data, Legal and Ethical Issues, Data Management Plans
+## Block 2 | Storing data, Legal and Ethical Issues, Data Management Plans
 
 
 **Resources**

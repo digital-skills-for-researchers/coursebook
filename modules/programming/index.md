@@ -13,7 +13,7 @@ This module will introduce you to programming, specifically with Python. Python 
 
 
 
-## Lecture 1 | Getting Started With Python
+## Block 1 | Getting Started With Python
 
 Getting started with Python. Assigning values to variables, control structures and storing data.
 
@@ -25,7 +25,7 @@ Getting started with Python. Assigning values to variables, control structures a
 
 
 
-## Lecture 2 | Creating functions and Good Developmentt Practices
+## Block 2 | Creating functions and Good Developmentt Practices
 
 Creating functions, Defensive Programming and Test Driven Development.
 
