@@ -13,7 +13,7 @@ This module will introduce some commonly used processes for project management i
 
 
 
-## Lecture 1 | Agile, Scrum and Kanban
+## Block 1 | Agile, Scrum and Kanban
 
 Overview of these things, why, what they mean.
 
@@ -26,7 +26,7 @@ Overview of these things, why, what they mean.
 
 
 
-## Lecture 2 | Guest Lecture
+## Block 2 | Guest Lecture
 
 Further discussion, stories from real world, activities.
 

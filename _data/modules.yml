@@ -1,34 +1,108 @@
-
+# possible statuses:
+#   - not-started  (0%)
+#   - started      (25%)
+#   - in-progress  (50%)
+#   - in-review    (75%)
+#   - completed    (100%)
 
 - name: Project Management
   slug: project-management
+  status:
+    weeklySchedule: started
+    assessmentGuide: started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
+  
 
 - name: Data Management
   slug: data-management
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Shell
   slug: shell
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Programming
   slug: programming
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Version Control
   slug: version-control
+  status:
+    weeklySchedule: in-progress
+    assessmentGuide: in-progress
+    teachingGuide: not-started
+    teachingResources: in-progress
+    assessmentResources: not-started
+
 
 - name: Reproducible Workflows
   slug: reproducible-workflows
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Graphs and Visualisation
   slug: graphs-and-visualisation
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Identifiers
   slug: identifiers
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Sharing
   slug: sharing
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Licensing
   slug: licensing
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
 
 - name: Publication
   slug: publication
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
+

@@ -10,11 +10,11 @@ This module will introduce the shell, and how it can be used to perform data man
 [View Assessment Guide](assessment.html)
 
 
-## Lecture 1 | Introduction to the command line
+## Block 1 | Introduction to the command line
 
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
-## Lecture 2 | Data Processing and Automation 
+## Block 2 | Data Processing and Automation 
 
 How to automate the processing data with the shell.  
 

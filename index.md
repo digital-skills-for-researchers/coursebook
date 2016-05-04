@@ -6,17 +6,26 @@ layout: index
 
 # Digital Skills and Scholarship for Researchers
 
-## Modules
 
-1. [Project Management](modules/project-management)
-2. [Data Management](modules/data-management)
-3. [Shell](modules/shell)
-4. [Programming](modules/programming)
-5. [Version Control](modules/version-control)
-6. [Reproducible Workflows](modules/reproducible-workflows)
-7. [Graphs and Visualisation](modules/graphs-and-visualisation)
-8. [Graphs and Visualisation 2](modules/graphs-and-visualisation-2)
-9. [Identifiers](modules/identifiers)
-10. [Sharing](modules/sharing)
-11. [Licensing](modules/licensing)
-12. [Publication](modules/publication)
+## Course Development Status
+
+**Every module should have:**
+
+- **Weekly Schedule**
+  Plan the timeline for delivery, class hours and activities to complete.
+
+- **Teaching Guide**
+  Guide for teachers on how to deliver the courseware and key things to pay attention to.
+
+- **Teaching Resources**
+  Slideshows, videos, activity instructions, everything needed to teach with.
+
+- **Assessment Guide**
+  Learning outcomes, badges and how they will be assessed.
+
+- **Assessment Resources**
+  Quizzes, homework sheets and assignment descriptions.
+
+<br>
+
+{% include project-progress.html %}
