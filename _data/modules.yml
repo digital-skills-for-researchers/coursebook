@@ -70,15 +70,6 @@
     teachingResources: not-started
     assessmentResources: not-started
 
-- name: Graphs and Visualisation 2
-  slug: graphs-and-visualisation-2
-  status:
-    weeklySchedule: not-started
-    assessmentGuide: not-started
-    teachingGuide: not-started
-    teachingResources: not-started
-    assessmentResources: not-started
-
 - name: Identifiers
   slug: identifiers
   status:
