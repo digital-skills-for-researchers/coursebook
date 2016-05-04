@@ -25,7 +25,7 @@ Getting started with Python. Assigning values to variables, control structures a
 
 
 
-## Lecture 2 | Creating functions and Good Developmentt Practices
+## Lecture 2 | Creating functions and Good Development Practices
 
 Creating functions, Defensive Programming and Test Driven Development.
 
@@ -38,7 +38,7 @@ _No resources yet_
 
 ## Hacky Hour | Project Data Analysis
 
-This Hacky Hour should be used to start writing programms that will help you analyse the data from your course project. 
+This Hacky Hour should be used to start writing programs that will help you analyse the data from your course project. 
 
 **Resources**
 

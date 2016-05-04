@@ -21,7 +21,7 @@ Upon completion of this module you should be able to:
 
 ## Badges
 
-1. **Simple caluclations using variables**
+1. **Simple calculations using variables**
 Perform basic scientific calculations such as changing from degrees Kelvin to degrees Celsius, using named variables and displaying the result 
 _Learning outcomes: a_
 
