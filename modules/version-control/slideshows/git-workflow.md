@@ -1,5 +1,0 @@
----
-layout: slideshow
----
-
-# Git Workflow

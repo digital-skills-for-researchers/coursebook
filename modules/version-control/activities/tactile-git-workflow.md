@@ -1,5 +1,5 @@
 ---
-layout: activity
+layout: module
 ---
 
 # Tactile Git Workflow
