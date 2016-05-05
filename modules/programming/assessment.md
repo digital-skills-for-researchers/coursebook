@@ -33,12 +33,12 @@ _Learning outcomes: b_
 
 
 3. **Arrays and lists**
-Using indexing and slicing, 
+Using indexing and slicing, can find the value and index of the minimum, maximum, and other simple operations, of different ranges within arrays and lists. 
 _Learning outcomes: c_
 
 
-4. **Creating Functions**
-Can create simple functions 
+4. **Creating and Composing Functions**
+Create a simple function that performs a scientific calculation. Use this function in a new function [to  do something]
 _Learning outcomes: d_
 
 

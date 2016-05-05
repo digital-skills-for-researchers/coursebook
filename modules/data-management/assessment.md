@@ -17,7 +17,7 @@ Upon completion of this module you should be able to:
 - a. Create a file naming scheme and organise data in an accessible and logical manner
 - b. Create README files outlining project purpose, data collection processes, naming conventions 
 - c. Store data (where possible) in an open, readable format that is logically structured. Understand the different data storage options available and their advantages and disadvantages.
-- d. Create meta data for scientific data that follows common standards
+- d. Create meta data for scientific data that follows common standards. Understand the prupose of meta data; how it aids in discoverability and describing data.
 - e. Understand issues around data sensitivity, and how to mitigate and manage these issues  
 
 

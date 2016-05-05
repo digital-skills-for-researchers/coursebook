@@ -1,19 +1,19 @@
 ---
-title: Introduction to Graphs and Visualization
+title: Sharing Your Data and Research
 layout: module
 ---
 
 
-# Introduction to programming with Python
+# Sharing Your Data and Research
 
-This module will introduce you to how to share your research, both with collaborators you are working with, and 
+This module will introduce you to how to share your research and data, both with collaborators you are working with, and others who have an interest in your research and data. Sharing 
 
 [View Assessment Guide](assessment.html)
 
 
 
 
-## Block 1 | Getting Started With Python
+## Block 1 | ????
 
 
 
@@ -25,7 +25,7 @@ This module will introduce you to how to share your research, both with collabor
 
 
 
-## Block 2 | Creating functions and Good Developmentt Practices
+## Block 2 | ????
 
 
 **Resources**
@@ -35,9 +35,8 @@ _No resources yet_
 
 
 
-## Hacky Hour | Project Data Analysis
-
-During this Hacky Hour you should start/continue creating code for visualizing your project data. Your days of using excel are now over.  
+## Hacky Hour | ????
+ 
 
 
 **Resources**

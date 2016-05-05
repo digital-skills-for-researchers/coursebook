@@ -36,6 +36,23 @@ Upon completion of this module you should be able to:
 
 ## Badges
 
-1. **???**
-???
+1. **Git Status and Logs**
+Given a git repository, can use git status and git log to answer questions about the number of commits, when they were made, what files are committed and what files are staged. 
+_Learning outcomes: ?_
+
+2. **Ignoring files and folders**
+Given a git repository, can edit the config file to ignore all files of certain types, as well as all files contained within certain folders.
+_Learning outcomes: ?_
+
+3. **Checking out branches**
+Use the log function, work out which branch to check out based on the commit comments, checkout a file, revert to the original branch, anc commit the file.
+_Learning outcomes: ?_
+
+4. **What's Changed? Using diff**
+_Learning outcomes: ?_
+
+5. **Remotes in Git**
+_Learning outcomes: ?_
+
+6. **Collaborating with Git**
 _Learning outcomes: ?_

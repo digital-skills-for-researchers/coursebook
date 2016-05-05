@@ -6,7 +6,7 @@ layout: module
 
 # Data Management
 
-This module will teach you the skills and concepts for effective Data Management. Simply put, Data Management is about taking care of your data so that your work isnt hindered by data issues. Your data is effectivley organised and stored so you can access and understand it with ease. Effective data management goes hand in hand with effective data sharing, if you organise data well for your own use, collobaratros and other users of the data will also benefit.
+This module will teach you the skills and concepts for effective Data Management. Simply put, Data Management is about taking care of your data so that your work isnt hindered by data issues. Your data is effectively organised and stored so you can access and understand it with ease. Effective data management goes hand in hand with effective data sharing, if you organise data well for your own use, collaborators and other users of the data will also benefit.
 
 
 [View Assessment Guide](assessment.html)
@@ -34,7 +34,7 @@ _No resources yet_
 
 ## Hacky Hour | Project Data Analysis
 
-This Hacky Hour should be used to start managing your project data using the principles taught in this module. Think about how to name and organise your files. Start creating a data management plan, so that your data can live beyond the timeframe of your project.   
+This Hacky Hour should be used to start managing your project data using the principles taught in this module. Think about how to name and organise your files. Start creating a data management plan, so that your data can live beyond the time frame of your project.   
 
 **Resources**
 
