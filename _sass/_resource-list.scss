@@ -1,42 +1,41 @@
 /* resource lists */
 ul.resources {
 	list-style-type: none;
-	padding: 0;
-}
 
-/* resource list items */
-ul.resources li {
-	border-top: 1px solid #ccc;
-}
+	/* all list items */
+	li {
+		border-top: 1px solid #ccc;
+		padding-left: 1rem;
 
-/* last resource list item in list */
-ul.resources li:last-of-type {
-	border-bottom: 1px solid #ccc;
-}
+		/* last list item in list */
+		&:last-of-type {
+			border-bottom: 1px solid #ccc;
+		}
+	}
 
-/* resource list item marker */
-ul.resources li a:before {
-	content: "\00a0 + "; /* code for &nbsp; followed by + */
-}
+	/* list item marker */
+	li a:before {
+		content: "\00a0 + "; /* code for &nbsp; followed by + */
+	}
 
-/* resource links */
-ul.resources li a {
-	display: block;
-	padding: 4px 0;
-	text-decoration: none;
-}
+	/* resource links */
+	li a {
+		display: block;
+		padding: 4px 0;
+		text-decoration: none;
+		margin-left: -1rem;
 
+		&:hover {
+			background: #EEEFFF;
+			color: #222333;
+		}
+	}
 
-/* resource links on hover */
-ul.resources li a:hover {
-	background: #EEEFFF;
-	color: #222333;
-}
-
-/* creating multiline list items with markdown
-uses br for line breaks instead of using paragraphs, 
-so we shall hide them!
-*/
-ul.resources li br {
-	display: none;
+	/* creating multiline list items with markdown
+	uses br for line breaks instead of using paragraphs, 
+	so we shall hide them!
+	*/
+	li br {
+		display: none;
+	}
 }
