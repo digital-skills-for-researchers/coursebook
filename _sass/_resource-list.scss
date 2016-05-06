@@ -32,3 +32,11 @@ ul.resources li a:hover {
 	background: #EEEFFF;
 	color: #222333;
 }
+
+/* creating multiline list items with markdown
+uses br for line breaks instead of using paragraphs, 
+so we shall hide them!
+*/
+ul.resources li br {
+	display: none;
+}
