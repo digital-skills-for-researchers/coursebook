@@ -1,10 +1,10 @@
 ---
-title: Licencing | Assessment
+title: Licensing | Assessment
 layout: module
 ---
 
 
-# Licencing | Assessment
+# Licensing | Assessment
 [View Schedule for Week One](index.html)
 
 
@@ -12,8 +12,9 @@ layout: module
 
 Upon completion of this module you should be able to:
 
-- a. Understand the different features that form licences
-- b. Pick an appropiate lience that matches the needs you have for how your data is going to be shared and reused. 
+- a. Understand the different features that form licenses
+- b. Pick an appropriate license that matches the needs you have for how your data is going to be shared, and reused by others.
+
 
 
 

@@ -16,12 +16,13 @@ Upon completion of this module you should be able to:
 - b. Create simple functions 
 - c. Use loops and conditional statements to control program flow
 - d. Load, process and save data  
+- e. Structure and comment code so that it's purpose is clear and it is re usable by others. 
 
 
 
 ## Badges
 
-1. **Simple caluclations using variables**
+1. **Simple calculations using variables**
 Perform basic scientific calculations such as changing from degrees Kelvin to degrees Celsius, using named variables and displaying the result 
 _Learning outcomes: a_
 
@@ -32,11 +33,12 @@ _Learning outcomes: b_
 
 
 3. **Arrays and lists**
+Using indexing and slicing, can find the value and index of the minimum, maximum, and other simple operations, of different ranges within arrays and lists. 
 _Learning outcomes: c_
 
 
-4. **Creating Functions**
-Create a document describing the purpose of the project and what you intend to produce.
+4. **Creating and Composing Functions**
+Create a simple function that performs a scientific calculation. Use this function in a new function [to  do something]
 _Learning outcomes: d_
 
 
