@@ -15,7 +15,7 @@ This calendar outlines a possible schedule for completing this course over a typ
 
 
 
-### Week One
+### Week 1 | Project Planning
 
 Introduces the **Project Management** module.
 
@@ -46,7 +46,7 @@ Project Management | [Homework 1][w1-7]                          | 1:00
 
 
 
-### Week Two
+### Week 2 | Working with Data
 
 Introduces the **Data Management** module.
 
@@ -65,7 +65,7 @@ Data Management | Homework 1 | Hacky Hour | 1:00
 
 
 
-### Week Three
+### Week 3 | Computing Foundations
 
 Introduces the **Shell** module.
 
@@ -78,7 +78,7 @@ Data Management | Block 1 | Classroom | 1:30
 
 
 
-### Week Four
+### Week 4 | Coding with Purpose
 
 Introduces the **Programming** module.
 
@@ -89,7 +89,7 @@ Data Management | Block 1 | Classroom | 1:30
 
 
 
-### Week Five
+### Week 5 | Managing Versions
 
 Introduces the **Version Control** module.
 
@@ -102,6 +102,103 @@ Version Control    | [Classroom: Everyday Git][w5-3]           | 1:00
 [w5-1]: {{site.baseurl}}/modules/version-control#classroom--introduction-to-git
 [w5-2]: {{site.baseurl}}/modules/version-control#independent--practising-git-shell
 [w5-3]: {{site.baseurl}}/modules/version-control#classroom--everyday-git
+
+
+
+
+
+### Week 6 | Unconfirmed
+
+Introduces the **Reproducible Workflows** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
+
+
+
+
+
+
+
+### Study Break | Awesomeify Your Project
+
+Introduces the **Reproducible Workflows** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
+
+
+
+### Week 7 | Digital Workflows
+
+Introduces the **Reproducible Workflows** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
+
+
+
+
+
+
+
+
+### Week 8 | Producing Graphs and Charts
+
+Introduces the **Data Visualisation** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
+
+
+
+
+
+### Week 9 | Making Your Work Public
+
+Introduces the **Sharing** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
+
+
+
+
+### Week 10 | Protecting Your Work
+
+Introduces the **Licensing** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
+
+
+
+
+### Week 11 | Academic Publication
+
+Introduces the **Publishing** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
+
+
+
+
+
+### Week 12 | Final Submission
+
+Introduces the **Licensing** module.
+
+Module             | Task    | Time
+------------------ | ------- | ---------
+? |? | ?
 
 
 
