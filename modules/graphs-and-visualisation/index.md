@@ -57,8 +57,16 @@ During this Hacky Hour you should start/continue creating code for visualizing y
 
 - [Ten guidelines for effective data visualization in scientific publications](http://hci.pacsites.org/wp-content/uploads/sites/8/2014/01/10_scientific_visualization_guidelines.pdf) 
 - [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1003833.PDF)
-- Preparing Scientific Illustrations: A Guide to Better Posters, Presentations, and Publications. This is an older book (1996) but still offers good, practical, advice for creating figures. Available in hard copy and as an ebook through the [library](http://www.library.auckland.ac.nz/). 
-- How to write and illustrate scientific papers. Chapters 5-8 contain nice, elementary explanations of creating effective graphs and tables. Available in hard copy and as an ebook through the [library](http://www.library.auckland.ac.nz/). 
+- [Preparing Scientific Illustrations: A Guide to Better Posters, Presentations, and Publications](http://www.library.auckland.ac.nz/) 
+  This is an older book (1996) but still offers good, practical, advice for creating figures. Available in hard copy and as an ebook through the library. 
+- [How to write and illustrate scientific papers](http://librarysearch.auckland.ac.nz/primo_library/libweb/action/search.do?fn=search&vl%28freeText0%29=9780511394638)
+  Chapters 5-8 contain nice, elementary explanations of creating effective graphs and tables. Available in hard copy and as an ebook from the library. 
 - [Matplotlib beginners guide](http://matplotlib.org/users/beginner.html) 
-- [Making better figures](https://betterfigures.org/2015/03/30/making-better-figures-video/) A half hour video showing you how to do exactly that
+- [Making better figures](https://betterfigures.org/2015/03/30/making-better-figures-video/)
+  A half hour video showing you how to do exactly that
 {:.resources}
+
+
+
+
+

@@ -11,18 +11,29 @@ This module will introduce you to the workflows used with the popular version co
 
 
 
-## Block 1 | Introduction to Git
+## Independent | Create a GitHub Account
+
+Register and verify your GitHub account, ready for classroom use.
+
+- [Slideshow: Creating a GitHub Account (TODO)](#)
+- [Activity: Document your GitHub Details (TODO)](#)
+{:.resources}
+
+
+
+
+## Classroom | Introduction to Git
 
 Introduction to the basics of Version Control, Git and GitHub.
 
 **Schedule**
 
-- [Lecture: Version Control Introduction](slideshows/version-control-intro.html)
+- [Lecture: Version Control Introduction (TODO)](slideshows/version-control-intro.html)
 - [Activity: Install and Configure Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/02-setup.html)
-- [Lecture: Repositories](slideshows/repositories.html)
+- [Lecture: Repositories (TODO)](slideshows/repositories.html)
 - [Activity: Create a Repository (Software Carpentry)](http://swcarpentry.github.io/git-novice/03-create.html)
-- [Lecture: Git Workflow](slideshows/git-workflow.html)
-- [Activity: Tactile Git Workflow](activities/tactile-git-workflow.html)
+- [Lecture: Git Workflow (TODO)](slideshows/git-workflow.html)
+- [Activity: Tactile Git Workflow (TODO)](activities/tactile-git-workflow.html)
 - [Activity: Shell Git Workflow (Software Carpentry)](http://swcarpentry.github.io/git-novice/04-changes.html)
 {:.resources}
 
@@ -31,12 +42,23 @@ Introduction to the basics of Version Control, Git and GitHub.
 
 - [Version Control with Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/)
 - [Automated Version Control (Software Carpentry)](http://swcarpentry.github.io/git-novice/01-basics.html)
+{:.resources}
+
+
+
+
+## Independent | Practising Git Shell
+
+Review the Git commands that you have learned by completing at least one of these online activities.
+
+- [Learn Git (GitHub)](https://try.github.io)
 - [Basic Git Workflow (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-workflow/exercises/hello-git)
 {:.resources}
 
 
 
-## Block 2 | Everyday Git
+
+## Classroom | Everyday Git
 
 Advanced functionality and commands using Git.
 
@@ -53,15 +75,39 @@ Advanced functionality and commands using Git.
 
 
 
-## Hacky Hour
+
+
+## Independent | Getting Around GitHub
+
+Get familiar with GitHub by completing the following tasks.
+
+_No tasks yet_
+
+
+
+
+## Group Activity | Sharing Repositories
+
+Practice collaborating with Git by completing this activity.
+
+_No task yet_
+
+
+
+
+
+
+## Hacky Hour {#hackyhour}
 
 ???
 
 
 
+
+
 ## Additional Resources
 
-- [Learn Git (GitHub)](https://try.github.io)
+
 - [Git Branching (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-branching/exercises/why-branch)
 - [Open Science (Software Carpentry)](http://swcarpentry.github.io/git-novice/10-open.html)
 - [Licencing (Software Carpentry)](http://swcarpentry.github.io/git-novice/11-licensing.html)
