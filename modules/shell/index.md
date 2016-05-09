@@ -14,9 +14,19 @@ This module will introduce the shell, and how it can be used to perform data man
 
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
+-[Introducing the Shell](http://swcarpentry.github.io/shell-novice/00-intro.html)
+-[Files and Directories](http://swcarpentry.github.io/shell-novice/01-filedir.html)
+-[Creating Things](http://swcarpentry.github.io/shell-novice/02-create.html)
+
+
 ## Block 2 | Data Processing and Automation 
 
 How to automate the processing data with the shell.  
+
+-[Pipes and Filters](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
+-[Loops](http://swcarpentry.github.io/shell-novice/04-loop.html)
+-[Shell Scripts](http://swcarpentry.github.io/shell-novice/05-script.html)
+-[Finding Things](http://swcarpentry.github.io/shell-novice/06-find.html)
 
 
 ## Hacky Hour
