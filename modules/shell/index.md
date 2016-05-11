@@ -10,23 +10,27 @@ This module will introduce the shell, and how it can be used to perform data man
 [View Assessment Guide](assessment.html)
 
 
-## Block 1 | Introduction to the command line
+## Classroom | Introduction to the Command Line
 
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
--[Introducing the Shell](http://swcarpentry.github.io/shell-novice/00-intro.html)
--[Files and Directories](http://swcarpentry.github.io/shell-novice/01-filedir.html)
--[Creating Things](http://swcarpentry.github.io/shell-novice/02-create.html)
+-[Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/00-intro.html)
+-[Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-filedir.html)
+-[Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-create.html)
 
 
-## Block 2 | Data Processing and Automation 
+## Classroom | Data Processing and Automation with the Command Line
 
 How to automate the processing data with the shell.  
 
--[Pipes and Filters](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
--[Loops](http://swcarpentry.github.io/shell-novice/04-loop.html)
--[Shell Scripts](http://swcarpentry.github.io/shell-novice/05-script.html)
--[Finding Things](http://swcarpentry.github.io/shell-novice/06-find.html)
+-[Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
+-[Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-loop.html)
+-[Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-script.html)
+-[Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-find.html)
+
+
+## Independent | Command Line Exercises
+-[Try solve a muder mystery using the command line](https://github.com/veltman/clmystery)
 
 
 ## Hacky Hour
@@ -36,6 +40,6 @@ This Hacky Hour should be used to start managing and organising your data using 
 **Additional Resources**
 
 - [Lecture Slides](http://linkhere.com)
-- [Explain shell](https://www.wrike.com/project-management-guide/methodologies/)
+- [Explain shell](explainshell.com)
 - [Regex 101](https://regex101.com/) [Regexr](http://regexr.com/) These sites break down regurlar expressions term by term, explain the different expressiona and allow you to test out expressions
 {:.resources}

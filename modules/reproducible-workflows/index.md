@@ -13,7 +13,7 @@ This module will introduce you to how to conduct your research in a reproducible
 
 
 
-## Block 1 | The Importance of Reproducibility. 
+## Classroom | The Importance of Reproducibility. 
 
 
 **Resources**
@@ -23,7 +23,7 @@ This module will introduce you to how to conduct your research in a reproducible
 
 
 
-## Block 2 | Reproducibility in Practice. 
+## Classroom | Reproducibility in Practice. 
 
 
 **Resources**
@@ -45,6 +45,6 @@ Time to start using the various technical skills you have developed so far (Shel
 - [R Open Science Guide to Reproducibility in Science ](http://ropensci.github.io/reproducibility-guide/)
 - [Git can facilitate greater reproducibility and increased transparency in science](http://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7) 
 - [Ten Simple Rules for Reproducible Computational Research](Ten Simple Rules for Reproducible Computational Research)
-- [Best PRactices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+- [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
 {:.resources}
