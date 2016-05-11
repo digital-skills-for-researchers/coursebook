@@ -22,24 +22,24 @@ Introduces the **Project Management** module.
 The first week of the course focuses on planning and documentation of the project 
 in a way that enables it to be managed and tracked effectively.
 
-Module             | Task                                        | Time
--------            | -----                                       | -----
-Project Management | [Classroom: Agile, Scrum and Kanban][w1-1]  | 1:00
-Project Management | [Study 1][w1-2]                             | 0:30
-Project Management | [Classroom: Guest Lecture][w1-3]            | 1:00
-Project Management | [Study 2][w1-4]                             | 0:30
-Version Control    | [Independent: Create a GitHub Account][w1-5]| 1:00
-Project Management | [Activity 1][w1-6]                          | 1:00
-Project Management | [Homework 1][w1-7]                          | 1:00
+Module             | Task                                         | Time
+-------            | -----                                        | -----
+Course Introduction| [Classroom: Understanding Expectations][w1-0]| 1:00
+Project Management | [Classroom: Agile, Scrum and Kanban][w1-1]   | 1:00
+Project Management | [Study 1][w1-2]                              | 0:30
+Project Management | [Classroom: Guest Lecture][w1-3]             | 1:00
+Project Management | [Study 2][w1-4]                              | 0:30
+Version Control    | [Independent: Create a GitHub Account][w1-5] | 0:30
+Project Management | [Activity 1][w1-6]                           | 1:00
 {:.striped}
 
+[w1-0]: {{site.baseurl}}/modules/course-introduction#classroom--understanding-expectations
 [w1-1]: {{site.baseurl}}/modules/project-management#classroom--agile-scrum-and-kanban
 [w1-2]: {{site.baseurl}}/modules/project-management#study1
 [w1-3]: {{site.baseurl}}/modules/project-management#classroom--guest-lecture
 [w1-4]: {{site.baseurl}}/modules/project-management#study2
 [w1-5]: {{site.baseurl}}/modules/version-control#independent--create-a-github-account
 [w1-6]: {{site.baseurl}}/modules/project-management#activity1
-[w1-7]: {{site.baseurl}}/modules/project-management#activity2
 
 
 
