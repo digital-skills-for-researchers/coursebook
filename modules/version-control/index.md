@@ -15,9 +15,11 @@ This module will introduce you to the workflows used with the popular version co
 
 Register and verify your GitHub account, ready for classroom use.
 
-- [Slideshow: Creating a GitHub Account (TODO)](#)
-- [Activity: Document your GitHub Details (TODO)](#)
+- [Slideshow: Creating a GitHub Account][github-setup]
+- [Activity: Request to join course organisation (TODO)](#)
 {:.resources}
+
+[github-setup]: {{ site.slideshowsurl }}/modules/version-control/creating-a-github-account.html
 
 
 
