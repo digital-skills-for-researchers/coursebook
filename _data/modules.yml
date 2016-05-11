@@ -5,6 +5,15 @@
 #   - in-review    (75%)
 #   - completed    (100%)
 
+- name: Course Introduction
+  slug: course-introduction
+  status:
+    weeklySchedule: not-started
+    assessmentGuide: not-started
+    teachingGuide: not-started
+    teachingResources: not-started
+    assessmentResources: not-started
+
 - name: Project Management
   slug: project-management
   status:
