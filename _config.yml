@@ -1,7 +1,7 @@
 name: Digital Skills and Scholarship for Researchers
 
 baseurl: "/coursebook"
-slideshowsurl: "http://digital-skills-for-researchers.github.io/slideshows"
+slideshows: "http://digital-skills-for-researchers.github.io/slideshows"
 
 markdown: kramdown
 

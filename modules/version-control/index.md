@@ -19,7 +19,7 @@ Register and verify your GitHub account, ready for classroom use.
 - [Activity: Request to join course organisation (TODO)](#)
 {:.resources}
 
-[github-setup]: {{ site.slideshowsurl }}/modules/version-control/creating-a-github-account
+[github-setup]: {{ site.slideshows }}/modules/version-control/creating-a-github-account
 
 
 
