@@ -4,7 +4,7 @@ layout: module
 ---
 
 
-Graphs and Visualization 1 | Assessment
+Data Visualisation | Assessment
 [View Schedule for Week One](index.html)
 
 

@@ -1,10 +1,10 @@
 ---
-title: Introduction to Graphs and Visualization
+title: Data Visualization
 layout: module
 ---
 
 
-# Introduction to Graphs and Visualization
+# Data Visualization
 
 This module will introduce you to the theory of visualization, as well as how to create effective scientific visualizations in a variety of different forms. Developing your visualization skills will make you a more effective communicator. Now that you are comfortable doing basic programming in Python, you have access to some very powerful tools for visualizing your data. 
 

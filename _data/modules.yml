@@ -61,8 +61,8 @@
     teachingResources: not-started
     assessmentResources: not-started
 
-- name: Graphs and Visualisation
-  slug: graphs-and-visualisation
+- name: Data Visualisation
+  slug: data-visualisation
   status:
     weeklySchedule: not-started
     assessmentGuide: not-started
