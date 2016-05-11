@@ -21,8 +21,8 @@ An overview of the purpose of this course, from the obvious to the less obvious.
 - [Slideshow: Course Requirements][course-requirements]
 {:.resources}
 
-[course-purpose]: #
-[course-requirements]: #
+[course-purpose]: {{ site.slideshows }}/modules/course-introduction/course-purpose
+[course-requirements]: {{ site.slideshows }}/modules/course-introduction/course-requirements
 
 
 
