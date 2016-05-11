@@ -23,7 +23,7 @@ This module will introduce you to the different license available to you when yo
 
 
 
-## Block 2 | Picking a Lincense in Practice - What do you need to consider?
+## Block 2 | Picking a License in Practice - What do you need to consider?
 
 
 **Resources**
@@ -51,7 +51,7 @@ _No resources yet_
 
 
 ## Additional Resources
-
+- [The Legal Framework for Reproducible Scientific Research](https://web.stanford.edu/~vcs/papers/LFRSR12012008.pdf)
 - [Choose a license](http://choosealicense.com/) will does as it's address claims, helping you pick a appropriate license for your code.
 - [Software Licensees in Plain English](https://tldrlegal.com/) explains different licenses available in (relatively more) plain english and gives a checklist for what you can, cannot and must do for each license.
 

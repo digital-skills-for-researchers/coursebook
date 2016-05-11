@@ -6,7 +6,7 @@ layout: module
 
 # Sharing Your Data and Research
 
-This module will introduce you to how to share your research and data, both with collaborators you are working with, and others who have an interest in your research and data. Sharing 
+This module will introduce you to how to share your research and data, both with collaborators you are working with, and others who have an interest in your research and data. Sharing data doesnt come without a cost; we will discuss the different perspectives around sharing data and how they are changing.  
 
 [View Assessment Guide](assessment.html)
 
@@ -54,6 +54,6 @@ _No resources yet_
 
 ## Additional Resources
 
-- [Matplotlib beginners guide](http://matplotlib.org/users/beginner.html) 
+- [I own my data, until I don’t.](https://smallpondscience.com/2014/03/03/i-own-my-data-until-i-dont/) 
 
 {:.resources}

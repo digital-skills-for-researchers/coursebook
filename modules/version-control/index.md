@@ -73,6 +73,7 @@ Advanced functionality and commands using Git.
 - [Conflicts (Software Carpentry)](http://swcarpentry.github.io/git-novice/09-conflict.html)
 - [How to Backtrack (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-backtracking/exercises/backtracking-intro)
 - [Git Teamwork (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/remotes)
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 {:.resources}
 
 

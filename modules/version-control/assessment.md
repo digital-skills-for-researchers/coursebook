@@ -49,10 +49,13 @@ Use the log function, work out which branch to check out based on the commit com
 _Learning outcomes: ?_
 
 4. **What's Changed? Using diff**
+Using the log function, find out when a certain file was updated, then using diff work out exataly what changed over the different iterations. 
 _Learning outcomes: ?_
 
 5. **Remotes in Git**
+Sketch outline. Have two remotes (representing two different colloboartors). Use a fetch command to get their commit history. Use diff to find out which file to commit based on some criteria, then commit that to your own branch.
 _Learning outcomes: ?_
 
 6. **Collaborating with Git**
+Sketch outline. Working in pairs\group of three. Create a repository on Github. Add partners as a colloborator. First partner creates a readme file. Next partner(s) pull the fill and add content, then push it back to the remote. Now each partner introduces conflicts and the subsequent partner needs to resolve them.
 _Learning outcomes: ?_
