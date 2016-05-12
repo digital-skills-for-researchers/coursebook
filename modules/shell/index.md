@@ -48,3 +48,42 @@ This Hacky Hour should be used to start managing and organising your data using 
 - [Explain shell](https://www.wrike.com/project-management-guide/methodologies/)
 - [Regex 101](https://regex101.com/) 
 - [Regexr](http://regexr.com/) These sites break down regurlar expressions term by term, explain the different expressiona and allow you to test out expressions
+
+
+
+
+
+## Badges
+
+
+1. ### Navigating the file system
+  ![Navigator Badge](images/badges/badge.png)
+  Given a unfamiliar set of folders and files, you are able to navigate from one folder to another folder in a different heirarchy, using **cd**
+  _Learning outcomes: a_
+
+
+2. ### Creating, moving and deleting files
+  ![Organiser Badge](images/badges/badge.png)
+  Given a unfamiliar set of folders and files, you are able to copy, move and delete files from different folders.
+  _Learning outcomes: c_
+
+
+3. ### Pipes and Filters
+  ![Pied Piper Badge](images/badges/badge.png)
+  Given a folder with a set of files, you are able to find all files of a certain type, i.e ".dat", filter those files based on a criteria such as the number of lines in a file, and write the resultng list of files into a text file.
+  _Learning outcomes: d_
+
+
+4. ### Shell Scripts
+  ![Born to Shell Badge](images/badges/badge.png)
+  Create a shell script that takes a file name as a variable,
+  performs some calculations on the file data, such as number of rows, and prints the result to the consolse.
+  _Learning outcomes: d, e_
+
+
+5. ### Regular Expressions
+  ![Pattern Matcher Badge](images/badges/badge.png)
+  Create a shell script that uses a regular expression to find all files named using a certain pattern, rename those files using a different pattern, and save the list of changed files to a text file.
+  _Learning outcome: e_
+{:.badges}
+
