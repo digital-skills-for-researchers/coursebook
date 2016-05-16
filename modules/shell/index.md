@@ -7,7 +7,20 @@ layout: module
 
 This module will introduce the shell, and how it can be used to perform data management and analysis as part of your workflow. The shell is a way of accessing different functions your computer provides. You interact with the shell through the use of the command line, typing out tasks you want your pc to perform. The command line offers a powerful and succint way of automating data processing. 
 
-[View Assessment Guide](assessment.html)
+
+
+
+
+## Learning Outcomes
+
+Upon completion of this module you should be able to:
+
+- a. Navigate through a file system and list files within different folders using the commmand line
+- b. Create, move, and delete files using the command line
+- c. Run programs and open files from the command line
+- d. Combine commands, such as filters,  using pipes to perform more complex data processing tasks 
+- e. Reason about how to automate simple tasks using the command line.
+{:.learning-outcomes}
 
 
 
