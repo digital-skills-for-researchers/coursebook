@@ -9,27 +9,62 @@ layout: module
 This module will teach you the skills and concepts for effective Data Management. Simply put, Data Management is about taking care of your data so that your work isnt hindered by data issues. Your data is effectively organised and stored so you can access and understand it with ease. Effective data management goes hand in hand with effective data sharing, if you organise data well for your own use, collaborators and other users of the data will also benefit.
 
 
-[View Assessment Guide](assessment.html)
 
 
 
-## Block 1 | What is Data Management?
+## Learning Outcomes
+
+Upon completion of this module you should be able to:
+
+
+- a. Create a file naming scheme and organise data in an accessible and logical manner
+- b. Create README files outlining project purpose, data collection processes, naming conventions 
+- c. Store data (where possible) in an open, readable format that is logically structured. 
+- d. Understand the different data storage options available and their advantages and disadvantages.
+- e. Create meta data for scientific data that follows common standards. Understand the prupose of meta data; how it aids in discoverability and describing data.
+- f. Understand issues around data sensitivity, and how to mitigate and manage these issues  
 
 
 
-**Resources**
 
-- [Lecture Slides](http://linkhere.com)
+
+## Independent | Creating a Project Environment
+
+Create a virtual desktop to keep your project files separate from your computer.
+
+- [Slideshow: Create a Virtual Machine with Docker]({{ site.slideshows}}/data-management/datasci-on-docker)
+
+
+
+
+
+
+## Classroom | What is Data Management?
+
+TODO: Short summary of this classroom block
+
+- [Lecture: Introduction]({{ site.slideshows }}/data-management/introduction)
+- [Activity?](#)
+- [Lecture: Organising Your Project]({{ site.slideshows }}/data-management/organising-your-project)
+- [Activity?](#)
+- [Lecture: Security, Protection and Privacy]({{ site.slideshows }}/data-management/security-protection-privacy)
+- [Activity?](#)
 {:.resources}
 
 
 
-## Block 2 | Storing data, Legal and Ethical Issues, Data Management Plans
 
 
-**Resources**
+
+## Classroom | Storing data, Legal and Ethical Issues, Data Management Plans
+
+TODO: Short summary of this classroom block
 
 _No resources yet_
+
+
+
+
 
 
 ## Hacky Hour | Project Data Analysis
@@ -40,6 +75,10 @@ This Hacky Hour should be used to start managing your project data using the pri
 
 - [Hacky Hour Worksheet](hacky-hour-worksheet.html)
 {:.resources}
+
+
+
+
 
 
 ## Additional Resources
@@ -54,6 +93,33 @@ This Hacky Hour should be used to start managing your project data using the pri
 
 
 
+
+## Badges
+
+
+1. ### File naming and organisation
+  ![Namer Badge](images/badges/badge.png)
+  Given a list of poorly and inconsistently named files, come up with a improved naming convention. Create a folder structure for the files and move them into it.  
+  _Learning outcomes: a_
+
+
+2. ### Create a "README"
+  ![ReadMe Badge](images/badges/badge.png)
+  Given a simple scientific scenario with experimental data, create a README.txt file.
+  _Learning outcomes: b_
+
+
+3. ### Creating meta data
+  ![Meta Badge](images/badges/badge.png)
+  Using the same scenario as Badge 2, create meta data using [STANDARD X]
+  _Learning outcomes: c_
+
+
+4. ### Intellectual and ethical issues w.r.t data
+  ![Privacy Badge](images/badges/badge.png)
+  Using same scenario as Badges 2 and 3, identify how the raw data might need to be collected (anonymization), stored for a length of time/destroyed after study as well as limitations around sharing for IP reasons.  
+  _Learning outcomes: d_
+{:.badges}
 
 
 
