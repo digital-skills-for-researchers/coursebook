@@ -30,7 +30,7 @@
     weeklySchedule: not-started
     assessmentGuide: not-started
     teachingGuide: not-started
-    teachingResources: not-started
+    teachingResources: in-progress
     assessmentResources: not-started
 
 - name: Shell
