@@ -8,8 +8,6 @@ layout: module
 
 This module will introduce you to programming, specifically with Python. Python is a very common language for scientific computing, there is a good chance if a collaborator of yours can program, they will know Python. Python comes with "batteries included", there are extensive libraries available for a wide range of functionality.  The skills you develop in this module will be valid to any programming language you might use in future, not just python.     
 
-[View Assessment Guide](assessment.html)
-
 
 
 
@@ -70,4 +68,39 @@ This Hacky Hour should be used to start writing programs that will help you anal
 
 {:.resources}
 
+
+
+
+
+## Badges
+
+1. ### Simple calculations using variables
+  Perform basic scientific calculations such as changing from degrees Kelvin to degrees Celsius, using named variables and displaying the result 
+  _Learning outcomes: a_
+
+
+2. ### Loops and Conditional Statements
+  Given a basic data set, loop through the data and check whether it is valid according to the criteria supplied.
+  _Learning outcomes: b_
+
+
+3. ### Arrays and lists
+  Using indexing and slicing, can find the value and index of the minimum, maximum, and other simple operations, of different ranges within arrays and lists. 
+  _Learning outcomes: c_
+
+
+4. ### Creating and Composing Functions
+  Create a simple function that performs a scientific calculation. Use this function in a new function [to  do something]
+  _Learning outcomes: d_
+
+
+5. ### Defensive Programming
+  Given a simple function, can identify what pre and post conditions need to be tested for, and identify the invariants in the function. 
+  _Learning outcomes: d, e_
+
+
+6. ### Test Driven Development
+  Given the outline of a simple function, you can create a series of tests that check function validity, corner cases and faulty/incorrect input.
+  _Learning outcome: e_
+{:.badges}
 
