@@ -16,8 +16,8 @@ Upon completion of this module you should be able to:
 - a. Navigate through a file system and list files within different folders using the commmand line
 - b. Create, move, and delete files using the command line
 - c. Run programs and open files from the command line
-- d. Combine commands, such as filters,  using pipes to perform more complex data processing tasks 
-- e. Reason about how to automate simple tasks using the command line.
+- d. Combine commands, such as filters,  using pipes to perform more complex data processing tasks
+ - e. Reason about how to automate simple tasks using the command line.
 {:.learning-outcomes}
 
 

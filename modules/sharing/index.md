@@ -58,5 +58,4 @@ During this hour, start sharing your data. By now, all of your code should be on
 
 - [I own my data, until I don’t.](https://smallpondscience.com/2014/03/03/i-own-my-data-until-i-dont/) 
 - -[The Ethics of Data Sharing and Reuse in Biology](https://www.dataone.org/sites/all/documents/DukePorter2013.pdf)
-
 {:.resources}

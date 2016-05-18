@@ -10,8 +10,8 @@ layout: module
 
 ## Learning Outcomes
 
-Upon completion of this module you should be able to:
-
+Upon completion of this moduleyou should be able to:
+ 
 - a. Understand what is required for published research to be reproducible
 - b. Understand the benefits and costs of publishing reproducible research, the practical impacts that arise. 
 - c. Understand the current landscape of publishing reproducible research, and how it came to this point.
