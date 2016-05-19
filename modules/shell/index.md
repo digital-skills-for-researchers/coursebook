@@ -30,10 +30,22 @@ Upon completion of this module you should be able to:
 
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
+- [Slideshow: Intro (TODO: Tanya)](#)
 - [Introducing the Shell](http://swcarpentry.github.io/shell-novice/00-intro.html)
+- [Slideshow: Files and Dirs (TODO: Tanya)](#)
 - [Files and Directories](http://swcarpentry.github.io/shell-novice/01-filedir.html)
+- [Slideshow: Things (TODO: Tanya)](#)
 - [Creating Things](http://swcarpentry.github.io/shell-novice/02-create.html)
 
+
+
+
+
+## Independent | Murder Mystery
+
+Complete this game thingy in your own time to practice commands.
+
+- [Linky (TODO: Anthony)](#)
 
 
 
@@ -42,20 +54,33 @@ An introduction to the command line - how to navigate directories and create, mo
 
 How to automate the processing data with the shell.  
 
+- [Slideshow: Pipes (TODO)](#)
 - [Pipes and Filters](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
+- [Slideshow: Loops (TODO)](#)
 - [Loops](http://swcarpentry.github.io/shell-novice/04-loop.html)
+- [Slideshow: Scripts (TODO)](#)
 - [Shell Scripts](http://swcarpentry.github.io/shell-novice/05-script.html)
+- [Slideshow: Finding Things (TODO)](#)
 - [Finding Things](http://swcarpentry.github.io/shell-novice/06-find.html)
 
 
 
 
 
-## Hacky Hour
+## Group | Stats
+
+Idea: gather stats on your project using commands you've learned. Document the command and the output of the command. Compose a script that outputs these current stats for you project.
 
 This Hacky Hour should be used to start managing and organising your data using the skills and concepts you learnt in the Data Management module, using the command line where possible. 
 
-**Additional Resources**
+- [Sample Data (TODO)](#)
+- [Instructions (TODO)](#)
+
+
+
+
+
+## Additional Resources
 
 - [Lecture Slides](http://linkhere.com)
 - [Explain shell](https://www.wrike.com/project-management-guide/methodologies/)
