@@ -26,16 +26,35 @@ Upon completion of this module you should be able to:
 
 
 
-## Classroom | Introduction to the command line
+## Classroom | Introduction to the Command Line
 
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
 - [Slideshow: Intro (TODO: Tanya)](#)
-- [Introducing the Shell](http://swcarpentry.github.io/shell-novice/00-intro.html)
+- [Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/00-intro.html)
 - [Slideshow: Files and Dirs (TODO: Tanya)](#)
-- [Files and Directories](http://swcarpentry.github.io/shell-novice/01-filedir.html)
+- [Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-filedir.html)
 - [Slideshow: Things (TODO: Tanya)](#)
-- [Creating Things](http://swcarpentry.github.io/shell-novice/02-create.html)
+- [Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-create.html)
+
+
+
+
+
+## Classroom | Data Processing and Automation 
+
+How to automate the processing of data with the shell.  
+
+- [Slideshow: Pipes (TODO)](#)
+- [Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
+- [Slideshow: Loops (TODO)](#)
+- [Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-loop.html)
+- [Slideshow: Scripts (TODO)](#)
+- [Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-script.html)
+- [Slideshow: Finding Things (TODO)](#)
+- [Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-find.html)
+
+
 
 
 
@@ -45,23 +64,12 @@ An introduction to the command line - how to navigate directories and create, mo
 
 Complete this game thingy in your own time to practice commands.
 
-- [Linky (TODO: Anthony)](#)
+- [Murder Mystery Game](https://github.com/veltman/clmystery)
 
 
 
 
-## Classroom | Data Processing and Automation 
 
-How to automate the processing data with the shell.  
-
-- [Slideshow: Pipes (TODO)](#)
-- [Pipes and Filters](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
-- [Slideshow: Loops (TODO)](#)
-- [Loops](http://swcarpentry.github.io/shell-novice/04-loop.html)
-- [Slideshow: Scripts (TODO)](#)
-- [Shell Scripts](http://swcarpentry.github.io/shell-novice/05-script.html)
-- [Slideshow: Finding Things (TODO)](#)
-- [Finding Things](http://swcarpentry.github.io/shell-novice/06-find.html)
 
 
 
@@ -82,10 +90,9 @@ This Hacky Hour should be used to start managing and organising your data using 
 
 ## Additional Resources
 
-- [Lecture Slides](http://linkhere.com)
-- [Explain shell](https://www.wrike.com/project-management-guide/methodologies/)
-- [Regex 101](https://regex101.com/) 
-- [Regexr](http://regexr.com/) These sites break down regurlar expressions term by term, explain the different expressiona and allow you to test out expressions
+- [Explain shell](explainshell.com)
+- [Regex 101](https://regex101.com/) [Regexr](http://regexr.com/) These sites break down regurlar expressions term by term, explain the different expressiona and allow you to test out expressions
+
 
 
 
@@ -124,4 +131,5 @@ This Hacky Hour should be used to start managing and organising your data using 
   Create a shell script that uses a regular expression to find all files named using a certain pattern, rename those files using a different pattern, and save the list of changed files to a text file.
   _Learning outcome: e_
 {:.badges}
+
 

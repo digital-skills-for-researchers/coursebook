@@ -30,14 +30,14 @@
     weeklySchedule: not-started
     assessmentGuide: not-started
     teachingGuide: not-started
-    teachingResources: not-started
+    teachingResources: in-progress
     assessmentResources: not-started
 
 - name: Shell
   slug: shell
   status:
-    weeklySchedule: not-started
-    assessmentGuide: not-started
+    weeklySchedule: started
+    assessmentGuide: started
     teachingGuide: not-started
     teachingResources: not-started
     assessmentResources: not-started
@@ -45,7 +45,7 @@
 - name: Programming
   slug: programming
   status:
-    weeklySchedule: not-started
+    weeklySchedule: status
     assessmentGuide: not-started
     teachingGuide: not-started
     teachingResources: not-started
@@ -76,16 +76,7 @@
     weeklySchedule: not-started
     assessmentGuide: not-started
     teachingGuide: not-started
-    teachingResources: not-started
-    assessmentResources: not-started
-
-- name: Identifiers
-  slug: identifiers
-  status:
-    weeklySchedule: not-started
-    assessmentGuide: not-started
-    teachingGuide: not-started
-    teachingResources: not-started
+    teachingResources: started
     assessmentResources: not-started
 
 - name: Sharing

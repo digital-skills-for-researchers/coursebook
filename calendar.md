@@ -50,14 +50,14 @@ Project Management | [Activity 1][w1-6]                           | 1:00
 
 Introduces the **Data Management** module.
 
-Module             | Task    | Format    | Time
------------------- | ------- | --------- | -----
-Data Management | Block 1 | Classroom | 1:30
-Data Management | Quiz 1 | Independent | 0:30
-Data Management | Block 2 | Classroom | 1:30
-Data Management | Quiz 2 | Independent | 0:30
-Data Management | Group Study | Group | 2:00
-Data Management | Homework 1 | Hacky Hour | 1:00
+Module             | Task      | Time
+------------------ |  --------- | -----
+Data Management |  Classroom | 1:30
+Data Management |  Independent | 0:30
+Data Management |  Classroom | 1:30
+Data Management |  Independent | 0:30
+Data Management |  Group | 2:00
+Data Management |  Hacky Hour | 1:00
 {:.striped}
 
 
@@ -69,12 +69,15 @@ Data Management | Homework 1 | Hacky Hour | 1:00
 
 Introduces the **Shell** module.
 
-Module             | Task    | Format    | Time
------------------- | ------- | --------- | -----
-Data Management | Block 1 | Classroom | 1:30
+Module             | Task      | Time
+------------------ | -------  | -----
+Computing Foundations | [Classroom: Introduction to the Command Line][w3-1]  | 1:30
+Computing Foundations | [Independent: Command Line Exercises][w3-1]  | ?:??
+Computing Foundations | [Classroom: Data Processing and Automation with the Command Line][w3-1]  | 1:30
 
-
-
+[w3-1]: {{site.baseurl}}/modules/shell#classroom--introduction-to-the-command-line
+[w3-2]: {{site.baseurl}}/modules/shell#Independent--command-line-exercises
+[w3-3]: {{site.baseurl}}/modules/shell#classroom--data-processing-and-automation-with-the-command-line
 
 
 
@@ -82,11 +85,13 @@ Data Management | Block 1 | Classroom | 1:30
 
 Introduces the **Programming** module.
 
-Module             | Task    | Format    | Time
------------------- | ------- | --------- | -----
-Data Management | Block 1 | Classroom | 1:30
+Module             |  Task    | Time
+------------------ |  --------- | -----
+Coding with Purpose | [Classroom: Getting Started with Python][w4-1] | 1:30
+Coding with Purpose | [Classroom: Creating Functions and Good Programming practices][w4-2] | 1:30
 
-
+[w4-1]: {{site.baseurl}}/modules/programming#classroom--getting-started-with-python
+[w4-2]: {{site.baseurl}}/modules/programming#classroom--creating-functions-and-good-development-practices
 
 
 ### Week 5 | Managing Versions

@@ -6,12 +6,13 @@ layout: module
 
 # Programming
 
-This module will introduce you to programming using Python, a popular language for use in scientific computing. There are many code libraries built on top of Python, allowing you to extend its functionality for a wide range of purposes.  The skills you develop in this module will also be relevant in any other programming languages you may use in future.  
+This module will introduce you to programming using Python, a popular language for use in scientific computing. There are many code libraries built on top of Python, allowing you to extend its functionality for a wide range of purposes.  The skills you develop in this module will also be relevant in any other programming languages you may use in future.
 
 
 
 
 ## Independent | Use Python
+
 
 Learn how to create and run Python files.
 
@@ -21,15 +22,17 @@ Learn how to create and run Python files.
 
 
 
+
 ## Classroom | Getting Started With Python
 
 Getting started with Python. Assigning values to variables, control structures and storing data.
 
-- [Getting Started](http://swcarpentry.github.io/python-novice-inflammation/)
-- [Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html)
-- [Storing Multiple Values in Lists](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
-- [Analyzing Data from Multiple Files](http://swcarpentry.github.io/python-novice-inflammation/04-files.html)
-- [Making Choices](http://swcarpentry.github.io/python-novice-inflammation/05-cond.html)
+
+- [Activity: Getting Started (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/)
+- [Activity: Repeating Actions with Loops (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html)
+- [Activity: Storing Multiple Values in Lists (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
+- [Activity: Analysing Data from Multiple Files (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/04-files.html)
+- [Activity: Making Choices (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/05-cond.html)
 
 
 
@@ -37,15 +40,17 @@ Getting started with Python. Assigning values to variables, control structures a
 
 
 
-## Classroom | Creating functions and Good Development Practices
+
+## Classroom | Creating Functions and Good Development Practices
 
 Creating functions, Defensive Programming and Test Driven Development.
 
-- [Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func.html)
-- [Errors and Exceptions](http://swcarpentry.github.io/python-novice-inflammation/07-errors.html)
-- [Defensive Programming](http://swcarpentry.github.io/python-novice-inflammation/08-defensive.html)
-- [Debugging](http://swcarpentry.github.io/python-novice-inflammation/09-debugging.html)
-- [Command-Line Programs](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline.html)
+- [Activity: Creating Functions (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/06-func.html)
+- [Activity: Errors and Exceptions (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/07-errors.html)
+- [Activity: Defensive Programming (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/08-defensive.html)
+- [Activity: Debugging (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/09-debugging.html)
+- [Activity: Command-Line Programs (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline.html)
+
 
 
 
@@ -60,7 +65,7 @@ Begin writing programs that will help you analyse the data from your course proj
 {:.resources}
 
 
-
+## Independent Activities ## 
 
 
 

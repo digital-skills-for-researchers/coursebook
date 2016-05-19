@@ -6,14 +6,14 @@ layout: module
 
 # Reproducible Work flows
 
-This module will introduce you to how to conduct your research in a reproducible way. As you are aware, reproducibility is a core tenet of science. So far in this course you have learnt a number of tools (shell, Git, Python) that will help you work in a reproducible way. Automating your work flow with these tools will help increase the speed at which you work, and decrease the number of errors you make.
+This module will introduce you to how to conduct your research in a reproducible way. As you are aware, reproducibility is a core tenet of science. (One more line about science in crisis or something). So far in this course you have learnt a number of tools (shell, Git, Python) that will help you work in a reproducible way. Automating your work flow with these tools will help increase the speed at which you work, and decrease the number of errors you make. (Something about transparency of your work to yourself and others)
 
 [View Assessment Guide](assessment.html)
 
 
 
 
-## Block 1 | The Importance of Reproducibility. 
+## Classroom | The Importance of Reproducibility. 
 
 
 **Resources**
@@ -23,8 +23,9 @@ This module will introduce you to how to conduct your research in a reproducible
 
 
 
-## Block 2 | Reproducibility in Practice. 
+## Classroom | Reproducibility in Practice. 
 
+R
 
 **Resources**
 
@@ -42,9 +43,11 @@ Time to start using the various technical skills you have developed so far (Shel
 
 
 ## Additional Resources
+-[A Gallery of Interesting Ipython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#mathematics-physics-chemistry-biology)
+These will help show you what is possible using Ipython Notebooks
 - [R Open Science Guide to Reproducibility in Science ](http://ropensci.github.io/reproducibility-guide/)
 - [Git can facilitate greater reproducibility and increased transparency in science](http://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7) 
 - [Ten Simple Rules for Reproducible Computational Research](Ten Simple Rules for Reproducible Computational Research)
-- [Best PRactices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+- [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
 {:.resources}

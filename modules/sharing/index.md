@@ -35,7 +35,9 @@ _No resources yet_
 
 
 
-## Hacky Hour | ????
+## Hacky Hour | Share Your Data
+
+During this hour, start sharing your data. By now, all of your code should be on Github, so focus on sharing other data such as the raw data you have, as well as documents on methodology or your lab notebooks. Make sure your data is cleanly organised and formatted, using what you learnt in the Data Management module. Try include meta data so that others can disover your data more easily. And don't forget to include a license!
  
 
 
@@ -55,5 +57,5 @@ _No resources yet_
 ## Additional Resources
 
 - [I own my data, until I don’t.](https://smallpondscience.com/2014/03/03/i-own-my-data-until-i-dont/) 
-
+- -[The Ethics of Data Sharing and Reuse in Biology](https://www.dataone.org/sites/all/documents/DukePorter2013.pdf)
 {:.resources}
