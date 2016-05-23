@@ -13,7 +13,7 @@ This module will introduce you to how to share your research and data, both with
 
 
 
-## Block 1 | ????
+## Classroom | ????
 
 
 
@@ -25,7 +25,7 @@ This module will introduce you to how to share your research and data, both with
 
 
 
-## Block 2 | ????
+## Classroom | ????
 
 
 **Resources**
@@ -35,7 +35,7 @@ _No resources yet_
 
 
 
-## Hacky Hour | Share Your Data
+## Group | Share Your Data
 
 During this hour, start sharing your data. By now, all of your code should be on Github, so focus on sharing other data such as the raw data you have, as well as documents on methodology or your lab notebooks. Make sure your data is cleanly organised and formatted, using what you learnt in the Data Management module. Try include meta data so that others can disover your data more easily. And don't forget to include a license!
  

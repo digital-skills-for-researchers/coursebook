@@ -32,7 +32,7 @@ R
 _No resources yet_
 
 
-## Hacky Hour | Make your workflow reproducible
+## Group | Make your workflow reproducible
 
 Time to start using the various technical skills you have developed so far (Shell, Git, Python) in the course towards creating a reproducible work flow. During this Hacky Hour you should start/continue working on making your work flow for this project completely reproducible. Document your work flow, clean up your code and push it to your Github. 
 

@@ -13,7 +13,7 @@ This module will introduce you to the different license available to you when yo
 
 
 
-## Block 1 | What are Licenses and Why do we use them?
+## Classroom | What are Licenses and Why do we use them?
 
 
 **Resources**
@@ -23,7 +23,7 @@ This module will introduce you to the different license available to you when yo
 
 
 
-## Block 2 | Picking a License in Practice - What do you need to consider?
+## Classroom | Picking a License in Practice - What do you need to consider?
 
 
 **Resources**
@@ -33,7 +33,7 @@ _No resources yet_
 
 
 
-## Hacky Hour | License Your data
+## Independent | License Your data
 
 
 

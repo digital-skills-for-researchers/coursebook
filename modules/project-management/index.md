@@ -61,7 +61,7 @@ _No resources yet_
 
 
 
-## Hacky Hour | Personal Kanban
+## Independent | Personal Kanban
 
 This Hacky Hour should be used to plan and document your project using the methods learned during lectures. Complete the worksheet and have it signed off by a supervisor.
 
