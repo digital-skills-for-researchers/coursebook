@@ -5,7 +5,7 @@ layout: module
 
 # Shell
 
-This module will introduce the shell, and how it can be used to perform data management and analysis as part of your workflow. The shell is a way of accessing different functions your computer provides. You interact with the shell through the use of the command line, typing out tasks you want your pc to perform. The command line offers a powerful and succint way of automating data processing. 
+This module will introduce you to the benefits of using shell commands to perform data management and analysis as part of your workflow. The shell offers a powerful and succint way of accessing the core functionality of your computer system, and can be used to automate data processing. You interact with the shell via the command line, typing out tasks you want your computer to perform.
 
 
 
