@@ -60,15 +60,19 @@ Introduction to the basics of Version Control, Git and GitHub.
 
 - [Lecture: Version Control Introduction][intro]
 - [Activity: Install and Configure Git (Software Carpentry)][install]
-- [Lecture: Repositories (TODO)](slideshows/repositories.html)
-- [Activity: Create a Repository (Software Carpentry)](http://swcarpentry.github.io/git-novice/03-create.html)
-- [Lecture: Git Workflow (TODO)](slideshows/git-workflow.html)
+- [Lecture: Repositories (TODO)][repos]
+- [Activity: Create a Repository (Software Carpentry)][create-repo]
+- [Lecture: Git Workflow (TODO)][wkflow-slides]
 - [Activity: Tactile Git Workflow (TODO)](activities/tactile-git-workflow.html)
-- [Activity: Shell Git Workflow (Software Carpentry)](http://swcarpentry.github.io/git-novice/04-changes.html)
+- [Activity: Shell Git Workflow (Software Carpentry)][sc-wkflow]
 {:.resources}
 
 [intro]: {{site.slideshows}}/modules/version-control/introduction
 [install]: http://swcarpentry.github.io/git-novice/02-setup.html
+[repos]: {{site.slideshows}}/modules/version-control/repositories
+[create-repo]: http://swcarpentry.github.io/git-novice/03-create.html
+[wkflow-slides]: {{site.slideshows}}/modules/version-control/git-workflow
+[sc-wkflow]: http://swcarpentry.github.io/git-novice/04-changes.html
 
 
 **Resources**
@@ -76,6 +80,11 @@ Introduction to the basics of Version Control, Git and GitHub.
 - [Version Control with Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/)
 - [Automated Version Control (Software Carpentry)](http://swcarpentry.github.io/git-novice/01-basics.html)
 {:.resources}
+
+
+
+
+
 
 
 
@@ -151,29 +160,36 @@ _No task yet_
 
 ## Badges
 
-1. **Git Status and Logs**
+1. ### Git Status and Logs
+![Badge](images/badges/badge.png)
 Given a git repository, can use git status and git log to answer questions about the number of commits, when they were made, what files are committed and what files are staged. 
 _Learning outcomes: ?_
 
-2. **Ignoring files and folders**
+2. ### Ignoring files and folders
+![Badge](images/badges/badge.png)
 Given a git repository, can edit the config file to ignore all files of certain types, as well as all files contained within certain folders.
 _Learning outcomes: ?_
 
-3. **Checking out branches**
+3. ### Checking out branches
+![Badge](images/badges/badge.png)
 Use the log function, work out which branch to check out based on the commit comments, checkout a file, revert to the original branch, anc commit the file.
 _Learning outcomes: ?_
 
-4. **What's Changed? Using diff**
+4. ### What's Changed? Using diff
+![Badge](images/badges/badge.png)
 Using the log function, find out when a certain file was updated, then using diff work out exataly what changed over the different iterations. 
 _Learning outcomes: ?_
 
-5. **Remotes in Git**
+5. ### Remotes in Git
+![Badge](images/badges/badge.png)
 Sketch outline. Have two remotes (representing two different colloboartors). Use a fetch command to get their commit history. Use diff to find out which file to commit based on some criteria, then commit that to your own branch.
 _Learning outcomes: ?_
 
-6. **Collaborating with Git**
+6. ### Collaborating with Git
+![Badge](images/badges/badge.png)
 Sketch outline. Working in pairs\group of three. Create a repository on Github. Add partners as a colloborator. First partner creates a readme file. Next partner(s) pull the fill and add content, then push it back to the remote. Now each partner introduces conflicts and the subsequent partner needs to resolve them.
 _Learning outcomes: ?_
+{:.badges}
 
 
 
