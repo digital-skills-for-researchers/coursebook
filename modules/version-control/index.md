@@ -58,14 +58,17 @@ Introduction to the basics of Version Control, Git and GitHub.
 
 **Schedule**
 
-- [Lecture: Version Control Introduction (TODO)](slideshows/version-control-intro.html)
-- [Activity: Install and Configure Git (Software Carpentry)](http://swcarpentry.github.io/git-novice/02-setup.html)
+- [Lecture: Version Control Introduction][intro]
+- [Activity: Install and Configure Git (Software Carpentry)][install]
 - [Lecture: Repositories (TODO)](slideshows/repositories.html)
 - [Activity: Create a Repository (Software Carpentry)](http://swcarpentry.github.io/git-novice/03-create.html)
 - [Lecture: Git Workflow (TODO)](slideshows/git-workflow.html)
 - [Activity: Tactile Git Workflow (TODO)](activities/tactile-git-workflow.html)
 - [Activity: Shell Git Workflow (Software Carpentry)](http://swcarpentry.github.io/git-novice/04-changes.html)
 {:.resources}
+
+[intro]: {{site.slideshows}}/modules/version-control/introduction
+[install]: http://swcarpentry.github.io/git-novice/02-setup.html
 
 
 **Resources**
