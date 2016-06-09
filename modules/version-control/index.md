@@ -62,7 +62,7 @@ Introduction to the basics of Version Control, Git and GitHub.
 - [Activity: Install and Configure Git (Software Carpentry)][install]
 - [Lecture: Repositories][repos]
 - [Activity: Create a Repository (Software Carpentry)][create-repo]
-- [Lecture: Git Workflow (TODO)][wkflow-slides]
+- [Lecture: Git Workflow][wkflow-slides]
 - [Activity: Tactile Git Workflow (TODO)](activities/tactile-git-workflow.html)
 - [Activity: Shell Git Workflow (Software Carpentry)][sc-wkflow]
 {:.resources}
