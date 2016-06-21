@@ -32,7 +32,7 @@ Upon completion of this module you should be able to:
 
 ## Classroom | Agile, Scrum and Kanban
 
-Overview of these things, why, what they mean.
+Overview of these things, why, and what they mean.
 
 
 **Resources**
