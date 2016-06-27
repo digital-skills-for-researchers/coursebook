@@ -5,10 +5,17 @@ layout: activity
 
 # The Coin Game
 
+_Adapted from [The Penny Game][source] at [LeanSimulations.org][author]._
+
+[source]: http://www.leansimulations.org/2010/11/penny-game.html
+[author]: http://www.leansimulations.org
+
 ## What You Need
 
 - A stack of 10 coins for each group of three people.
 - A timer/stopwatch
+
+_Note: Use playing cards if coins are not available._
 
 
 
@@ -53,11 +60,5 @@ Time each team and compare the speed to completion. Compare the results with rou
 
 **Both teams:**
 - Same rules as before
-- 
+- When the change request is made, all in-progress work must return to the start of the workflow
 
-
-
-
-## Credit
-
-http://www.leansimulations.org/2010/11/penny-game.html
