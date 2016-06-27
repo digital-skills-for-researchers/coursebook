@@ -29,17 +29,46 @@ Upon completion of this module you should be able to:
 
 
 
+## Classroom | Being Agile
 
-## Classroom | Agile, Scrum and Kanban
+- [Lecture: Introduction][intro]
+- [Activity: Coin Flip Game][coingame]
+- [Lecture: Agile Manifesto][manifesto]
+- [Activity: Agile Mindset Workshop][agile-poster]
+- [Lecture: Agile Teams][agile-teams]
+- [Activity: Team Charter: TODO][charter]
 
-Overview of these things, why, what they mean.
+[intro]: {{ site.slideshows }}/modules/project-management/introduction
+[coingame]: activities/coin-game.html
+[manifesto]: {{ site.slideshows }}/modules/project-management/agile-manifesto
+[agile-poster]: activities/agile-poster.html
+[agile-teams]: {{ site.slideshows }}/modules/project-management/agile-teams
+[charter]: #
 
 
-**Resources**
 
-- [Lecture Slides](http://linkhere.com)
-- [Project Management Methodologies](https://www.wrike.com/project-management-guide/methodologies/)
-{:.resources}
+
+## Classroom | Agile Tools and Processes
+
+- [Lecture: Scrum]()
+- [Activity: Practicing Scrum]()
+- [Lecture: User Stories: TODO]()
+- [Activity: Writing User Stories: TODO]()
+- [Lecture: ??]()
+- [Lecture: Roles of Scrum: TODO]()
+- [Activity: Assigning Roles: TODO]()
+- [Lecture: Project tracking (Kanban): TODO]()
+- [Activity: Set up a Kanban Board: TODO]()
+
+
+
+
+
+## Independent | ??
+
+- [Write Elevator Pitch]()
+- [Write Project Charter]()
+
 
 
 
@@ -84,6 +113,9 @@ This Hacky Hour should be used to plan and document your project using the metho
 - [Agile Chalk Talk: Story Points (video)](https://www.youtube.com/watch?v=90Xx8QVnXRc)
 - [Introduction to Scrum - 7 Minutes (video)](https://www.youtube.com/watch?v=9TycLR0TqFA)
 - [Agile Samurai (book)](TODO)
+- [The Mythical Man Month (essay)]()
+- [Project Management Methodologies](https://www.wrike.com/project-management-guide/methodologies/)
+- [Making Sense of MVP (blog post)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 {:.resources}
 
 
