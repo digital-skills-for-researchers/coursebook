@@ -33,7 +33,8 @@ Upon completion of this module you should be able to:
 Create a virtual desktop to keep your project files separate from your computer.
 
 - [Slideshow: Create a Virtual Machine with Docker]({{ site.slideshows}}/data-management/datasci-on-docker)
-
+- [Slideshow: Windows Environment (TODO: Tanya)](#)
+- [Slideshow: Mac Environment (TODO: Tanya)](#)
 
 
 
@@ -67,13 +68,13 @@ _No resources yet_
 
 
 
-## Hacky Hour | Project Data Analysis
+## Independent | Project Data Analysis
 
 This Hacky Hour should be used to start managing your project data using the principles taught in this module. Think about how to name and organise your files. Start creating a data management plan, so that your data can live beyond the time frame of your project.   
 
 **Resources**
 
-- [Hacky Hour Worksheet](hacky-hour-worksheet.html)
+- [Data Management Plan Worksheet (TODO: Anthony)](#)
 {:.resources}
 
 

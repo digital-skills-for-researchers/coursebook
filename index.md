@@ -6,26 +6,25 @@ layout: index
 
 # Digital Skills and Scholarship for Researchers
 
+This course is designed to teach skills and scholarship at the leading edge of digital best practice for science research.
 
-## Course Development Status
+All content is provided in a modular structure, organised by topic. The content can be explored as discrete [modules][], in the order suggested in our [calendar][], or even in [your own creative way][coursebuilder].
 
-**Every module should have:**
 
-- **Weekly Schedule**
-  Plan the timeline for delivery, class hours and activities to complete.
+## Explore Modules
+[Click here][modules]
 
-- **Teaching Guide**
-  Guide for teachers on how to deliver the courseware and key things to pay attention to.
 
-- **Teaching Resources**
-  Slideshows, videos, activity instructions, everything needed to teach with.
+## View Calendar
+[Click here][calendar]
 
-- **Assessment Guide**
-  Learning outcomes, badges and how they will be assessed.
 
-- **Assessment Resources**
-  Quizzes, homework sheets and assignment descriptions.
+## Build Custom Course
+[Click here][coursebuilder]
 
-<br>
 
-{% include project-progress.html %}
+
+
+[modules]: {{ site.baseurl }}/modules
+[calendar]: {{ site.baseurl }}/calendar.html
+[coursebuilder]: {{ site.baseurl }}/coursebuilder.html

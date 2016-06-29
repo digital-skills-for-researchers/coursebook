@@ -1,7 +1,0 @@
-Scrum
-
-Agile
-
-Kanban
-
-Lean

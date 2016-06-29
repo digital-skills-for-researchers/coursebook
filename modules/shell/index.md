@@ -5,33 +5,10 @@ layout: module
 
 # Shell
 
-This module will introduce the shell, and how it can be used to perform data management and analysis as part of your workflow. The shell is a way of accessing different functions your computer provides. You interact with the shell through the use of the command line, typing out tasks you want your pc to perform. The command line offers a powerful and succint way of automating data processing. 
+This module will introduce you to the benefits of using shell commands to perform data management and analysis as part of your workflow. The shell offers a powerful and succint way of accessing the core functionality of your computer system, and can be used to automate data processing. You interact with the shell via the command line, typing out tasks you want your computer to perform.
 
 
 
-
-## Classroom | Introduction to the Command Line
-
-An introduction to the command line - how to navigate directories and create, move, and delete files
-
--[Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/00-intro.html)
--[Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-filedir.html)
--[Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-create.html)
-
-
-## Classroom | Data Processing and Automation with the Command Line
-
-How to automate the processing data with the shell.  
-
--[Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
--[Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-loop.html)
--[Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-script.html)
--[Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-find.html)
-
-
-## Independent | Command Line Exercises
--[Try solve a muder mystery using the command line](https://github.com/veltman/clmystery)
-=======
 
 
 ## Learning Outcomes
@@ -49,13 +26,16 @@ Upon completion of this module you should be able to:
 
 
 
-## Classroom | Introduction to the command line
+## Classroom | Introduction to the Command Line
 
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
-- [Introducing the Shell](http://swcarpentry.github.io/shell-novice/00-intro.html)
-- [Files and Directories](http://swcarpentry.github.io/shell-novice/01-filedir.html)
-- [Creating Things](http://swcarpentry.github.io/shell-novice/02-create.html)
+- [Slideshow: Intro (TODO: Tanya)](#)
+- [Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/00-intro.html)
+- [Slideshow: Files and Dirs (TODO: Tanya)](#)
+- [Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-filedir.html)
+- [Slideshow: Things (TODO: Tanya)](#)
+- [Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-create.html)
 
 
 
@@ -63,33 +43,56 @@ An introduction to the command line - how to navigate directories and create, mo
 
 ## Classroom | Data Processing and Automation 
 
-How to automate the processing data with the shell.  
+How to automate the processing of data with the shell.  
 
-- [Pipes and Filters](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
-- [Loops](http://swcarpentry.github.io/shell-novice/04-loop.html)
-- [Shell Scripts](http://swcarpentry.github.io/shell-novice/05-script.html)
-- [Finding Things](http://swcarpentry.github.io/shell-novice/06-find.html)
+- [Slideshow: Pipes (TODO)](#)
+- [Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
+- [Slideshow: Loops (TODO)](#)
+- [Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-loop.html)
+- [Slideshow: Scripts (TODO)](#)
+- [Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-script.html)
+- [Slideshow: Finding Things (TODO)](#)
+- [Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-find.html)
 
 
 
 
 
 
-## Hacky Hour
+
+## Independent | Murder Mystery
+
+Complete this game thingy in your own time to practice commands.
+
+- [Murder Mystery Game](https://github.com/veltman/clmystery)
+
+
+
+
+
+
+
+
+
+
+## Group | Stats
+
+Idea: gather stats on your project using commands you've learned. Document the command and the output of the command. Compose a script that outputs these current stats for you project.
 
 This Hacky Hour should be used to start managing and organising your data using the skills and concepts you learnt in the Data Management module, using the command line where possible. 
 
-**Additional Resources**
+- [Sample Data (TODO)](#)
+- [Instructions (TODO)](#)
 
-- [Lecture Slides](http://linkhere.com)
-<<<<<<< HEAD
+
+
+
+
+## Additional Resources
+
 - [Explain shell](explainshell.com)
 - [Regex 101](https://regex101.com/) [Regexr](http://regexr.com/) These sites break down regurlar expressions term by term, explain the different expressiona and allow you to test out expressions
-{:.resources}
-=======
-- [Explain shell](https://www.wrike.com/project-management-guide/methodologies/)
-- [Regex 101](https://regex101.com/) 
-- [Regexr](http://regexr.com/) These sites break down regurlar expressions term by term, explain the different expressiona and allow you to test out expressions
+
 
 
 

@@ -8,11 +8,11 @@
 - name: Course Introduction
   slug: course-introduction
   status:
-    weeklySchedule: not-started
-    assessmentGuide: not-started
+    weeklySchedule: started
+    assessmentGuide: in-progress
     teachingGuide: not-started
-    teachingResources: not-started
-    assessmentResources: not-started
+    teachingResources: in-progress
+    assessmentResources: in-progress
 
 - name: Project Management
   slug: project-management
@@ -28,10 +28,10 @@
   slug: data-management
   status:
     weeklySchedule: not-started
-    assessmentGuide: not-started
+    assessmentGuide: in-progress
     teachingGuide: not-started
     teachingResources: in-progress
-    assessmentResources: not-started
+    assessmentResources: started
 
 - name: Shell
   slug: shell
@@ -56,7 +56,7 @@
   status:
     weeklySchedule: in-progress
     assessmentGuide: in-progress
-    teachingGuide: not-started
+    teachingGuide: in-progress
     teachingResources: in-progress
     assessmentResources: not-started
 

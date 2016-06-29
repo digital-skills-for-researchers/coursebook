@@ -1,27 +1,50 @@
 <ul id="nav-mobile" class="side-nav fixed">
 
-	<li class="logo">
-		<a href="{{ site.baseurl }}/">
+	<span class="logo">
 		Digital Skills<br> 
 		for Research
+	</span>
+
+	<li class="bold">
+		<a href="{{ site.baseurl }}/">
+			Home
 		</a>
 	</li>
 
-	<li>
+	<li class="bold">
 		<a href="{{ site.baseurl }}/calendar.html">
 			Calendar
 		</a>
 	</li>
 
-<!-- one list item for each module -->
-{% for module in site.data.modules %}
 	<li class="bold">
-		<a href="{{ site.baseurl }}/modules/{{ module.slug }}"
-		   class="waves-effect waves-teal">
-			{{ forloop.index0 }}. {{ module.name }}
+		<a href="{{ site.baseurl }}/development.html">
+			Development Progress
 		</a>
 	</li>
 
-{% endfor %}
+
+
+
+	<!-- modules -->
+	<li>
+
+		<span class="heading">Modules</span>
+
+		<ul class="modules">
+			<!-- one list item for each module -->
+			{% for module in site.data.modules %}
+				<li>
+					<a href="{{ site.baseurl }}/modules/{{ module.slug }}"
+					   class="">
+						{{ module.name }}
+					</a>
+				</li>
+
+			{% endfor %}
+		</ul>
+	</li>
+
+	
 
 </ul>

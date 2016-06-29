@@ -15,7 +15,7 @@ This module will introduce how to publish your research so that is reproducible.
 
 
 
-## Block 1 | ????
+## Classroom | ????
 
 DOI here?
 
@@ -26,7 +26,7 @@ DOI here?
 
 
 
-## Block 2 | ????
+## Classroom | ????
 
 
 **Resources**
@@ -36,7 +36,7 @@ _No resources yet_
 
 
 
-## Hacky Hour | Project Data Analysis
+## Independent | Project Data Analysis
 
 
 **Resources**

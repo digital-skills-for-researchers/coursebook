@@ -13,7 +13,7 @@ This module will introduce you to the theory of visualization, as well as how to
 
 
 
-## Block 1 | Getting Started With Python
+## Classroom | Getting Started With Python
 
 
 
@@ -25,7 +25,7 @@ This module will introduce you to the theory of visualization, as well as how to
 
 
 
-## Block 2 | Creating functions and Good Development Practices
+## Classroom | Creating functions and Good Development Practices
 
 
 **Resources**
@@ -35,7 +35,7 @@ _No resources yet_
 
 
 
-## Hacky Hour | Project Data Analysis
+## Independent | Project Data Analysis
 
 During this Hacky Hour you should start/continue creating code for visualizing your project data. Your days of using excel are now over. Try to make the creation of charts and figures part of your automated work flow. 
 
