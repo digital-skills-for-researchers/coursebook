@@ -32,41 +32,60 @@ Upon completion of this module you should be able to:
 ## Classroom | Being Agile
 
 - [Lecture: Introduction][intro]
-- [Activity: Coin Flip Game][coingame]
+- [Activity: Coin Flip Game][coin-game]
 - [Lecture: Agile Manifesto][manifesto]
 - [Activity: Agile Mindset Workshop][agile-poster]
-- [Lecture: Agile Teams][agile-teams]
-- [Activity: Team Charter: TODO][charter]
+- [Lecture: Team Charter (WIP)][team-charter]
+- [Activity: Write a Team Charter][charter-activity]
+- [Lecture: Working Agreements (WIP)][working-agreement]
+- [Activity: Write a Working Agreement (TODO)](#)
+- [Lecture: Project Vision (WIP)][project-vision]
 
 [intro]: {{ site.slideshows }}/modules/project-management/introduction
-[coingame]: activities/coin-game.html
+[coin-game]: activities/coin-game.html
 [manifesto]: {{ site.slideshows }}/modules/project-management/agile-manifesto
 [agile-poster]: activities/agile-poster.html
-[agile-teams]: {{ site.slideshows }}/modules/project-management/agile-teams
-[charter]: #
+[team-charter]: {{ site.slideshows }}/modules/project-management/team-charter
+[charter-activity]: activities/team-charter.html
+[working-agreement]: {{ site.slideshows }}/modules/project-management/working-agreement
+[project-vision]: {{ site.slideshows }}/modules/project-management/project-vision
+
+
+
+## Independent | Project Vision and Elevator Pitch
+
+- [Lecture: Pitching][pitching]
+- [Activity: The Customer Pitch (TODO)](#)
+- [Activity: The Casual Pitch (TODO)](#)
+- [Activity: Project Vision (TODO)](#)
+- [Activity: Peer Review (TODO)](#)
+
+[pitching]: {{ site.slideshows }}/modules/project-management/pitches
 
 
 
 
 ## Classroom | Agile Tools and Processes
 
-- [Lecture: Scrum]()
-- [Activity: Practicing Scrum]()
-- [Lecture: User Stories: TODO]()
-- [Activity: Writing User Stories: TODO]()
-- [Lecture: ??]()
-- [Lecture: Roles of Scrum: TODO]()
-- [Activity: Assigning Roles: TODO]()
-- [Lecture: Project tracking (Kanban): TODO]()
-- [Activity: Set up a Kanban Board: TODO]()
+- [Lecture: Scrum (WIP)][scrum]
+- [Activity: Practicing Scrum (TODO)](#)
+- [Lecture: Roles of Scrum (WIP)][scrum-roles]
+- [Activity: Assigning Roles (TODO)](#)
+- [Lecture: User Stories (WIP)][user-stories]
+- [Activity: Writing User Stories (TODO)](#)
+- [Activity: Story Estimates (TODO)](#)
+- [Lecture: Project tracking with Kanban (TODO)](#)
+- [Activity: Set up a Kanban Board (TODO)](#)
 
-
+[scrum]: {{ site.slideshows }}/modules/project-management/scrum
+[scrum-roles]: {{ site.slideshows }}/modules/project-management/scrum-roles
+[user-stories]: {{ site.slideshows }}/modules/project-management/user-stories
 
 
 
 ## Independent | ??
 
-- [Write Elevator Pitch]()
+- [Create Project Backlog]()
 - [Write Project Charter]()
 
 
