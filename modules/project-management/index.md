@@ -59,7 +59,7 @@ Upon completion of this module you should be able to:
 
 ## Classroom | Agile Tools and Processes
 
-- [Lecture: Scrum (WIP)][scrum]
+- [Lecture: Scrum][scrum]
 - [Activity: Practicing Scrum (TODO)](#)
 - [Lecture: Roles of Scrum (WIP)][scrum-roles]
 - [Activity: Assigning Roles (TODO)](#)
