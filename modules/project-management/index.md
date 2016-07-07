@@ -61,7 +61,7 @@ Upon completion of this module you should be able to:
 
 - [Lecture: Scrum][scrum]
 - [Activity: Practicing Scrum (TODO)](#)
-- [Lecture: Roles of Scrum (WIP)][scrum-roles]
+- [Lecture: Roles of Scrum][scrum-roles]
 - [Activity: Assigning Roles (TODO)](#)
 - [Lecture: User Stories (WIP)][user-stories]
 - [Activity: Writing User Stories (TODO)](#)
