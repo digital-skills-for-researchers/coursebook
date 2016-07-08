@@ -35,11 +35,8 @@ Upon completion of this module you should be able to:
 - [Activity: Coin Flip Game][coin-game]
 - [Lecture: Agile Manifesto][manifesto]
 - [Activity: Agile Mindset Workshop][agile-poster]
-- [Lecture: Team Charter (WIP)][team-charter]
+- [Lecture: Team Charter][team-charter]
 - [Activity: Write a Team Charter][charter-activity]
-- [Lecture: Working Agreements (WIP)][working-agreement]
-- [Activity: Write a Working Agreement (TODO)](#)
-- [Lecture: Project Vision (WIP)][project-vision]
 
 [intro]: {{ site.slideshows }}/modules/project-management/introduction
 [coin-game]: activities/coin-game.html
@@ -47,29 +44,24 @@ Upon completion of this module you should be able to:
 [agile-poster]: activities/agile-poster.html
 [team-charter]: {{ site.slideshows }}/modules/project-management/team-charter
 [charter-activity]: activities/team-charter.html
-[working-agreement]: {{ site.slideshows }}/modules/project-management/working-agreement
-[project-vision]: {{ site.slideshows }}/modules/project-management/project-vision
 
 
 
-## Independent | Project Vision and Elevator Pitch
 
-- [Lecture: Pitching][pitching]
-- [Activity: The Customer Pitch (TODO)](#)
-- [Activity: The Casual Pitch (TODO)](#)
-- [Activity: Project Vision (TODO)](#)
-- [Activity: Peer Review (TODO)](#)
+## Independent | Team Charter
 
-[pitching]: {{ site.slideshows }}/modules/project-management/pitches
+- [Activity: Write a Team Charter for your own project](independent-charter)
+
+[independent-charter]: activities/independent-charter.html
 
 
 
 
 ## Classroom | Agile Tools and Processes
 
-- [Lecture: Scrum (WIP)][scrum]
+- [Lecture: Scrum][scrum]
 - [Activity: Practicing Scrum (TODO)](#)
-- [Lecture: Roles of Scrum (WIP)][scrum-roles]
+- [Lecture: Roles of Scrum][scrum-roles]
 - [Activity: Assigning Roles (TODO)](#)
 - [Lecture: User Stories (WIP)][user-stories]
 - [Activity: Writing User Stories (TODO)](#)
@@ -83,11 +75,23 @@ Upon completion of this module you should be able to:
 
 
 
-## Independent | ??
+## Independent | Workflow Management
 
-- [Create Project Backlog]()
-- [Write Project Charter]()
+- [Create Project Backlog](project-backlog)
 
+
+
+
+
+## Independent | Elevator Pitches
+
+- [Lecture: Pitching][pitching]
+- [Activity: The Customer Pitch (TODO)](#)
+- [Activity: The Casual Pitch (TODO)](#)
+- [Activity: Project Vision (TODO)](#)
+- [Activity: Peer Review (TODO)](#)
+
+[pitching]: {{ site.slideshows }}/modules/project-management/pitches
 
 
 
@@ -135,6 +139,7 @@ This Hacky Hour should be used to plan and document your project using the metho
 - [The Mythical Man Month (essay)]()
 - [Project Management Methodologies](https://www.wrike.com/project-management-guide/methodologies/)
 - [Making Sense of MVP (blog post)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+- [Pomodoro Technique](http://pomodorotechnique.com/)
 {:.resources}
 
 

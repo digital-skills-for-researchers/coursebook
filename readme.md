@@ -34,3 +34,11 @@ If you have many changes to submit please:
 
 Please keep pull requests small to help us merge your suggestions more efficiently.
 
+
+
+
+## Attributions
+
+Logo Credit: [Crash Test Dummy](https://thenounproject.com/term/crash-test-dummy/4954/) by Wes Breazell on The Noun Project
+
+
