@@ -54,7 +54,8 @@ During this Hacky Hour you should start/continue creating code for visualizing y
 
 
 ## Additional Resources
-
+-[Practical Rules for Using Color in Charts
+](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
 - [Ten guidelines for effective data visualization in scientific publications](http://hci.pacsites.org/wp-content/uploads/sites/8/2014/01/10_scientific_visualization_guidelines.pdf) 
 - [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1003833.PDF)
 - [Preparing Scientific Illustrations: A Guide to Better Posters, Presentations, and Publications](http://www.library.auckland.ac.nz/) 
