@@ -15,27 +15,10 @@ This module will introduce you to the workflows used with the popular version co
 Upon completion of this module you should be able to:
 
 - Understand the benefits of an automated version control system.
-- Be able to configure and personalize Git to suit your own pferences
-
-- Create a local Git repository.
-- Go through the modify-add-commit cycle for single and multiple files.
-- Explain where information is stored at each stage of Git commit workflow.
-- Identify and use Git commit numbers.
-- Compare various versions of tracked files.
-- Restore old versions of files.
-- 
-- Configure Git to ignore specific files.
-- Explain why ignoring files can be useful.
-- 
-- Explain what remote repositories are and why they are useful.
-- Clone a remote repository.
-- Push to or pull from a remote repository.
-- Collaborate pushing to a common repository.
-- Explain what conflicts are and when they can occur.
-- Resolve conflicts resulting from a merge.
-
-- Collaborate with others using remote repositories. Push and pull to the remote repository. Handle conflicts and communicate with collaborators to resolve them, using Git tools and commands.
-
+- Configure and personalize Git to suit your own preferences.
+- Understand at a conceptual level how Git works; how information is stored and shared at each stage of Git's workflow.
+- Create and use Git local repositories using basic tools and commands; committing files, tracking changes and restoring files. 
+- Collaborate with others using remote repositories and understand the advantages of doing so. Push and pull to remote repositories. Handle conflicts and communicate with collaborators to resolve them, using Git tools and commands.
 {:.learning-outcomes}
 
 
