@@ -66,8 +66,11 @@ Upon completion of this module you should be able to:
 - [Lecture: User Stories (WIP)][user-stories]
 - [Activity: Writing User Stories (TODO)](#)
 - [Activity: Story Estimates (TODO)](#)
+- [Lecture: Sprints](#)
+- [Activity: Paper Planes](http://alistair.cockburn.us/Airplane+game)
 - [Lecture: Project tracking with Kanban (TODO)](#)
 - [Activity: Set up a Kanban Board (TODO)](#)
+
 
 [scrum]: {{ site.slideshows }}/modules/project-management/scrum
 [scrum-roles]: {{ site.slideshows }}/modules/project-management/scrum-roles
@@ -140,6 +143,7 @@ This Hacky Hour should be used to plan and document your project using the metho
 - [Project Management Methodologies](https://www.wrike.com/project-management-guide/methodologies/)
 - [Making Sense of MVP (blog post)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 - [Pomodoro Technique](http://pomodorotechnique.com/)
+- [How to run a sprint planning meeting](http://nomad8.com/how-to-run-a-sprint-planning-meeting-the-way-i-like-it/)
 {:.resources}
 
 

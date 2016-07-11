@@ -2,11 +2,13 @@
 
 	var lastVisitedLink;
 
-	$('.page-content ul a').featherlight({
+	$('.page-content ul a')/*.featherlight({
 		type: 'iframe', 
 		iframeWidth: '100%',
 	    iframeHeight: '100%'
-	}).click( function(){
+	})*/
+	.attr('target', '_blank')
+	.click( function(){
 		
 		if( lastVisitedLink ){
 			$(lastVisitedLink).css('background', 'transparent');
