@@ -48,6 +48,15 @@ Upon completion of this module you should be able to:
 [charter-activity]: activities/team-charter.html
 
 
+<br>
+**Additional Resources**
+
+- [Agile Manifesto (website)](http://agilemanifesto.org/)
+- [Comparing Project Management Methodologies (article)](https://www.wrike.com/project-management-guide/methodologies/)
+- [Agile Samurai (book)](http://librarysearch.auckland.ac.nz/UOA2_A:Combined_Local:uoa_alma21257524290002091)
+- [The Mythical Man Month (essay)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf)
+- [Making Sense of Minimum Viable Product (blog)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+
 
 
 
@@ -78,6 +87,14 @@ Upon completion of this module you should be able to:
 [sprints]: #
 [scrum-cards]: http://tastycupcakes.org/2016/06/scrum-card-game/
 
+<br>
+**Additional Resources**
+
+- [Introduction to Scrum - 7 Minutes (video)](https://www.youtube.com/watch?v=9TycLR0TqFA)
+- [Everything About User Stories (article)](https://www.mountaingoatsoftware.com/agile/user-stories)
+- [Agile Chalk Talk: Story Points (video)](https://www.youtube.com/watch?v=90Xx8QVnXRc)
+- [How to run a sprint planning meeting (blog)](http://nomad8.com/how-to-run-a-sprint-planning-meeting-the-way-i-like-it/)
+- [Scrum in a 2-person Team (blog)](http://www.boost.co.nz/blog/2013/01/the-tiny-scrum/)
 
 
 
@@ -141,16 +158,9 @@ This Hacky Hour should be used to plan and document your project using the metho
 
 ## Additional Resources
 
-- [Agile Manifesto (website)](http://agilemanifesto.org/)
-- [Agile Chalk Talk: Story Points (video)](https://www.youtube.com/watch?v=90Xx8QVnXRc)
-- [Introduction to Scrum - 7 Minutes (video)](https://www.youtube.com/watch?v=9TycLR0TqFA)
-- [Agile Samurai (book)](TODO)
-- [The Mythical Man Month (essay)]()
-- [Project Management Methodologies](https://www.wrike.com/project-management-guide/methodologies/)
-- [Making Sense of MVP (blog post)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+
 - [Pomodoro Technique](http://pomodorotechnique.com/)
-- [How to run a sprint planning meeting](http://nomad8.com/how-to-run-a-sprint-planning-meeting-the-way-i-like-it/)
-- [Scrum in a 2-person Team](http://www.boost.co.nz/blog/2013/01/the-tiny-scrum/)
+
 {:.resources}
 
 
