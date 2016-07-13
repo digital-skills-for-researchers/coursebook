@@ -108,7 +108,7 @@ Upon completion of this module you should be able to:
 
 
 
-
+<!--
 ## Independent | Elevator Pitches
 
 - [Lecture: Pitching][pitching]
@@ -118,35 +118,7 @@ Upon completion of this module you should be able to:
 - [Activity: Peer Review (TODO)](#)
 
 [pitching]: {{ site.slideshows }}/modules/project-management/pitches
-
-
-
-
-
-
-
-## Classroom | Guest Lecture
-
-Further discussion, stories from real world, activities.
-
-**Resources**
-
-_No resources yet_
-
-
-
-
-
-
-
-## Independent | Personal Kanban
-
-This Hacky Hour should be used to plan and document your project using the methods learned during lectures. Complete the worksheet and have it signed off by a supervisor.
-
-**Resources**
-
-- [Hacky Hour Worksheet](hacky-hour-worksheet.html)
-{:.resources}
+-->
 
 
 
