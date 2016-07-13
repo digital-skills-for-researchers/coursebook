@@ -17,12 +17,12 @@ This module will introduce some commonly used processes for project management i
 
 Upon completion of this module you should be able to:
 
-- a. Identify the key differences between Agile and Waterfall methodologies
-- b. Describe the roles of Scrum, Agile and Kanban in project management
-- c. Organise and document an Agile team and their respective roles
-- d. Document a research project including its deliverables and milestones 
-- e. Use Kanban to manage and track the progress of a project
-- f. Confidently participate in sprint planning, review and retrospective meetings
+- a. Describe the key ways Agile differs from other project management styles
+- b. Identify and explain the four key values of Agile
+- c. Identify and explain the purpose of each step of the Scrum process
+- d. Organise and document an Agile Scrum project in the form of a Team Charter
+- e. Manage project workflow using a Scrum task board with user stories and sub-tasks
+- f. Confidently participate in all aspects of the Scrum process in a team setting
 {:.learning-outcomes}
 
 
@@ -33,6 +33,7 @@ Upon completion of this module you should be able to:
 
 - [Lecture: Introduction][intro]
 - [Activity: Coin Flip Game][coin-game]
+- [Activity: Battleships][battleships]
 - [Lecture: Agile Manifesto][manifesto]
 - [Activity: Agile Mindset Workshop][agile-poster]
 - [Lecture: Team Charter][team-charter]
@@ -40,10 +41,12 @@ Upon completion of this module you should be able to:
 
 [intro]: {{ site.slideshows }}/modules/project-management/introduction
 [coin-game]: activities/coin-game.html
+[battleships]: http://tastycupcakes.org/2012/02/you-sunk-my-methodology/
 [manifesto]: {{ site.slideshows }}/modules/project-management/agile-manifesto
 [agile-poster]: activities/agile-poster.html
 [team-charter]: {{ site.slideshows }}/modules/project-management/team-charter
 [charter-activity]: activities/team-charter.html
+
 
 
 
@@ -59,28 +62,31 @@ Upon completion of this module you should be able to:
 
 ## Classroom | Agile Tools and Processes
 
-- [Lecture: Scrum][scrum]
-- [Activity: Practicing Scrum (TODO)](#)
-- [Lecture: Roles of Scrum][scrum-roles]
-- [Activity: Assigning Roles (TODO)](#)
-- [Lecture: User Stories (WIP)][user-stories]
-- [Activity: Writing User Stories (TODO)](#)
-- [Activity: Story Estimates (TODO)](#)
-- [Lecture: Sprints](#)
-- [Activity: Paper Planes](http://alistair.cockburn.us/Airplane+game)
-- [Lecture: Project tracking with Kanban (TODO)](#)
-- [Activity: Set up a Kanban Board (TODO)](#)
-
+- [Lecture: Introduction to Scrum][scrum]
+- [Lecture: Scrum Roles][scrum-roles]
+- [Activity: Understanding Roles][roles-activity]
+- [Lecture: User Stories][user-stories]
+- [Activity: Story Estimates][story-sizing]
+- [Lecture: Sprints (WIP)][sprints]
+- [Activity: Scrum Card Game][scrum-cards]
 
 [scrum]: {{ site.slideshows }}/modules/project-management/scrum
 [scrum-roles]: {{ site.slideshows }}/modules/project-management/scrum-roles
+[roles-activity]: http://tastycupcakes.org/2013/02/the-herculean-doughnut/
 [user-stories]: {{ site.slideshows }}/modules/project-management/user-stories
+[story-sizing]: http://tastycupcakes.org/2009/09/sizing-game/
+[sprints]: #
+[scrum-cards]: http://tastycupcakes.org/2016/06/scrum-card-game/
+
+
 
 
 
 ## Independent | Workflow Management
 
 - [Create Project Backlog](project-backlog)
+- [Lecture: Project tracking with Kanban (TODO)](#)
+- [Activity: Set up a Kanban Board (TODO)](#)
 
 
 
@@ -144,6 +150,7 @@ This Hacky Hour should be used to plan and document your project using the metho
 - [Making Sense of MVP (blog post)](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 - [Pomodoro Technique](http://pomodorotechnique.com/)
 - [How to run a sprint planning meeting](http://nomad8.com/how-to-run-a-sprint-planning-meeting-the-way-i-like-it/)
+- [Scrum in a 2-person Team](http://www.boost.co.nz/blog/2013/01/the-tiny-scrum/)
 {:.resources}
 
 
