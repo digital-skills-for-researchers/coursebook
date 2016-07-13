@@ -9,6 +9,16 @@ layout: module
 This module will introduce you to programming using Python, a popular language for use in scientific computing. There are many code libraries built on top of Python, allowing you to extend its functionality for a wide range of purposes.  The skills you develop in this module will also be relevant in any other programming languages you may use in future.
 
 
+## Learning Outcomes
+
+Upon completion of this module you should be able to:
+
+-  Understand and use basic control structures in Python
+-  Create simple Python programs using named variables and control structures
+-  Debug and create tests for basic Python programs.
+- Understand why testing is used in software development. Write unit tests for functions.
+{:.learning-outcomes}
+
 
 
 ## Independent | Use Python

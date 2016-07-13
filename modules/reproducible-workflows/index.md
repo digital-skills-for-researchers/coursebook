@@ -8,8 +8,14 @@ layout: module
 
 This module will introduce you to how to conduct your research in a reproducible way. As you are aware, reproducibility is a core tenet of science. (One more line about science in crisis or something). So far in this course you have learnt a number of tools (shell, Git, Python) that will help you work in a reproducible way. Automating your work flow with these tools will help increase the speed at which you work, and decrease the number of errors you make. (Something about transparency of your work to yourself and others)
 
-[View Assessment Guide](assessment.html)
+## Learning Outcomes
 
+Upon completion of this module you should be able to:
+
+- a. Document your workflow so someone else (or yourself in 6 months time) can reproduce you work
+- b. Keep a laboratory notebook that follows best practices (or lab standards) such as clear documentation of all experiments,references to literature, cross references to other lab notebooks. 
+- c Automate simple data analysis and processing using the Shell/Python
+{:.learning-outcomes}
 
 
 
@@ -51,3 +57,11 @@ These will help show you what is possible using Ipython Notebooks
 - [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
 {:.resources}
+
+
+
+## Badges
+
+1. **BLANK**
+
+_Learning outcomes: a_

@@ -8,7 +8,15 @@ layout: module
 
 This module will introduce you to how to share your research and data, both with collaborators you are working with, and others who have an interest in your research and data. Sharing data doesnt come without a cost; we will discuss the different perspectives around sharing data and how they are changing.  
 
-[View Assessment Guide](assessment.html)
+## Learning Outcomes
+
+Upon completion of this module you should be able to:
+
+- a. Understand the different options that exist for sharing Scientific Data, and what is required from a service or option for it to be used 
+- b. Understand the different requirements for sharing different types of data
+- c. Something about how reality/praticality influences sharing data
+- d.
+{:.learning-outcomes}
 
 
 
@@ -59,3 +67,12 @@ During this hour, start sharing your data. By now, all of your code should be on
 - [I own my data, until I don’t.](https://smallpondscience.com/2014/03/03/i-own-my-data-until-i-dont/) 
 - -[The Ethics of Data Sharing and Reuse in Biology](https://www.dataone.org/sites/all/documents/DukePorter2013.pdf)
 {:.resources}
+
+
+
+
+## Badges
+
+1. **BLANK**
+
+_Learning outcomes: a_
