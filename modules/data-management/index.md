@@ -28,27 +28,16 @@ Upon completion of this module you should be able to:
 
 
 
-## Independent | Creating a Project Environment
-
-Create a virtual desktop to keep your project files separate from your computer.
-
-- [Slideshow: Create a Virtual Machine with Docker]({{ site.slideshows}}/data-management/datasci-on-docker)
-- [Slideshow: Windows Environment (TODO: Tanya)](#)
-- [Slideshow: Mac Environment (TODO: Tanya)](#)
-
-
-
-
 
 ## Classroom | What is Data Management?
 
 TODO: Short summary of this classroom block
 
-- [Lecture: Introduction]({{ site.slideshows }}/data-management/introduction)
+- [Lecture: Introduction]({{ site.slideshows }}/modules/data-management/introduction)
 - [Activity?](#)
-- [Lecture: Organising Your Project]({{ site.slideshows }}/data-management/organising-your-project)
+- [Lecture: Organising Your Project]({{ site.slideshows }}/modules/data-management/organising-your-project)
 - [Activity?](#)
-- [Lecture: Security, Protection and Privacy]({{ site.slideshows }}/data-management/security-protection-privacy)
+- [Lecture: Security, Protection and Privacy]({{ site.slideshows }}/modules/data-management/security-protection-privacy)
 - [Activity?](#)
 {:.resources}
 
