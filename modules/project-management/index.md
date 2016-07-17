@@ -33,7 +33,6 @@ Upon completion of this module you should be able to:
 
 - [Lecture: Introduction][intro]
 - [Activity: Coin Flip Game][coin-game]
-- [Activity: Battleships][battleships]
 - [Lecture: Agile Manifesto][manifesto]
 - [Activity: Agile Mindset Workshop][agile-poster]
 - [Lecture: Team Charter][team-charter]
