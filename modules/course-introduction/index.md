@@ -15,22 +15,9 @@ This course will guide you through a variety of digital tools for scientific res
 
 An overview of the purpose of this course, from the obvious to the less obvious.
 
-- [Slideshow: Course Purpose (TODO)][course-purpose]
-- [Slideshow: Course Requirements (TODO)][course-requirements]
+- [Slideshow: Course Purpose][course-purpose]
 
 [course-purpose]: {{ site.slideshows }}/modules/course-introduction/course-purpose
-[course-requirements]: {{ site.slideshows }}/modules/course-introduction/course-requirements
-
-
-
-
-
-
-## Independent | Self Assessment
-
-Complete these activities to encourage self-awareness.
-
-- [Course Pre-Test (TODO: Anthony)](#)
 
 
 
