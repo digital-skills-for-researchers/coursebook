@@ -95,6 +95,7 @@ Upon completion of this module you should be able to:
 - [Agile Chalk Talk: Story Points (video)](https://www.youtube.com/watch?v=90Xx8QVnXRc)
 - [How to run a sprint planning meeting (blog)](http://nomad8.com/how-to-run-a-sprint-planning-meeting-the-way-i-like-it/)
 - [Scrum in a 2-person Team (blog)](http://www.boost.co.nz/blog/2013/01/the-tiny-scrum/)
+- [It's Not Just Standing Up](http://martinfowler.com/articles/itsNotJustStandingUp.html)
 
 
 
