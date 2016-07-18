@@ -142,46 +142,36 @@ Upon completion of this module you should be able to:
 
 ## Badges
 
-1. ### Modern Methodologies
-![Badge](images/badges/badge.png)
-Gain a 100% pass in the quiz about project management processes and methodologies.
-_Learning outcomes: a_
-
-
-2. ### Agile Foundation
-![Badge](images/badges/badge.png)
-In an interview with a tutor, be able to answer some questions about the roles of Scrum, Agile and Kanban in project management.
+1. ### Agile Basics
+![Badge](images/badges/agile-basics.png)
+Identify and explain the four key values of Agile in a short interview with a tutor.
 _Learning outcomes: b_
 
 
-3. ### Team Documentation
-![Badge](images/badges/badge.png)
-Create a document detailing all team members, their roles and their agreement to actively participate in and contribute to the team.
+2. ### Scrum Basics
+![Badge](images/badges/scrum-basics.png)
+Identify and explain the purpose of each step of the Scrum process in a short interview with a tutor.
 _Learning outcomes: c_
 
 
-4. ### Project Documentation
-![Badge](images/badges/badge.png)
-Create a document describing the purpose of the project and what you intend to produce.
+3. ### Team Charter
+![Badge](images/badges/team-charter.png)
+Organise and document an Agile Scrum project in the form of a Team Charter. Publish it with your project and have it reviewed by a tutor.
 _Learning outcomes: d_
 
 
-5. ### Personal Kanban
-![Badge](images/badges/badge.png)
-Create your first Kanban board and populate your backlog, ready for first sprint planning!
-_Learning outcomes: d, e_
+4. ### Visual Planner
+![Badge](images/badges/visual-planner.png)
+Use a Scrum board to manage your project for at least 3 weeks. Take a photo or screenshot of your board each week. Write 200 words reflecting on the benefits and difficulties (if any) of this style of visual planning.
+_Learning outcomes: e_
 
 
-6. ### Kanban User
-![Badge](images/badges/badge.png)
-Demonstrate effective use of Kanban over 5 weeks of project time.
-_Learning outcome: e_
+5. ### Standup Facilitator
+![Badge](images/badges/standup-facilitator.png)
+Act as Scrum Master for a daily standup meeting, ensuring everyone shares their status and progress according to the rules of daily standup. Gain a sentence or two of written feedback on your facilitation from 3 classmates. Act as Scrum Master at daily standup a second time then reflect on the experience (200 words).
 
 
-7. ### Agile Practitioner
-![Badge](images/badges/badge.png)
-Keep a log of meetings. Review the Agile manifesto at regular intervals and note observations.
-_Learning outcome: f_
+6. ### Agile Practitioner
+![Badge](images/badges/agile-practitioner.png)
+Review your adherence to the Agile Manifesto and reflect on which aspects you are struggling with and could improve, and/or which you find most beneficial. Do this three times, at least a week apart. (150 words each).
 {:.badges}
-
-
