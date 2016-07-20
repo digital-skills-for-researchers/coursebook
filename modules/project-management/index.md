@@ -75,7 +75,7 @@ Upon completion of this module you should be able to:
 - [Activity: Understanding Roles][roles-activity]
 - [Lecture: User Stories][user-stories]
 - [Activity: Story Estimates][story-sizing]
-- [Lecture: Sprints (WIP)][sprints]
+- [Lecture: Sprints][sprints]
 - [Activity: Scrum Card Game][scrum-cards]
 
 [scrum]: {{ site.slideshows }}/modules/project-management/scrum
@@ -83,7 +83,7 @@ Upon completion of this module you should be able to:
 [roles-activity]: http://tastycupcakes.org/2013/02/the-herculean-doughnut/
 [user-stories]: {{ site.slideshows }}/modules/project-management/user-stories
 [story-sizing]: http://tastycupcakes.org/2009/09/sizing-game/
-[sprints]: #
+[sprints]: {{ site.slideshows }}/modules/project-management/sprints
 [scrum-cards]: http://tastycupcakes.org/2016/06/scrum-card-game/
 
 <br>
