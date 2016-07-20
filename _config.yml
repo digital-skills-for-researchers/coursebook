@@ -13,10 +13,10 @@ kramdown:
 # Where things are
 source:       .
 destination:  ./_site
-layouts_dir:  ./_layouts
-includes_dir: ./_includes
+layouts_dir:  ./theme/_layouts
+includes_dir: ./theme/_includes
 sass:
-    sass_dir: ./_sass
+    sass_dir: ./theme/_sass
 
 # keep the built site tidy, only include files we need for publishing
 exclude: ["node_modules", "Gemfile", "Gruntfile.js", "package.json", "README.md", "*.sublime-project", "*.sublime-workspace"]
