@@ -99,8 +99,8 @@ Upon completion of this module you should be able to:
 - [Quiz: Project Mangement Quiz][project-management-quiz]
 - [Activity: Complete the Drucker Exercise][the-drucker-exercise]
 
-[project-management-quiz]: activities/project-management-quiz
-[the-drucker-exercise]: activities/the-drucker-exercise
+[project-management-quiz]: activities/project-management-quiz.html
+[the-drucker-exercise]: activities/the-drucker-exercise.html
 
 
 <!--
