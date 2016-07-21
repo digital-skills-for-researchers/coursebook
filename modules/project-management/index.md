@@ -9,10 +9,6 @@ layout: module
 This module will introduce some commonly used processes for project management in an agile project environment. The concepts learned in this module will be applied to the management of your personal project throughout the course.
 
 
-
-
-
-
 ## Learning Outcomes
 
 Upon completion of this module you should be able to:
@@ -24,9 +20,6 @@ Upon completion of this module you should be able to:
 - e. Manage project workflow using a Scrum task board with user stories and sub-tasks
 - f. Confidently participate in all aspects of the Scrum process in a team setting
 {:.learning-outcomes}
-
-
-
 
 
 ## Classroom | Being Agile
@@ -58,16 +51,11 @@ Upon completion of this module you should be able to:
 
 
 
-
 ## Independent | Team Charter
 
 - [Activity: Write a Team Charter for your own project](independent-charter)
 
 [independent-charter]: activities/independent-charter.html
-
-- [Project Mangement Quiz] 
-
-
 
 
 ## Classroom | Agile Tools and Processes
@@ -99,8 +87,6 @@ Upon completion of this module you should be able to:
 - [It's Not Just Standing Up](http://martinfowler.com/articles/itsNotJustStandingUp.html)
 
 
-
-
 ## Independent | Workflow Management
 
 - [Create Project Backlog](project-backlog)
@@ -108,6 +94,13 @@ Upon completion of this module you should be able to:
 - [Activity: Set up a Kanban Board (TODO)](#)
 
 
+## Independent | Revision and Reflection
+
+- [Quiz: Project Mangement Quiz][project-management-quiz]
+- [Activity: Complete the Drucker Exercise][the-drucker-exercise]
+
+[project-management-quiz]: activities/project-management-quiz
+[the-drucker-exercise]: activities/the-drucker-exercise
 
 
 <!--
