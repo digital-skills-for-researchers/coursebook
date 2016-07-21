@@ -36,7 +36,7 @@ Upon completion of this module you should be able to:
 - [Lecture: Agile Manifesto][manifesto]
 - [Activity: Agile Mindset Workshop][agile-poster]
 - [Lecture: Team Charter][team-charter]
-- [Activity: Write a Team Charter][charter-activity]
+- [Activity: Write a Team Charter for the course][charter-activity]
 
 [intro]: {{ site.slideshows }}/modules/project-management/introduction
 [coin-game]: activities/coin-game.html
@@ -64,6 +64,8 @@ Upon completion of this module you should be able to:
 - [Activity: Write a Team Charter for your own project](independent-charter)
 
 [independent-charter]: activities/independent-charter.html
+
+- [Project Mangement Quiz] 
 
 
 
