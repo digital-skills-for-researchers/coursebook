@@ -1,3 +1,7 @@
+---
+layout: activity
+---
+
 #Project Management Reflection: The Drucker Excercise
 
 Name: 

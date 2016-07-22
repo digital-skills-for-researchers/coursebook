@@ -1,3 +1,7 @@
+---
+layout: activity
+---
+
 #Project Management Quiz
 
 ## Question 1
