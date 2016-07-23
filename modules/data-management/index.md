@@ -6,7 +6,7 @@ layout: module
 
 # Data Management
 
-This module will teach you the skills and concepts for effective Data Management. Simply put, Data Management is about taking care of your data so that your work isnt hindered by data issues. Your data is effectively organised and stored so you can access and understand it with ease. Effective data management goes hand in hand with effective data sharing, if you organise data well for your own use, collaborators and other users of the data will also benefit.
+This module will teach you the skills and concepts for effective Data Management. Simply put, Data Management is about taking care of your data so that your work isn't hindered by data issues. Your data is effectively organised and stored so you can access and understand it with ease. Effective data management goes hand in hand with effective data sharing, if you organise data well for your own use, collaborators and other users of the data will also benefit.
 
 
 
