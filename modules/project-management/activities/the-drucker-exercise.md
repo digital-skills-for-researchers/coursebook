@@ -2,7 +2,7 @@
 layout: activity
 ---
 
-#Project Management Reflection: The Drucker Excercise
+# Project Management Reflection: The Drucker Excercise
 
 Name: 
 Date: 
