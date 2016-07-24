@@ -1,0 +1,20 @@
+.speaker-notes-button {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	z-index: 9;
+	color: #444;
+	font-size: 2em;
+
+	&:hover {
+		color: #F44336;
+	}
+
+	&::before {
+		content: 'speaker_notes';
+	}
+
+	&.open::before {
+		content: 'speaker_notes_off'
+	}
+}

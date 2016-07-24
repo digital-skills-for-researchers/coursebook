@@ -1,0 +1,31 @@
+/*
+Revealjs prevents page scrolling because it
+assumes that the slideshow will be full-page.
+We want to allow page scrolling because slideshows
+are featured within scrollable pages.
+*/
+html {
+	overflow: auto;
+}
+
+/*
+RevealJS locks the body height to 100% to
+keep the slideshow within the visible page
+area, but we want scrollable content so we
+need to allow auto page height.
+*/
+body {
+	height: auto;
+}
+
+
+/*
+Our RevealJS slideshows are in a container called
+slideshow. RevealJS does not set the height of its
+container so we have to do this manually. We want
+the slideshow to be full screen so it should be
+100% of the view height.
+*/
+.slideshow {
+	height: 100vh;
+}

@@ -1,0 +1,139 @@
+/**
+ * Gather Workshops theme for reveal.js.
+ * Author: Gather Workshops
+ */
+
+// Default mixins and settings -----------------
+@import "../assets/submodules/revealjs/css/theme/template/mixins";
+@import "../assets/submodules/revealjs/css/theme/template/settings";
+// ---------------------------------------------
+
+
+// Override theme settings -----------------
+// (see ../template/settings.scss)
+
+// Background of the presentation
+$backgroundColor: #fcfcfc;
+
+// Primary/body text
+$mainFont: inherit;
+$mainFontSize: 1.75em;
+$mainColor: #001E39;
+
+// Headings
+$headingMargin: 0 0 20px 0;
+$headingFont: inherit;
+$headingColor: #001E39;
+$headingLineHeight: 0.9em;
+$headingLetterSpacing: auto;
+$headingTextTransform: none;
+$headingTextShadow: 0px 0px 6px rgba(0,0,0,0.2);
+$heading1TextShadow: $headingTextShadow;
+
+// Links and actions
+$linkColor: #efad5f;
+$linkColorHover: lighten( $linkColor, 10% );
+
+// Text selection
+$selectionBackgroundColor: #FF5E99;
+$selectionColor: #fff;
+
+// Generates the presentation background, can be overridden
+// to return a background image or gradient
+@mixin bodyBackground() {
+	background: $backgroundColor;
+}
+// ---------------------------------------------
+
+
+
+// Create custom variables -------------
+
+$titleTextShadow: 2px 2px 1px darken($theme-color, 20%);
+
+
+// ----------------------------
+
+
+// Write custom hard-coded overrides -----------------
+
+
+.reveal {
+
+	line-height: 1.4;
+	text-align: left;
+	overflow: hidden;
+
+	// normal paragraphs displayed on a slide
+	.slides > section p {
+		margin-top: 0.4em;
+		margin-bottom: 0.8em;
+	}
+
+	.slides > .present {
+		//border: 1px dotted rgba(255, 0, 0, 0.5);
+		max-height: 576px;
+		overflow: hidden;
+	}
+	
+
+	// inline code within paragraphs
+	code {
+		background-color: rgba(255,255,255,0.6);
+		padding: 6px;
+	}
+
+	.codepen-embed {
+		display: inline-block;
+		box-sizing: border-box;
+		border: 4px solid #222;
+		width: 100%;
+		max-width: 100%;
+
+		&.title {
+			border: 0;
+			color: #FFF;
+			text-align: left;
+			font-size: 50%;
+			font-weight: bold;
+			background-color: #222;
+			padding: 0px 8px;
+			border-top-radius: 5px;
+		}
+	}
+
+	.slides {
+
+		// all slides
+		&>section {
+			box-sizing: border-box;
+		}
+
+		// normal images displayed on a slide
+		&>section img {
+			margin: 0;
+			border: 0 !important;
+			box-shadow: none !important;
+			background: transparent !important;
+		}
+
+	}
+
+}
+
+.reveal .controls div {
+
+	opacity: 0.15;
+
+	&.enabled {
+		opacity: 0.8;
+	}
+}
+
+// ---------------------------------------------
+
+
+
+// Theme template ------------------------------
+@import "../assets/submodules/revealjs/css/theme/template/theme";
+// ---------------------------------------------

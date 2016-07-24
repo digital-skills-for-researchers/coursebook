@@ -1,0 +1,30 @@
+<!-- jQuery JavaScript -->
+<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+
+<!-- Materialize JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+
+
+{% if page.layout == 'slideshow' %}
+
+    <!-- only include revealJS if there is a slideshow on the page -->
+    {% include config/reveal.html %}
+
+{% else %}
+
+    <!-- Featherlite lightbox -->
+    <script src="https://cdn.rawgit.com/noelboss/featherlight/1.4.1/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+
+    <!-- Custom site script for converting calendar weeks into a collapsible list -->
+    <script src="{{ site.baseurl }}/theme/assets/js/calendar.js"></script>
+
+    <!-- Custom site script for splitting content into containers -->
+    <script src="{{ site.baseurl }}/theme/assets/js/layout.js"></script>
+
+    <!-- Custom site script to support deep linking -->
+    <script src="{{ site.baseurl }}/theme/assets/js/deep-linking.js"></script>
+
+    <!-- Custom site script to support showing content in lightbox popups -->
+    <script src="{{ site.baseurl }}/theme/assets/js/lightbox-content.js"></script>
+
+{% endif %}

@@ -1,0 +1,39 @@
+<!-- slide -->
+<section class="{{ slide.class }}"
+	
+	{% if forloop.index == 1 %}
+
+		id="{{ slide.section }}"
+		data-background="{{ site.baseurl }}/theme/assets/images/triangle-bg-tile.png" 
+		data-background-color="{{ site.themecolor }}"
+		data-background-size="200px" 
+		data-background-repeat="repeat"
+
+	{% else %}
+
+		id="{{ slide.title }}"
+
+		
+		data-background="{{ slide.background-image }}"
+		data-background-color="{{ slide.background-color }}"
+		data-background-size="{{ slide.background-size }}"
+		data-background-repeat="{{ slide.background-repeat }}"
+		data-background-position="{{ slide.background-position }}"
+		style="{{ slide.style }}"
+
+	{% endif %}
+	>
+		
+{{ slide.content | 
+		replace: '[[BASE_URL]]', site.baseurl | 
+		replace: '[[THEME_IMAGES]]', site.theme_images | 
+		replace: '[[COURSE_IMAGES]]', site.course_images | 
+		markdownify }}
+
+<aside class="notes">
+{{ slide.notes | 
+		replace: '[[BASE_URL]]', site.baseurl |
+		markdownify }}
+</aside>
+
+</section>

@@ -1,0 +1,70 @@
+.reveal {
+	box-sizing: border-box;
+	transition: width 0.6s;
+	overflow: hidden;
+}
+
+.inline-notes {
+	position: absolute;
+	background: #fff;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	width: 0;
+	overflow: hidden;
+	transition: width 0.6s;
+
+	.content {
+		z-index: 8;
+		padding: 1em 2em;
+		box-sizing: border-box;
+
+		/* font size screen-width-dependent on smaller screens */
+		@media (max-width: 1000px) {
+		    font-size: 1.8vw;
+		}
+
+		code {
+			background: #F3F3DA;
+			padding: 2px 5px;
+		}
+	}
+}
+
+body.with-notes {
+
+	.reveal {
+		width: 70%;
+		height: 100%;
+	}
+
+	.inline-notes {
+		width: 30%;
+	}
+
+	// handle portrait mode
+	@media only screen
+	and (orientation : portrait) {
+		
+		.reveal {
+			width: 100%;
+			height: 40%;
+		}
+
+		.inline-notes {
+			width: 100%;
+			height: 60%;
+			left: 0;
+			right: 0;
+			top: auto;
+			bottom: 0;
+			overflow: scroll;
+		}
+	}
+
+
+}
+
+
+
+

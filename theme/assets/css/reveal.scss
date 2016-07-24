@@ -10,24 +10,13 @@ $theme-color: {{site.themecolor}};
 
 // other files to include
 
-@import 'typography';
-@import 'layout';
-
-@import 'sidebar';
-
-@import 'unordered-list';
-@import 'learning-outcomes';
-@import 'project-progress';
-@import 'calendar';
-@import 'badges';
-
-@import 'reveal/page-layout';
 @import 'reveal/theme';
 @import 'reveal/customisation';
 @import 'reveal/slides';
 @import 'reveal/speaker-notes-button';
 @import 'reveal/slide-components';
 
-@import 'featherlight-mods';
+@import 'typography';
+@import 'reveal/page-layout';
 
 

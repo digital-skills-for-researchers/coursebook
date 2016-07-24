@@ -1,0 +1,28 @@
+---
+---
+
+{% include layout/head.html %}
+{% include layout/main-navigation.html %}
+
+<div class="page-content">
+
+
+<!-- display slideshow if there is one (when on a chapter page) -->
+{% if page.slides %}
+	{% assign slides = page.slides %}
+	{% include slideshow/slideshow.html %}
+{% endif %}
+
+
+<!-- display page content -->
+<div class="container">
+{{ content }}
+</div><!-- .container -->
+
+
+{% include layout/footer.html %}
+
+
+</div><!-- .page-content -->
+
+{% include layout/page-foot.html %}

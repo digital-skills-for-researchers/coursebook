@@ -1,0 +1,61 @@
+body {
+    background-color: #fcfcfc;
+}
+
+main {
+    /*padding-left: 240px;*/
+}
+
+footer {
+	padding: 30px;
+	margin-top: 30px;
+	border-top: 1px solid #CCC;
+}
+
+.page-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+}
+
+.page-content > section {
+	padding: 30px;
+}
+
+/* the first section, containing the intro */
+.page-content > section:first-of-type {
+	/* background: lightblue; */
+	font-size: 140%;
+}
+
+.row {
+  padding-left:0;
+  padding-right: 0;
+}
+
+
+/*
+===========
+MOBILE
+===========
+*/
+
+@media only screen and (max-width : 992px) {
+  header, main, footer {
+    padding-left: 0;
+  }
+
+  .page-content > section {
+  	padding: 20px;
+  	width: 100%;
+  }
+}
+
+@media only screen and (max-width : 700px) {
+  .page-content > section {
+  	width: 100%;
+  	padding: 20px;
+  	margin: 0;
+  }
+}

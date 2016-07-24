@@ -1,0 +1,54 @@
+/*
+A collection of custom components
+which are designed for use inside
+revealjs slides.
+*/
+
+.slides {
+
+	/*
+	Horizontal List
+	-----------------
+
+	Displays list items horizontally using FlexBox.
+	Has a dotted border and padding between items.
+
+	Optional extras:
+	  - no-border
+	  - no-padding
+	*/
+	.horizontal-list {
+
+		display: flex;
+		align-items: stretch;
+		margin: 0 auto;
+		list-style-type: none;
+
+		>li {
+			flex: 1;
+			text-align: center;
+			border-right: 1px dotted rgba(0, 0, 0, 0.3);
+			padding: 20px 10px;
+			line-height: 120%;
+			list-style-type: none;
+
+			p {
+				font-size: 70%;
+			}
+
+			&:last-of-type {
+				border-right: none;
+			}
+		}
+
+		&.no-border > li{
+			border: none;
+		}
+
+		&.no-padding > li {
+			padding: 0;
+		}
+	}
+
+
+}

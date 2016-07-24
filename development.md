@@ -28,4 +28,4 @@ layout: index
 
 <br>
 
-{% include project-progress.html %}
+{% include layout/project-progress.html %}
