@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="455.476px" height="230.952px" viewBox="0 0 455.476 230.952" enable-background="new 0 0 455.476 230.952"
+	 xml:space="preserve">
+<rect x="12.81" y="39.993" fill="none" width="112.667" height="27.333"/>
+<text transform="matrix(1 0 0 1 12.8096 54.9927)" font-family="'Roboto-Bold'" font-size="20">Plan</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M103.82,67.048V50.382c0-9.941-8.059-18-18-18
+		H12.81"/>
+	<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="92.993,56.22 103.82,67.048 
+		114.648,56.22 	"/>
+</g>
+<rect x="122.81" y="89.993" fill="none" width="112.667" height="27.333"/>
+<text transform="matrix(1 0 0 1 122.8096 104.9927)" font-family="'Roboto-Bold'" font-size="20">Build</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M213.82,117.048v-16.666c0-9.941-8.059-18-18-18
+		H102.81"/>
+	<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="202.993,106.22 213.82,117.048 
+		224.648,106.22 	"/>
+</g>
+<rect x="232.81" y="139.993" fill="none" width="112.666" height="27.332"/>
+<text transform="matrix(1 0 0 1 232.8101 154.9932)" font-family="'Roboto-Bold'" font-size="20">Test</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M323.82,167.048v-16.666c0-9.941-8.059-18-18-18
+		h-93.01"/>
+	<polyline fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="312.993,156.22 323.82,167.048 
+		334.648,156.22 	"/>
+</g>
+<rect x="342.81" y="189.993" fill="none" width="112.666" height="27.332"/>
+<text transform="matrix(1 0 0 1 342.8101 204.9932)" font-family="'Roboto-Bold'" font-size="20">Deliver</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M425.82,182.382H322.81"/>
+</g>
+</svg>
