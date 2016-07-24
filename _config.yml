@@ -3,6 +3,9 @@ name: Digital Skills and Scholarship for Researchers
 baseurl: "/coursebook"
 slideshows: "https://digital-skills-for-researchers.github.io/slideshows"
 
+# theme
+themecolor: "rgba(0,0,0,0.87)"
+
 markdown: kramdown
 
 kramdown:
