@@ -97,13 +97,6 @@ slides:
 
 
 
-    - content: |
-
-        ## Software Carpentry
-
-        ![](images/hammer.png)
-
-
 
 
 
@@ -162,16 +155,12 @@ slides:
         ![](images/spread_sheet_problems.png)
 
 
-    - content: |
-
-        ![](images/data_carpentry.png)
-
 
 
 
     - content: |
 
-        # RDBMS
+        # Databases
 
         Queries (SQL)
 
@@ -182,5 +171,3 @@ slides:
         mySQL, PostgreSQL, SQLite
 
 ---
-
-TEST
