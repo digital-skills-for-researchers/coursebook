@@ -31,11 +31,11 @@ Upon completion of this module you should be able to:
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
 - [Slideshow: Intro (TODO: Tanya)](#)
-- [Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/00-intro.html)
+- [Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-intro/)
 - [Slideshow: Files and Dirs (TODO: Tanya)](#)
-- [Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-filedir.html)
+- [Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-filedir/)
 - [Slideshow: Things (TODO: Tanya)](#)
-- [Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-create.html)
+- [Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-create/)
 
 
 
@@ -46,13 +46,13 @@ An introduction to the command line - how to navigate directories and create, mo
 How to automate the processing of data with the shell.  
 
 - [Slideshow: Pipes (TODO)](#)
-- [Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)
+- [Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
 - [Slideshow: Loops (TODO)](#)
-- [Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-loop.html)
+- [Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-loop/)
 - [Slideshow: Scripts (TODO)](#)
-- [Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-script.html)
+- [Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-script/)
 - [Slideshow: Finding Things (TODO)](#)
-- [Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-find.html)
+- [Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/07-find/)
 
 
 
