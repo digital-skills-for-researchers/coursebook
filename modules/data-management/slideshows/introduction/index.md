@@ -44,6 +44,24 @@ slides:
 
 
 
+    - class: left-aligned
+      background-image: images/what_is_data.jpg
+      background-size: 30%
+      background-position: 70%
+      content: |
+
+        # What are data?
+
+
+
+      cc:
+        - title: 逼格
+          licence: 
+          author: 
+          author-url: 
+          source: tretars
+          source-url: www.tretars.com
+
 
     - class: left-aligned
       background-image: images/socialize.svg
@@ -68,51 +86,10 @@ slides:
           source-url: https://thenounproject.com/konradmichalik/uploads/?i=62507
 
 
-    - class: left-aligned
-      background-image: images/what_is_data.jpg
-      background-size: 30%
-      background-position: 70%
-      content: |
+    - content: |
 
-        # What is data?
-
-
-
-      cc:
-        - title: 逼格
-          licence: 
-          author: 
-          author-url: 
-          source: tretars
-          source-url: www.tretars.com
-
-
-    - class: center-aligned    
-
-      content: |
-
-        ## What is your research topic?
- 
-        ## What kinds of data will you deal with?
-
-        ![Hard drive with a question mark on it](images/what_kind_of_data.jpg){:height="200"}
-
-      cc:
-        - title: 
-          licence: CC-BY
-          author: iconsmind 
-          author-url: https://thenounproject.com/imicons/
-          source: Noun Project
-          source-url: https://thenounproject.com/   
-
-        
-        
-
-
-      
-
-
-     
+        # Research and data life cycles
+    
 
     - class: left-aligned light-text
       background-image: images/no_accompanying_data.jpg
@@ -162,20 +139,49 @@ slides:
           source-url: https://www.flickr.com/photos/blprnt/
 
 
-
     - content: |
 
         ## Getting good at managing data<br> matters for your research career!
 
 
+
+
+    - class: center-aligned    
+
+      content: |
+
+        ## What is your research topic?
+ 
+        ## What kinds of data will you deal with?
+
+        ![Hard drive with a question mark on it](images/what_kind_of_data.jpg){:height="200"}
+
+      cc:
+        - title: 
+          licence: CC-BY
+          author: iconsmind 
+          author-url: https://thenounproject.com/imicons/
+          source: Noun Project
+          source-url: https://thenounproject.com/   
+
+        
+        
+
+
+      
+
+
+     
+
+    
+
+   
     - content: |
 
         # Why manage your data?
 
 
-    - content: |
-
-        # Research and data life cycles
+    
 
 
     - content: |
