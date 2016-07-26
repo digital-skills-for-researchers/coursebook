@@ -165,7 +165,19 @@ slides:
           source-url: https://thenounproject.com/   
 
         
-        
+    - content: |
+
+        # Data Collection
+
+        * What kinds? 
+        * How much ? ### raw + (analysed* no. analyses) + (backup*redundancies) ###
+        * Will it grow?
+        * Will it change over time?
+        * What file formats?
+        * How will you organise it?
+        * Where will you store it?
+        * How will you document and describe it?
+        * How will you check for errors? 
 
 
       
@@ -191,19 +203,7 @@ slides:
 
 
 
-    - content: |
-
-        # Data Collection
-
-        * What kinds? 
-        * How much ? ### raw + (analysed* no. analyses) + (backup*redundancies) ###
-        * Will it grow?
-        * Will it change over time?
-        * What file formats?
-        * How will you organise it?
-        * Where will you store it?
-        * How will you document and describe it?
-        * How will you check for errors?
+    
 
 
 
