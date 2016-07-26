@@ -33,11 +33,11 @@ Upon completion of this module you should be able to:
 
 TODO: Short summary of this classroom block
 
-- [Lecture: Introduction]({{ site.slideshows }}/modules/data-management/introduction)
+- [Lecture: Introduction](slideshows/introduction)
 - [Activity?](#)
-- [Lecture: Organising Your Project]({{ site.slideshows }}/modules/data-management/organising-your-project)
+- [Lecture: Organising Your Project](slideshows/organising-your-project)
 - [Activity?](#)
-- [Lecture: Security, Protection and Privacy]({{ site.slideshows }}/modules/data-management/security-protection-privacy)
+- [Lecture: Security, Protection and Privacy](slideshows/security-protection-privacy)
 - [Activity?](#)
 {:.resources}
 
