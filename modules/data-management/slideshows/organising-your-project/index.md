@@ -11,12 +11,10 @@ slides:
         Clear - Concise - Consistent
 
 
-    - class: left-aligned
-      background-image: images/heirarchies.jpg
-      background-size: 15%
-      background-position: 50%
-      content: |
+    - content: |
         ## Hierarchies
+
+        ![](images/heirarchies.jpg)
 
 
 
@@ -42,9 +40,7 @@ slides:
 
 
     - class: left-aligned
-      background-image: images/name_badge.png
-      background-size: 15%
-      background-position: 50%
+     
       content: |
 
         ## Naming Files and Folders
@@ -79,13 +75,11 @@ slides:
 
 
 
-    - class: right-aligned
-      background-image: images/version_control_phd_comics.png
-      background-size: 15%
-      background-position: 50%
-      content: |
+    - content: |
 
         # Version Control
+
+        ![](images/version_control_phd_comics.png)
 
 
 
@@ -103,52 +97,36 @@ slides:
 
 
 
-    - class: center-aligned
-      background-image: images/hammer.png
-      background-size: 40%
-      background-position: 50%
+    - content: |
+
+        ## Software Carpentry
+
+        ![](images/hammer.png)
+
+
+
+
+
+    - class: left-align 
+      style: |
+        padding: 0 120px
       content: |
 
+        # Project Organisation
 
-
-
+        - Different data files are easily distinguishable
+        - A consistent strategy prevents confusion when multiple 
+          people are working on a project
+        - Things are easy to find
+        - Things are easy to start
+        - Document your strategy
 
 
 
     - content: |
-
-        # Project Organisation
-
-        Different data files are easily distinguishable
-
-        A consistent strategy prevents confusion when multiple people le are working on a project
-
-        Things are easy to find
-
-        Things are easy to start
-
-        Document your strategy
-
-
-
-    - class: center-aligned
-      background-image: images/file_formats_1.png
-      background-size: 40%
-      background-position: 60%
-      content: |
         ## File Formats
 
-
-
-
-
-    - class: center-aligned
-      background-image: images/file_formats_2.png
-      background-size: 40%
-      background-position: 60%
-      content: |
-        ## File Formats
-
+        ![](images/file_formats_2.png)
 
 
 
@@ -165,36 +143,28 @@ slides:
 
         - Domain specific standards?
 
-        -Consider fidelity or quality issues if using
+        - Consider fidelity or quality issues if using
         compression.
 
 
-    - class: center-aligned
-      background-image: images/tidy_data.png
-      background-size: 40%
-      background-position: 60%
-      content: |
+    - content: |
         ## Tidy Data
 
+        ![](images/tidy_data.png)
 
 
 
 
 
-    - class: center-aligned
-      background-image: images/spread_sheet_problems.png
-      background-size: 100%
-      background-position: 0%
-      content: |
+    - content: |
         ## Spreadsheet Problems
 
+        ![](images/spread_sheet_problems.png)
 
 
-    - class: center-aligned
-      background-image: images/data_carpentry.png
-      background-size: 100%
-      background-position: 0%
-      content: |
+    - content: |
+
+        ![](images/data_carpentry.png)
 
 
 
