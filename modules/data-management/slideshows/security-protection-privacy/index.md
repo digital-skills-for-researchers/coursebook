@@ -40,14 +40,7 @@ slides:
 
         # Who owns your data?
 
-
-
-    - class: center-aligned
-      background-image: images/single_copyright.png
-      background-size: 50%
-      background-position: 60%
-      content: |
-        ## Who owns your data?
+        ![Copyright Symbol](images/single_copyright.png)
 
 
 
@@ -56,70 +49,55 @@ slides:
 
         # Copyright and Licensing
 
-    - class: center-aligned
-      background-image: images/licence.png
-      background-size: 30%
-      background-position: 60%
-      content: |
-        ## Copyright and Licensing
+        ![](images/licence.png)
 
 
 
 
-    - class: center-aligned
-      background-image: images/question.png
-      background-size: 10%
-      background-position: 80%
-      content: |
+    - content: |
+
+        ![](images/question.png)
 
 
 
     - class: center-aligned
+      style: |
+        padding: 0 150px;
       content: |
 
         # Publishing Data
 
-        - Scientific Integrity
-
-        - Funder requirements
-
-        - Impact
-
-        - Collaboration
-
-        - Innovation and reuse
-
-        - Preservation
-
-        - Teaching
-
-        - Public record
+        - - Scientific Integrity
+          - Funder requirements
+          - Impact
+          - Collaboration
+        - - Innovation and reuse
+          - Preservation
+          - Teaching
+          - Public record
+        {:.horizontal-list}
 
 
 
 
 
 
-    - class: center-aligned
-      background-image: images/data_cite.png
-      background-size: 70%
-      background-position: 50%
-      content: |
+    - content: |
 
         ## Citing data
 
+        ![](images/data_cite.png)
 
 
 
 
 
-    - class: left-aligned
-      background-image: images/socialize.svg
-      background-size: 30%
-      background-position: 70%
-      content: |
+
+    - content: |
 
         ## Let's looks at some scenarios
+
+        ![](images/socialize.svg){:height="250"}
 
       cc:
         - title: socialize
@@ -142,11 +120,9 @@ slides:
 
 
 
-    - class: left-aligned
-      background-image: images/hacky_hour.png
-      background-size: 100%
-      background-position: 0%
-      content: |
+    - content: |
+
+        ![](images/hacky_hour.png)
 
         
 
