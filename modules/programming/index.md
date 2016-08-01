@@ -37,12 +37,12 @@ Learn how to create and run Python files.
 
 Getting started with Python. Assigning values to variables, control structures and storing data.
 
-
 - [Activity: Getting Started (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/)
-- [Activity: Repeating Actions with Loops (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html)
-- [Activity: Storing Multiple Values in Lists (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
-- [Activity: Analysing Data from Multiple Files (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/04-files.html)
-- [Activity: Making Choices (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/05-cond.html)
+- [Activity: Loading and Manipulating Data (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
+- [Activity: Repeating Actions with Loops (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
+- [Activity: Storing Multiple Values in Lists (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/03-lists/)
+- [Activity: Analysing Data from Multiple Files (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
+- [Activity: Making Choices (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
 
 
 
@@ -55,11 +55,11 @@ Getting started with Python. Assigning values to variables, control structures a
 
 Creating functions, Defensive Programming and Test Driven Development.
 
-- [Activity: Creating Functions (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/06-func.html)
-- [Activity: Errors and Exceptions (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/07-errors.html)
-- [Activity: Defensive Programming (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/08-defensive.html)
-- [Activity: Debugging (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/09-debugging.html)
-- [Activity: Command-Line Programs (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline.html)
+- [Activity: Creating Functions (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
+- [Activity: Errors and Exceptions (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/07-errors/)
+- [Activity: Defensive Programming (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/08-defensive/)
+- [Activity: Debugging (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
+- [Activity: Command-Line Programs (Software Carpentry)](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
 
 
 

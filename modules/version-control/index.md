@@ -55,12 +55,12 @@ Introduction to the basics of Version Control, Git and GitHub.
 {:.resources}
 
 [intro]: {{site.slideshows}}/modules/version-control/introduction
-[install]: http://swcarpentry.github.io/git-novice/02-setup.html
+[install]: http://swcarpentry.github.io/git-novice/02-setup/
 [repos]: {{site.slideshows}}/modules/version-control/repositories
-[create-repo]: http://swcarpentry.github.io/git-novice/03-create.html
+[create-repo]: http://swcarpentry.github.io/git-novice/03-create/
 [wkflow-slides]: {{site.slideshows}}/modules/version-control/git-workflow
 [tactile-wkflow]: activities/tactile-git-workflow.html
-[sc-wkflow]: http://swcarpentry.github.io/git-novice/04-changes.html
+[sc-wkflow]: http://swcarpentry.github.io/git-novice/04-changes/
 
 
 **Resources**
@@ -94,11 +94,11 @@ Advanced functionality and commands using Git.
 
 **Resources**
 
-- [Exploring History (Software Carpentry)](http://swcarpentry.github.io/git-novice/05-history.html)
-- [Ignoring Things (Software Carpentry)](http://swcarpentry.github.io/git-novice/06-ignore.html)
-- [Remotes in GitHub (Software Carpentry)](http://swcarpentry.github.io/git-novice/07-github.html)
-- [Collaborating (Software Carpentry)](http://swcarpentry.github.io/git-novice/08-collab.html)
-- [Conflicts (Software Carpentry)](http://swcarpentry.github.io/git-novice/09-conflict.html)
+- [Exploring History (Software Carpentry)](http://swcarpentry.github.io/git-novice/05-history/)
+- [Ignoring Things (Software Carpentry)](http://swcarpentry.github.io/git-novice/06-ignore/)
+- [Remotes in GitHub (Software Carpentry)](http://swcarpentry.github.io/git-novice/07-github/)
+- [Collaborating (Software Carpentry)](http://swcarpentry.github.io/git-novice/08-collab/)
+- [Conflicts (Software Carpentry)](http://swcarpentry.github.io/git-novice/09-conflict/)
 - [How to Backtrack (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-backtracking/exercises/backtracking-intro)
 - [Git Teamwork (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/remotes)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
