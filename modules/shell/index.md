@@ -30,11 +30,11 @@ Upon completion of this module you should be able to:
 
 An introduction to the command line - how to navigate directories and create, move, and delete files
 
-- [Slideshow: Intro (TODO: Tanya)](#)
+- [Video: Introducing Ubuntu](https://www.youtube.com/watch?v=YToV2tR2sag)
 - [Activity: Introducing the Shell (Software Carpentry)](http://swcarpentry.github.io/shell-novice/01-intro/)
-- [Slideshow: Files and Dirs (TODO: Tanya)](#)
+- [Video: Directory Navigation](https://www.youtube.com/watch?v=ZitCUet8ZOY)
 - [Activity: Files and Directories (Software Carpentry)](http://swcarpentry.github.io/shell-novice/02-filedir/)
-- [Slideshow: Things (TODO: Tanya)](#)
+- [Video: Create and Delete Files and Dircetories](https://www.youtube.com/watch?v=PH9rUN9fqdw)
 - [Activity: Creating Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/03-create/)
 
 
@@ -45,13 +45,9 @@ An introduction to the command line - how to navigate directories and create, mo
 
 How to automate the processing of data with the shell.  
 
-- [Slideshow: Pipes (TODO)](#)
 - [Activity: Pipes and Filters (Software Carpentry)](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
-- [Slideshow: Loops (TODO)](#)
 - [Activity: Loops (Software Carpentry)](http://swcarpentry.github.io/shell-novice/05-loop/)
-- [Slideshow: Scripts (TODO)](#)
 - [Activity: Shell Scripts (Software Carpentry)](http://swcarpentry.github.io/shell-novice/06-script/)
-- [Slideshow: Finding Things (TODO)](#)
 - [Activity: Finding Things (Software Carpentry)](http://swcarpentry.github.io/shell-novice/07-find/)
 
 
