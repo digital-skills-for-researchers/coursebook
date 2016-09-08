@@ -75,36 +75,33 @@ Begin writing programs that will help you analyse the data from your course proj
 {:.resources}
 
 
-## Independent Activities ## 
-
 
 
 
 ## Badges
 
-1. ### Simple calculations using variables
-  ![IO Badge](images/badges/badge.png)
-  Perform basic scientific calculations such as changing from degrees Kelvin to degrees Celsius, using named variables and displaying the result 
-  _Learning outcomes: a_
+1. ### [Input and Output](badges/input-output.html)
+  ![Input Output Badge](badges/images/input-output.png)
+  Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
+  [&raquo; Assessment Details](badges/input-output.html)
 
 
-2. ### Loops and Conditional Statements
-  ![Decisions Badge](images/badges/badge.png)
-  Given a basic data set, loop through the data and check whether it is valid according to the criteria supplied.
-  _Learning outcomes: b_
+2. ### [Looper](badges/lists-loops.html)
+  ![Lists Loops Badge](badges/images/lists-loops.png)
+  Using Python, write a script which constructs a list and then loops over the items to find a summarised result.
+  [&raquo; Assessment Details](badges/lists-loops.html)
 
 
-3. ### Arrays and lists
-  ![List Badge](images/badges/badge.png)
-  Using indexing and slicing, can find the value and index of the minimum, maximum, and other simple operations, of different ranges within arrays and lists. 
-  _Learning outcomes: c_
+3. ### [Booleans and Conditionals](badges/conditionals.html)
+  ![Booleans Conditionals Badge](badges/images/conditionals.png)
+  Write a program which runs some conditional functionality based on a property of a given object.
+  [&raquo; Assessment Details](badges/conditionals.html)
 
 
-4. ### Creating and Composing Functions
-  ![Functions Badge](images/badges/badge.png)
-  Create a simple function that performs a scientific calculation. Use this function in a new function [to  do something]
-  _Learning outcomes: d_
-
+4. ### [Composer](badges/functions.html)
+  ![Functions Badge](badges/images/functions.png)
+  Using Python, write a script which uses a function to improve the code structure and clarity.
+  [&raquo; Assessment Details](badges/functions.html)
 
 5. ### Defensive Programming
   ![Defender Badge](images/badges/badge.png)
@@ -117,4 +114,6 @@ Begin writing programs that will help you analyse the data from your course proj
   Given the outline of a simple function, you can create a series of tests that check function validity, corner cases and faulty/incorrect input.
   _Learning outcome: e_
 {:.badges}
+
+
 
