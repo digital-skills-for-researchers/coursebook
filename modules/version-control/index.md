@@ -102,6 +102,7 @@ Advanced functionality and commands using Git.
 - [How to Backtrack (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-backtracking/exercises/backtracking-intro)
 - [Git Teamwork (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/remotes)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+- [GitHub Flow (article)](http://scottchacon.com/2011/08/31/github-flow.html)
 {:.resources}
 
 
@@ -148,35 +149,35 @@ _No task yet_
 
 ## Badges
 
-1. ### Git Status and Logs
-![Badge](images/badges/badge.png)
-Given a git repository, can use git status and git log to answer questions about the number of commits, when they were made, what files are committed and what files are staged. 
-_Learning outcomes: ?_
+1. ### [Gitting Started](badges/gitting-started.html)
+![Gitting Started Badge](badges/images/gitting-started.png)
+Use command line Git to create a new repository with a readme file, licence and gitignore. Additionally, publish the repository to GitHub.
+[&raquo; Assessment Details](badges/gitting-started.html)
 
-2. ### Ignoring files and folders
-![Badge](images/badges/badge.png)
-Given a git repository, can edit the config file to ignore all files of certain types, as well as all files contained within certain folders.
-_Learning outcomes: ?_
+2. ### [Flying Solo](badges/flying-solo.html)
+![Flying Solo Badge](badges/images/flying-solo.png)
+Use command line Git to clone a repository. Confidently commit, push and pull changes from the remote repository.
+[&raquo; Assessment Details](badges/flying-solo.html)
 
-3. ### Checking out branches
-![Badge](images/badges/badge.png)
-Use the log function, work out which branch to check out based on the commit comments, checkout a file, revert to the original branch, anc commit the file.
-_Learning outcomes: ?_
+3. ### [Time Lord](badges/time-lord.html)
+![Time Lord Badge](badges/images/time-lord.png)
+Use command line Git to undo uncommitted changes, roll back the last commit, and revert a specific commit.
+[&raquo; Assessment Details](badges/time-lord.html)
 
-4. ### What's Changed? Using diff
-![Badge](images/badges/badge.png)
-Using the log function, find out when a certain file was updated, then using diff work out exataly what changed over the different iterations. 
-_Learning outcomes: ?_
+4. ### [Arborist](badges/arborist.html)
+![Arborist Badge](badges/images/arborist.png)
+Use command line Git to create a branch, make and commit some changes on that branch, merge them back into master, and retire the branch.
+[&raquo; Assessment Details](badges/arborist.html)
 
-5. ### Remotes in Git
-![Badge](images/badges/badge.png)
-Sketch outline. Have two remotes (representing two different colloboartors). Use a fetch command to get their commit history. Use diff to find out which file to commit based on some criteria, then commit that to your own branch.
-_Learning outcomes: ?_
+5. ### [Contributor](badges/contributor.html)
+![Contributor Badge](badges/images/contributor.png)
+Submit a contribution to another user's repository via pull requests, either on the command line or using GitHub.
+[&raquo; Assessment Details](badges/contributor.html)
 
-6. ### Collaborating with Git
-![Badge](images/badges/badge.png)
-Sketch outline. Working in pairs\group of three. Create a repository on Github. Add partners as a colloborator. First partner creates a readme file. Next partner(s) pull the fill and add content, then push it back to the remote. Now each partner introduces conflicts and the subsequent partner needs to resolve them.
-_Learning outcomes: ?_
+6. ### [Mediator](badges/mediator.html)
+![Mediator Badge](badges/images/mediator.png)
+Use a diff tool to resolve single-line and multi-line merge conflicts in multiple files.
+[&raquo; Assessment Details](badges/mediator.html)
 {:.badges}
 
 
