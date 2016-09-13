@@ -80,39 +80,36 @@ Begin writing programs that will help you analyse the data from your course proj
 
 ## Badges
 
-1. ### [Input and Output](badges/input-output.html)
-  ![Input Output Badge](badges/images/input-output.png)
-  Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
-  [&raquo; Assessment Details](badges/input-output.html)
-
+1. ### [Conditionals](badges/conditionals.html)
+  ![Conditionals Badge](badges/images/conditionals.png)
+  Write a program which runs some conditional functionality based on a property of a given object.
+  [&raquo; Assessment Details](badges/conditionals.html)
 
 2. ### [Looper](badges/looper.html)
   ![Lists Loops Badge](badges/images/looper.png)
   Using Python, write a script which loops over a list of items to find a summarised result.
   [&raquo; Assessment Details](badges/looper.html)
 
-
-3. ### [Booleans and Conditionals](badges/conditionals.html)
-  ![Booleans Conditionals Badge](badges/images/conditionals.png)
-  Write a program which runs some conditional functionality based on a property of a given object.
-  [&raquo; Assessment Details](badges/conditionals.html)
-
-
-4. ### [Composer](badges/functions.html)
-  ![Functions Badge](badges/images/functions.png)
+3. ### [Composer](badges/functions.html)
+  ![Functions Badge](badges/images/composer.png)
   Using Python, write a script which uses a function to improve the code structure and clarity.
   [&raquo; Assessment Details](badges/functions.html)
 
-5. ### Defensive Programming
-  ![Defender Badge](images/badges/badge.png)
+4. ### [Input and Output](badges/input-output.html)
+  ![Input Output Badge](badges/images/input-output.png)
+  Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
+  [&raquo; Assessment Details](badges/input-output.html)
+
+5. ### [Defensive Programming](badges/defender.html)
+  ![Defender Badge](badges/images/defender.png)
   Given a simple function, can identify what pre and post conditions need to be tested for, and identify the invariants in the function. 
-  _Learning outcomes: d, e_
+  [&raquo; Assessment Details](badges/defender.html)
 
 
-6. ### Test Driven Development
-  ![TDD Badge](images/badges/badge.png)
+6. ### [Test Driven Development](badges/tdd.html)
+  ![TDD Badge](badges/images/tdd.png)
   Given the outline of a simple function, you can create a series of tests that check function validity, corner cases and faulty/incorrect input.
-  _Learning outcome: e_
+  [&raquo; Assessment Details](badges/tdd.html)
 {:.badges}
 
 
