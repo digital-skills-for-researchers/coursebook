@@ -86,10 +86,10 @@ Begin writing programs that will help you analyse the data from your course proj
   [&raquo; Assessment Details](badges/input-output.html)
 
 
-2. ### [Looper](badges/lists-loops.html)
-  ![Lists Loops Badge](badges/images/lists-loops.png)
-  Using Python, write a script which constructs a list and then loops over the items to find a summarised result.
-  [&raquo; Assessment Details](badges/lists-loops.html)
+2. ### [Looper](badges/looper.html)
+  ![Lists Loops Badge](badges/images/looper.png)
+  Using Python, write a script which loops over a list of items to find a summarised result.
+  [&raquo; Assessment Details](badges/looper.html)
 
 
 3. ### [Booleans and Conditionals](badges/conditionals.html)

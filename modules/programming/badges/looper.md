@@ -8,7 +8,7 @@ _Looping over lists in Python_
 
 ## Description
 
-Using Python, write a script which loops over a list of data and produces a cumulative result.
+Using Python, write a script which loops over a list of items to find a summarised result.
 
 
 
