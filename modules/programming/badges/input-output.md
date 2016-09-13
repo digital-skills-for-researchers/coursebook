@@ -16,7 +16,7 @@ Using Python, write a script to ask the user for a file to process, then save th
 
 This task is designed to assess whether you understand how to write Python code for input and output via the shell, and how to read and write plain text files.
 
-You may seek help with parts of the code not related to shell input/output or file input/output if needed.
+You may use web search to complete this task, but you may not refer to your own previous work. This is to demonstrate that you can solve a task using publicly available resources.
 
 You may assume that the source file will always be a text file.
 
@@ -40,20 +40,13 @@ You may assume that the source file will always be a text file.
 
 ```text
 Filename: bird-data
-Extension: csv
-Size: 30kb
+Extension: .csv
+Location: C:/users/projects/bird-data/data
+Size: 30 bytes
 Lines: 112
 ```
 
-**Note:** You may use the following function to count the number of lines in a text file:
-
-```python
-def get_number_of_lines_in_file(file_name):
-    with open(file_name) as file:
-        for line_number, line_content in enumerate(file):
-            pass
-    return line_number + 1
-```
+**Note:** You may use the web as a reference for this task, including the Python documentation and StackOverflow. You may not refer to your own previous work, even if it is hosted on GitHub.
 
 
 
@@ -68,12 +61,4 @@ def get_number_of_lines_in_file(file_name):
 - Summary file contains the correct information.
 - Script notifies the user when the summary has been produced.
 {:.checklist}
-
-<br>
-
-**Note:** The student may ask for help coding and executing the parts of the Python file unrelated to shell input/output or file input/output.
-
-They will need to independently find the file, open it, separate the file name from the extension, find the file size, create the output, and save the output file.
-
-The line count function is provided. They may ask for help calling the function but should not need to.
 
