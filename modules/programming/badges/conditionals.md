@@ -28,10 +28,13 @@ You may use web search to complete this task, but you may not refer to your own 
 2. Prompt the user to enter how many coffees they had today.
 
 3. Respond accordingly:
-  0 coffees: "Wow, good on ya!
-  1 coffee: "Just getting started eh..."
-  2 coffees: "Hmm. About average!"
-  3 or more: "Whoa! Are you still feeling okay?"
+  - 0 coffees: "Wow, good on ya!"
+  - 1 coffee: "Just getting started eh..."
+  - 2 coffees: "Hmm. About average!"
+  - 3 or more: a randomly chosen response from:
+    - "Whoa! Are you still feeling okay?"
+    - "Slow down there buddy!"
+    - "Are you sure that was a good idea?"
 
 4. Make sure the program doesn't crash if an invalid value is entered.
 
@@ -49,6 +52,7 @@ You may use web search to complete this task, but you may not refer to your own 
 - Script runs from shell
 - Prompts the user for number of coffees
 - Responds correctly
+- Includes all three randomised responses
 - Program handles invalid input
 {:.checklist}
 
