@@ -33,7 +33,7 @@ You may use web search to complete this task, but you may not refer to your own 
 
 <br>
 
-**Note:** The skeleton file can be accessed [here]() or copied from below:
+**Note:** The skeleton file can be downloaded [here](looper-template.py) or copied from below:
 
 ```python
 #!python3.5
