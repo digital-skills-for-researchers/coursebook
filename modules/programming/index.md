@@ -80,36 +80,39 @@ Begin writing programs that will help you analyse the data from your course proj
 
 ## Badges
 
-1. ### [Conditionals](badges/conditionals.html)
-  ![Conditionals Badge](badges/images/conditionals.png)
+1. ### [Call Me Maybe | _Booleans and Conditionals_](badges/call-me-maybe.html)
+  ![Conditionals Badge](badges/images/call-me-maybe.png)
   Write a program which runs some conditional functionality based on a property of a given object.
-  [&raquo; Assessment Details](badges/conditionals.html)
+  [&raquo; Assessment Details](badges/call-me-maybe.html)
 
-2. ### [Looper](badges/looper.html)
+2. ### [Looper | _Loops and Lists_](badges/looper.html)
   ![Lists Loops Badge](badges/images/looper.png)
   Using Python, write a script which loops over a list of items to find a summarised result.
   [&raquo; Assessment Details](badges/looper.html)
 
-3. ### [Composer](badges/functions.html)
+3. ### [Composer | _Functions_](badges/composer.html)
   ![Functions Badge](badges/images/composer.png)
   Using Python, write a script which uses a function to improve the code structure and clarity.
-  [&raquo; Assessment Details](badges/functions.html)
+  [&raquo; Assessment Details](badges/composer.html)
 
 4. ### [Input and Output](badges/input-output.html)
   ![Input Output Badge](badges/images/input-output.png)
   Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
   [&raquo; Assessment Details](badges/input-output.html)
 
-5. ### [Defensive Programming](badges/defender.html)
-  ![Defender Badge](badges/images/defender.png)
-  Given a simple function, can identify what pre and post conditions need to be tested for, and identify the invariants in the function. 
-  [&raquo; Assessment Details](badges/defender.html)
+5. ### Defender | _Defensive Programming_ (coming soon)
+  ![Defender Badge](badges/images/defender.png) 
+  Given a simple function, refactor the code to increase function stability by addressing edge cases and faulty or incorrect input.
 
 
-6. ### [Test Driven Development](badges/tdd.html)
+6. ### The Stig | _Test Driven Development_ (coming soon)
   ![TDD Badge](badges/images/tdd.png)
-  Given the outline of a simple function, you can create a series of tests that check function validity, corner cases and faulty/incorrect input.
-  [&raquo; Assessment Details](badges/tdd.html)
+  Use the Test Driven Development process of "red, green, refactor" to design, test and implement a function.
+  
+
+7. ### Safety Net | _Error Handling_ (coming soon)
+  ![TDD Badge](badges/images/tdd.png)
+  Increase the stability of a piece of code by catching and handling common errors, then providing user feedback rather than exiting.
 {:.badges}
 
 
