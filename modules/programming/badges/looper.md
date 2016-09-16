@@ -4,139 +4,72 @@ title: Input and Output
 ---
 
 # Looper
-_Looping over lists in Python_
+_Use a loop to find a cumulative or summative result in Python_
 
 ## Description
 
-Using Python, write a script which loops over a list of items to find a summarised result.
+Using Python, write a loop which finds a cumulative and/or summative result from a data set.
+
+To claim this badge, you may either provide evidence from an existing project OR complete the student task. Both assessment options are detailed below.
+
+As well as providing code evidence, you must also answer a series of questions about your loop code.
 
 
 
-## Student Task
 
-This task is designed to assess your ability to use loops in Python to do basic cumulative calculations.
+
+
+
+## Project-Based Assessment
+
+For this assessment, you can use one or more loops in your existing project code as evidence of understanding.
+
+You will need to show the code to your mentor and then answer the questions described under "Assessment Questions" below.
+
+
+
+
+
+## Task-Based Assessment
+
+This task is designed to assess your ability to use loops in Python to do find basic summative results for a data set.
 
 You may use web search to complete this task, but you may not refer to your own previous work. This is to demonstrate that you can solve a task using publicly available resources.
 
+You will need to show the code to your mentor and then answer the questions described under “Assessment Questions” below.
+
+Download the starter code for this task by right-clicking [here](looper.py) and choosing "Save link as...".
 
 
 <br>
 
 
-1. Create a new script called `looper.py`.
+1. Download and open the starter script called `looper.py`.
 
-2. Use the list of data items included below.
+2. Check that you can successfully run the script.
 
-3. Count the total number of experiments.
+3. Write your additional code under the `Calculations` section.
 
-4. Calculate the date range of the experiments.
+4. Find the total number of readings in the data set.
 
-<br>
+5. Find the maximum and minimum temperature readings.
 
-**Note:** The skeleton file can be downloaded [here](looper-template.py) or copied from below:
+6. Find the median temperature.
 
-```python
-#!python3.5
-from math import floor
+7. You must use a loop to find some or all of the required values.
 
-readings = [
-    {'time': '2016-03-11 13:02:53', 'temp': '12.3'},
-    {'time': '2016-03-11 13:03:55', 'temp': '12.5'},
-    {'time': '2016-03-11 13:05:33', 'temp': '12.7'},
-    {'time': '2016-03-11 13:08:20', 'temp': '12.9'},
-    {'time': '2016-03-11 13:09:11', 'temp': '13.3'},
-    {'time': '2016-03-11 13:11:01', 'temp': '14.0'},
-    {'time': '2016-03-11 13:13:34', 'temp': '13.8'},
-    {'time': '2016-03-11 13:12:26', 'temp': '13.7'},
-    {'time': '2016-03-11 13:17:53', 'temp': '13.8'},
-    {'time': '2016-03-11 13:18:24', 'temp': '14.1'},
-    {'time': '2016-03-11 13:20:44', 'temp': '13.5'},
-    {'time': '2016-03-11 13:21:22', 'temp': '13.6'},
-    {'time': '2016-03-11 13:23:56', 'temp': '13.1'},
-    {'time': '2016-03-11 13:25:00', 'temp': '12.8'},
-    {'time': '2016-03-11 13:26:15', 'temp': '12.5'}
-]
-
-
-# VARIABLES #########################
-
-reading_count = None
-max_temp = None
-min_temp = None
-median_temp = None
-
-all_temperatures = []
-
-
-
-
-# CALCULATIONS #######################
-
-
-# Calculate the max and min -----------
-
-min_temp = 0
-max_temp = 0
-
-
-
-
-
-# Calculate the total -----------
-
-reading_count = 0
-
-
-
-
-# Calculate the median -----------
-
-median_temp = 0
-
-
-
-
-# Calculate the range -----------
-
-temp_range = 0
-
-
-
-
-
-# OUTPUT ############################
-
-# output results
-results_template = (
-    "Total Readings: {0}\n"
-    "Max Temp: {1} C\n"
-    "Min Temp: {2} C\n"
-    "Median temp: {3} C\n"
-    "Temp Range: {4} C"
-)
-
-# format the results
-results = results_template.format(
-    reading_count,
-    max_temp,
-    min_temp,
-    median_temp,
-    temp_range
-)
-
-# print the results
-print(results)
-```
-
-**Note:** The console output should be as follows:
+8. Ensure that the script produces the following output:
 
 ```text
 Total Readings: 15
 Max Temp: 14.1 C
 Min Temp: 12.3 C
-Median temp: 13.3 C
-Temp Range: 1.799999999999999 C 
+Median temp: 13.3 C   
+Temp Range: 1.799999999999999 C
 ```
+
+
+<br>
 
 
 **Note:** You may use the web as a reference for this task, including the Python documentation and StackOverflow. You may not refer to your own previous work, even if it is hosted on GitHub.
@@ -144,12 +77,40 @@ Temp Range: 1.799999999999999 C
 
 
 
+## Assessment Questions
+
+Using either your own project code OR the code from task described above, answer each of the following questions about the loop:
+
+- What types of loops are available in Python, and which type is this?
+  _Name or describe at least two different types of loop._
+
+- What determines how many times the loop will run?
+  _This is the iterable object, it may be a data structure, numerical value or a boolean condition._
+
+- What are the variable(s) and values that change in each iteration?
+  _This includes loop-defined values and your own variables._
+
+- What determines when the loop will finish running?
+  _Identify the termination condition in your code._
+
+- How does this loop enable you to find a cumulative or summative result?
+  _Identify the purpose of the loop and how the code within it requires the use of a loop to achieve the desired result._
+
+- How might you implement this loop using a different loop type?
+  _Describe how you might implement this loop using a different type of loop, and why your choice is the better one. If using another type of loop is not possible, explain why._
+
+
+
+
 ## Assessor Checklist
 
-- Script runs from shell.
+- Script uses the best-choice loop type.
 - Uses a well-structured loop.
-- Does not use an additional loop to count the readings.
-- Uses modulo in finding the median index.
-- Produces correct summary output.
+- Loop uses well-scoped variables.
+- Does not use multiple loops to revisit the same items.
+- Loop produces correct summative/cumulative output.
+- Uses clear and sensible naming of variables.
+- Code includes clear and descriptive comments.
+- Provided satisfactory answers to assessment questions.
 {:.checklist}
 
