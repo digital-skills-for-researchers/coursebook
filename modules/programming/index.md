@@ -85,10 +85,10 @@ Begin writing programs that will help you analyse the data from your course proj
   Use a conditional statement to run different code based on a given value.
   [&raquo; Assessment Details](badges/call-me-maybe.html)
 
-2. ### [Looper | _Loops and Lists_](badges/looper.html)
-  ![Lists Loops Badge](badges/images/looper.png)
-  Using Python, write a script which loops over a list of items to find a summarised result.
-  [&raquo; Assessment Details](badges/looper.html)
+2. ### [Groundhog Day | _Loops_](badges/groundhog-day.html)
+  ![Loops Badge](badges/images/groundhog-day.png)
+  Use a loop to find a cumulative or summative result in Python.
+  [&raquo; Assessment Details](badges/groundhog-day.html)
 
 3. ### [Composer | _Functions_](badges/composer.html)
   ![Functions Badge](badges/images/composer.png)

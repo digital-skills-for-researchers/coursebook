@@ -3,7 +3,7 @@ layout: badge
 title: Input and Output
 ---
 
-# Looper
+# Groundhog Day | _Loops_
 _Use a loop to find a cumulative or summative result in Python_
 
 ## Description
