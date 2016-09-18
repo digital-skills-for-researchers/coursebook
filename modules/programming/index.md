@@ -80,9 +80,9 @@ Begin writing programs that will help you analyse the data from your course proj
 
 ## Badges
 
-1. ### [Call Me Maybe | _Booleans and Conditionals_](badges/call-me-maybe.html)
+1. ### [Call Me Maybe | _Conditionals_](badges/call-me-maybe.html)
   ![Conditionals Badge](badges/images/call-me-maybe.png)
-  Write a program which runs some conditional functionality based on a property of a given object.
+  Use a conditional statement to run different code based on a given value.
   [&raquo; Assessment Details](badges/call-me-maybe.html)
 
 2. ### [Looper | _Loops and Lists_](badges/looper.html)
