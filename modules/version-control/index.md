@@ -41,6 +41,8 @@ badges:
     slug: contributor
     description: Submit a contribution to another user's repository via pull requests, either on the command line or using GitHub.
 
+wip-badges:
+
   - serious-name: Merge Resolution
     fun-name: Mediator
     slug: mediator
