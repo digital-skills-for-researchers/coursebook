@@ -4,6 +4,11 @@
 <!-- Materialize JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
 
+<script>
+  // Initialize menu collapse button
+  $(".button-collapse").sideNav();
+</script>
+
 
 {% if page.layout == 'slideshow' %}
 
@@ -17,9 +22,6 @@
 
     <!-- Custom site script for converting calendar weeks into a collapsible list -->
     <script src="{{ site.baseurl }}/theme/assets/js/calendar.js"></script>
-
-    <!-- Custom site script for splitting content into containers -->
-    <script src="{{ site.baseurl }}/theme/assets/js/layout.js"></script>
 
     <!-- Custom site script to support deep linking -->
     <script src="{{ site.baseurl }}/theme/assets/js/deep-linking.js"></script>

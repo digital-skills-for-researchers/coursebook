@@ -2,7 +2,7 @@ body {
     background-color: #fcfcfc;
 }
 
-header, main {
+/*header, main {
     padding-left: 240px;
 }
 
@@ -13,16 +13,46 @@ footer.container {
 }
 
 
-.page-content > section {
+.page-wrapper > section {
 	padding: 30px;
-}
+}*/
 
 /* the first section, containing the intro */
-.page-content > section:first-of-type {
-	/* background: lightblue; */
+/*.page-wrapper > section:first-of-type {
 	font-size: 140%;
+}*/
+
+.page-wrapper > .container {
+	padding-left: 240px;
+	margin: 0;
+	width: 85%;
 }
 
+.container > section {
+	padding-left: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+section.page-header {
+	font-size: 130%;
+}
+
+section.learning-outcomes {
+}
+
+section.page-content {
+}
+
+section.badges {
+}
+
+
+footer.container {
+	padding: 30px;
+	border-top: 1px solid #CCC;
+	margin-top: 100px;
+}
 
 /*
 ===========
@@ -30,21 +60,24 @@ MOBILE
 ===========
 */
 
-@media only screen and (max-width : 992px) {
-  header, main, footer {
-    padding-left: 0;
-  }
 
-  .page-content > section {
-  	padding: 20px;
-  	width: 100%;
+
+@media only screen and (max-width : 992px) {
+  .page-wrapper > .container {
+	padding-left: 0;
   }
 }
 
-@media only screen and (max-width : 700px) {
-  .page-content > section {
-  	width: 100%;
-  	padding: 20px;
-  	margin: 0;
+@media only screen and (max-width : 720px) {
+
+	.page-wrapper > .container {
+		width: 100%;
+	}
+  .container > section {
+  	padding: 10px 30px;
   }
+
+	h1 {
+		margin-top: 0;
+	}
 }

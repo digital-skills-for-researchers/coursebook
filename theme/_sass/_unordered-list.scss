@@ -1,10 +1,24 @@
 /* unordered lists */
-.module ul {
+
+ol {
+	padding-left: 1.2rem;
+}
+
+ul li {
+	list-style: disc outside;
+	margin-left: 1.5rem;
+	padding: 0.2rem 0;
+}
+
+.page-content ul {
 
 	/* all list items */
 	li {
+		list-style: none;
 		border-top: 1px solid #ccc;
-		padding-left: 1rem;
+		margin: 0;
+		padding: 0 1rem;
+		line-height: 1.5rem;
 
 		/* last list item in list */
 		&:last-of-type {

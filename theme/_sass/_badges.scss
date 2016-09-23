@@ -10,12 +10,21 @@ ol.badges {
 		padding-top: 1em;
 		min-height: 150px;
 
+		a {
+			color: black;
+		}
+
 		h3 {
 			font-size: 130%;
 			font-weight: bold;
 			border: none;
 			margin:0;
 			padding: 0;
+			color: #039be5;
+		}
+
+		.assessment-link {
+			color: #039be5;
 		}
 
 		br:first-of-type {

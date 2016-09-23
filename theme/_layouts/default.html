@@ -4,7 +4,7 @@
 {% include layout/head.html %}
 {% include layout/main-navigation.html %}
 
-<div class="page-content">
+<div class="page-wrapper">
 
 
 <!-- display slideshow if there is one (when on a chapter page) -->
@@ -16,13 +16,64 @@
 
 <!-- display page content -->
 <div class="container">
-{{ content }}
+
+	<!-- title and description -->
+	{% if page.title %}
+		<section class="page-header">
+			<h1>{{ page.title }}</h1>
+			<p>{{ page.introduction | markdownify }}</p>
+		</section>
+	{% endif %}
+
+
+	<!-- learning outcomes, if any -->
+	{% if page.learning-outcomes %}
+		<section class="learning-outcomes">
+			<h2>Learning Outcomes</h2>
+			<p>Upon completion of this module you should be able to:</p>
+			<ul>
+				{% for outcome in page.learning-outcomes %}
+					<li>{{ outcome }}</li>
+				{% endfor %}
+			</ul>
+		</section>
+	{% endif %}
+
+
+	<!-- page content -->
+	<section class="page-content">
+		{{ content }}
+	</section>
+
+
+	<!-- badges, if any -->
+	{% if page.badges %}
+		<section class="badges">
+			<h2>{{ page.title }} Badges</h2>
+			<ol class="badges">
+				{% for badge in page.badges %}
+					<li>
+					<a href="badges/{{ badge.slug }}.html">
+						<h3>{{ badge.fun-name }} | <i>{{ badge.serious-name }}</i></h3>
+						<img src="badges/images/{{ badge.slug }}.png" alt="{{ badge.serious-name }} Badge">
+						<p>{{ badge.description }}</p>
+  						<p class="assessment-link">&raquo; Assessment Details</p>
+					</a>
+					</li>
+				{% endfor %}
+			</ol>
+		</section>
+	{% endif %}
+
+
+	{% include layout/footer.html %}
+
 </div><!-- .container -->
 
 
-{% include layout/footer.html %}
 
 
-</div><!-- .page-content -->
+
+</div><!-- .page-wrapper -->
 
 {% include layout/page-foot.html %}
