@@ -1,15 +1,12 @@
 ---
-layout: badge
-title: Merge Conflict Resolution
+layout: default
+
+title: Mediator | Merge Resolution
+subtitle: Resolving merge conflicts in Git
+
+introduction: Use a diff tool to resolve multiple merge conflicts.
+
 ---
-
-# Mediator Badge
-_Resolving merge conflicts in Git_
-
-## Description
-
-Use a diff tool to resolve multiple merge conflicts.
-
 
 
 ## Student Task
@@ -32,7 +29,7 @@ Use a diff tool to resolve multiple merge conflicts.
 
 ## Assessor Checklist
 
-- Identified the conflicted files
-- Launched diff tool from the command line
-- Explained the purpose of each generated diff file
-- Checked the program ran correctly after each merge
+1. Identified the conflicted files
+2. Launched diff tool from the command line
+3. Explained the purpose of each generated diff file
+4. Checked the program ran correctly after each merge

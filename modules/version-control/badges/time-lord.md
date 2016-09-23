@@ -1,16 +1,11 @@
 ---
-layout: badge
-title: Reverting Changes
+layout: default
+
+title: Time Lord | Reverting Changes
+subtitle: Discarding and reverting changes in Git
+
+introduction: Demonstrate how to undo all uncommitted changes, roll back the last commit, and revert a specific commit.
 ---
-
-# Time Lord Badge
-_Discarding and reverting changes in Git_
-
-
-## Description
-
-Demonstrate how to undo all uncommitted changes, roll back the last commit, and revert a specific commit.
-
 
 
 ## Student Task
@@ -48,7 +43,7 @@ Note: After your badge has been assessed you may delete this duplicate repositor
 
 ## Assessor Checklist
 
-- Student uses `git checkout master` to undo uncommitted changes.
-- Student uses GitHub or `git status` to find commit hashes.
-- Successfully rolls back the previous commit.
-- Successfully rolls back the specified commit.
+1. Student uses `git checkout master` to undo uncommitted changes.
+2. Student uses GitHub or `git status` to find commit hashes.
+3. Successfully rolls back the previous commit.
+4. Successfully rolls back the specified commit.

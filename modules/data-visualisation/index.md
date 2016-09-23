@@ -1,23 +1,18 @@
 ---
+layout: default
+
 title: Data Visualization
-layout: module
+introduction: This module will introduce you to the theory of visualization, as well as how to create effective scientific visualizations in a variety of different forms. Developing your visualization skills will make you a more effective communicator. Now that you are comfortable doing basic programming in Python, you have access to some very powerful tools for visualizing your data. 
+
+learning-outcomes:
+
+  - a. Understands the basic principles of data visulzation. Can apply these princples to design new, and improve existing, visulzations. 
+  - b. Understand common ways of displaying scientific data, and can pick an appropriate way of displaying data
+  - c. Can create visualizations methodically, considering what the message is, who are the audience and what is the nature of of the data.
+  - e. Can generate visualizations in a programmatic/reproducible way using Python  
+
 ---
 
-
-# Data Visualization
-
-This module will introduce you to the theory of visualization, as well as how to create effective scientific visualizations in a variety of different forms. Developing your visualization skills will make you a more effective communicator. Now that you are comfortable doing basic programming in Python, you have access to some very powerful tools for visualizing your data. 
-
-
-## Learning Outcomes
-
-Upon completion of this module you should be able to:
-
-- a. Understands the basic principles of data visulzation. Can apply these princples to design new, and improve existing, visulzations. 
-- b. Understand common ways of displaying scientific data, and can pick an appropriate way of displaying data
-- c. Can create visualizations methodically, considering what the message is, who are the audience and what is the nature of of the data.
-- e. Can generate visualizations in a programmatic/reproducible way using Python  
-{:.learning-outcomes}
 
 
 
@@ -74,18 +69,4 @@ During this Hacky Hour you should start/continue creating code for visualizing y
 - [Making better figures](https://betterfigures.org/2015/03/30/making-better-figures-video/)
   A half hour video showing you how to do exactly that
 {:.resources}
-
-
-## Badges
-
-1. **Right Graph for the Right Data**
-Given a range of different graphs, identify flaws with the graphs, such as type of graph, axis scale, and suggest and justify improvements
-_Learning outcomes: a_
-2. **Creating Graphs with Python**
-Given a a data sets, create a series of figures that desribe and summarize the features of the data, using Python
-_Learning outcomes: a_
-3. ** **
-_Learning outcomes b_
-
-
 

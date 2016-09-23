@@ -1,24 +1,18 @@
 ---
-layout: badge
-title: Tracking Projects
+layout: default
+
+title: Gitting Started | Repository Creation
+subtitle: Tracking Projects with Git
+introduction: Use command line Git to create a new repository with a readme file, licence and gitignore. Additionally, publish the repository to GitHub.
 ---
-
-# Gitting Started
-_Tracking Projects with Git_
-
-## Description
-
-Use command line Git to create a new repository with a readme file, licence and gitignore. Additionally, publish the repository to GitHub.
-
-
 
 
 ## Student Task
 
 1. Create a local repository called `gitting-started`. The project should contain:
-- a Python script which prints "Gitting Started!" when run from the shell.
-- a README file which describes the project name and purpose.
-- a LICENCE file describing a relevant licence
+  **- a Python script** which prints "Gitting Started!" when run from the shell.
+  **- a README file** which describes the project name and purpose.
+  **- a LICENCE file** describing a relevant licence
 
 2. Configure the repository to prevent the user from committing any files with the extension `pycache`.
 
@@ -33,14 +27,13 @@ Use command line Git to create a new repository with a readme file, licence and 
 
 ## Assessor Checklist
 
-- Project is published to GitHub under the name `gitting-started`
-- Python script runs, and prints "Gitting Started!"
-- README is written in markdown or plain text
-- README specifies project name
-- README specifies project purpose (either assessment purpose or that it prints a string)
-- LICENCE file contains an MIT licence or similar
-- Locally-created pycache files cannot be committed
-{:.checklist}
+1. Project is published to GitHub under the name `gitting-started`
+2. Python script runs, and prints "Gitting Started!"
+3. README is written in markdown or plain text
+4. README specifies project name
+5. README specifies project purpose (either assessment purpose or that it prints a string)
+6. LICENCE file contains an MIT licence or similar
+7. Locally-created pycache files cannot be committed
 
 <br>
 

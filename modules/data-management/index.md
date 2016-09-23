@@ -1,31 +1,45 @@
 ---
+layout: default
+
 title: Data Management
-layout: module
+introduction: This module will teach you the skills and concepts for effective Data Management. Simply put, Data Management is about taking care of your data so that your work isn't hindered by data issues. Your data is effectively organised and stored so you can access and understand it with ease. Effective data management goes hand in hand with effective data sharing, if you organise data well for your own use, collaborators and other users of the data will also benefit.
+
+
+learning-outcomes:
+
+  - a. Devise and apply a logical file naming scheme to a data set
+  - b. Store data in an open, readable, logically structured format when possible
+  - c. Understand a range of data storage options and their advantages and disadvantages
+  - d. Create metadata for scientific data that follows common standards
+  - e. Understand the prupose of meta data; how it aids in discoverability and describing data
+  - f. Understand issues around data sensitivity, and how to mitigate and manage these issues 
+  - g. Write a data management plan outlining data collection processes and naming conventions 
+
+
+badges:
+
+  - serious-name: File Naming and organisation
+    fun-name: Captain Curator
+    slug: captain-curator
+    description: Given a list of poorly and inconsistently named files, come up with a improved naming convention. Create a folder structure for the files and move them into it.  
+  
+  - serious-name: ReadMe Files
+    fun-name: Project X for Dummies
+    slug: project-x-for-dummies
+    description: Given a simple scientific scenario with experimental data, create a README.txt file.
+  
+  - serious-name: Creating Metadata
+    fun-name: That's So Meta
+    slug: thats-so-meta
+    description: Using the same scenario as Badge 2, create meta data using [STANDARD X]
+
+  - serious-name: Intellectual and Ethical Data Issues
+    fun-name: Bullet Dodger
+    slug: bullet-dodger
+    description: Using same scenario as Badges 2 and 3, identify how the raw data might need to be collected (anonymization), stored for a length of time/destroyed after study as well as limitations around sharing for IP reasons.  
+
+
 ---
-
-
-# Data Management
-
-This module will teach you the skills and concepts for effective Data Management. Simply put, Data Management is about taking care of your data so that your work isn't hindered by data issues. Your data is effectively organised and stored so you can access and understand it with ease. Effective data management goes hand in hand with effective data sharing, if you organise data well for your own use, collaborators and other users of the data will also benefit.
-
-
-
-
-
-## Learning Outcomes
-
-Upon completion of this module you should be able to:
-
-- a. Devise and apply a logical file naming scheme to a data set
-- b. Store data in an open, readable, logically structured format when possible
-- c. Understand a range of data storage options and their advantages and disadvantages
-- d. Create metadata for scientific data that follows common standards
-- e. Understand the prupose of meta data; how it aids in discoverability and describing data
-- f. Understand issues around data sensitivity, and how to mitigate and manage these issues 
-- g. Write a data management plan outlining data collection processes and naming conventions  
-{:.learning-outcomes}
-
-
 
 
 
@@ -66,34 +80,6 @@ This Hacky Hour should be used to start managing your project data using the pri
 - [Some Simple Guidelines for Effective Data Management](http://onlinelibrary.wiley.com/doi/10.1890/0012-9623-90.2.205/full)
 
 
-
-
-## Badges
-
-
-1. ### File naming and organisation
-  ![Namer Badge](images/badges/badge.png)
-  Given a list of poorly and inconsistently named files, come up with a improved naming convention. Create a folder structure for the files and move them into it.  
-  _Learning outcomes: a_
-
-
-2. ### Create a "README"
-  ![ReadMe Badge](images/badges/badge.png)
-  Given a simple scientific scenario with experimental data, create a README.txt file.
-  _Learning outcomes: b_
-
-
-3. ### Creating meta data
-  ![Meta Badge](images/badges/badge.png)
-  Using the same scenario as Badge 2, create meta data using [STANDARD X]
-  _Learning outcomes: c_
-
-
-4. ### Intellectual and ethical issues w.r.t data
-  ![Privacy Badge](images/badges/badge.png)
-  Using same scenario as Badges 2 and 3, identify how the raw data might need to be collected (anonymization), stored for a length of time/destroyed after study as well as limitations around sharing for IP reasons.  
-  _Learning outcomes: d_
-{:.badges}
 
 
 

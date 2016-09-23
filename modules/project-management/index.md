@@ -1,25 +1,49 @@
 ---
+layout: default
+
 title: Project Management
-layout: module
+introduction: This module will introduce some commonly used processes for project management in an agile project environment. The concepts learned in this module will be applied to the management of your personal project throughout the course.
+
+
+learning-outcomes:
+  - a. Describe the key ways Agile differs from other project management styles
+  - b. Identify and explain the four key values of Agile
+  - c. Identify and explain the purpose of each step of the Scrum process
+  - d. Organise and document an Agile Scrum project in the form of a Team Charter
+  - e. Manage project workflow using a Scrum task board with user stories and sub-tasks
+  - f. Confidently participate in all aspects of the Scrum process in a team setting
+
+
+badges:
+
+  - serious-name: Agile Basics
+    slug: agile-basics
+    description: Identify and explain the four key values of Agile in a short interview with a tutor.
+
+  - serious-name: Scrum Basics
+    slug: scrum-basics
+    description: Identify and explain the purpose of each step of the Scrum process in a short interview with a tutor.
+
+  - serious-name: Team Charter
+    slug: team-charter
+    description: Organise and document an Agile Scrum project in the form of a Team Charter. Publish it with your project and have it reviewed by a tutor.
+
+  - serious-name: Visual Planner
+    slug: visual-planner
+    description: Use a Scrum board to manage your project for at least 3 weeks. Take a photo or screenshot of your board each week. Write 200 words reflecting on the benefits and difficulties (if any) of this style of visual planning.
+
+  - serious-name: Standup Facilitator
+    slug: standup-facilitator
+    description: Act as Scrum Master for a daily standup meeting, ensuring everyone shares their status and progress according to the rules of daily standup. Gain a sentence or two of written feedback on your facilitation from 3 classmates. Act as Scrum Master at daily standup a second time then reflect on the experience (200 words).
+
+  - serious-name: Agile Practitioner
+    slug: agile-practitioner
+    description: Review your adherence to the Agile Manifesto and reflect on which aspects you are struggling with and could improve, and/or which you find most beneficial. Do this three times, at least a week apart. (150 words each).
+
+
+
 ---
 
-
-# Project Management
-
-This module will introduce some commonly used processes for project management in an agile project environment. The concepts learned in this module will be applied to the management of your personal project throughout the course.
-
-
-## Learning Outcomes
-
-Upon completion of this module you should be able to:
-
-- a. Describe the key ways Agile differs from other project management styles
-- b. Identify and explain the four key values of Agile
-- c. Identify and explain the purpose of each step of the Scrum process
-- d. Organise and document an Agile Scrum project in the form of a Team Charter
-- e. Manage project workflow using a Scrum task board with user stories and sub-tasks
-- f. Confidently participate in all aspects of the Scrum process in a team setting
-{:.learning-outcomes}
 
 
 ## Classroom | Being Agile
@@ -131,42 +155,3 @@ Upon completion of this module you should be able to:
 {:.resources}
 
 
-
-
-
-
-## Badges
-
-1. ### Agile Basics
-![Badge](images/badges/agile-basics.png)
-Identify and explain the four key values of Agile in a short interview with a tutor.
-_Learning outcomes: b_
-
-
-2. ### Scrum Basics
-![Badge](images/badges/scrum-basics.png)
-Identify and explain the purpose of each step of the Scrum process in a short interview with a tutor.
-_Learning outcomes: c_
-
-
-3. ### Team Charter
-![Badge](images/badges/team-charter.png)
-Organise and document an Agile Scrum project in the form of a Team Charter. Publish it with your project and have it reviewed by a tutor.
-_Learning outcomes: d_
-
-
-4. ### Visual Planner
-![Badge](images/badges/visual-planner.png)
-Use a Scrum board to manage your project for at least 3 weeks. Take a photo or screenshot of your board each week. Write 200 words reflecting on the benefits and difficulties (if any) of this style of visual planning.
-_Learning outcomes: e_
-
-
-5. ### Standup Facilitator
-![Badge](images/badges/standup-facilitator.png)
-Act as Scrum Master for a daily standup meeting, ensuring everyone shares their status and progress according to the rules of daily standup. Gain a sentence or two of written feedback on your facilitation from 3 classmates. Act as Scrum Master at daily standup a second time then reflect on the experience (200 words).
-
-
-6. ### Agile Practitioner
-![Badge](images/badges/agile-practitioner.png)
-Review your adherence to the Agile Manifesto and reflect on which aspects you are struggling with and could improve, and/or which you find most beneficial. Do this three times, at least a week apart. (150 words each).
-{:.badges}

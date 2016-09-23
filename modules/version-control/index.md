@@ -1,28 +1,53 @@
 ---
+layout: default
+
 title: Version Control
-layout: module
+introduction: This module will introduce you to the workflows used with the popular version control system Git. The concepts learned in this module will be applied to the management of your personal project throughout the course.
+
+
+learning-outcomes:
+
+  - Understand the benefits of an automated version control system.
+  - Configure and personalize Git to suit your own preferences.
+  - Understand at a conceptual level how Git works; how information is stored and shared at each stage of Git's workflow.
+  - Create and use Git local repositories using basic tools and commands; committing files, tracking changes and restoring files. 
+  - Collaborate with others using remote repositories and understand the advantages of doing so. Push and pull to remote repositories. Handle conflicts and communicate with collaborators to resolve them, using Git tools and commands.
+
+
+badges:
+
+  - serious-name: Repository Creation
+    fun-name: Gitting Started
+    slug: gitting-started
+    description: Use command line Git to create a new repository with a readme file, licence and gitignore. Additionally, publish the repository to GitHub.
+
+  - serious-name: Git Workflow
+    fun-name: Flying Solo
+    slug: flying-solo
+    description: Use command line Git to clone a repository. Confidently commit, push and pull changes from the remote repository.
+
+  - serious-name: Reverting Changes
+    fun-name: Time Lord
+    slug: time-lord
+    description: Use command line Git to undo uncommitted changes, roll back the last commit, and revert a specific commit.
+
+  - serious-name: Branching
+    fun-name: Arborist
+    slug: arborist
+    description: Use command line Git to create a branch, make and commit some changes on that branch, merge them back into master, and retire the branch.
+
+  - serious-name: Pull Requests
+    fun-name: Contributor
+    slug: contributor
+    description: Submit a contribution to another user's repository via pull requests, either on the command line or using GitHub.
+
+  - serious-name: Merge Resolution
+    fun-name: Mediator
+    slug: mediator
+    description: Use a diff tool to resolve single-line and multi-line merge conflicts in multiple files.
+
+
 ---
-
-# Version Control
-
-This module will introduce you to the workflows used with the popular version control system Git. The concepts learned in this module will be applied to the management of your personal project throughout the course.
-
-
-
-
-## Learning Outcomes
-
-Upon completion of this module you should be able to:
-
-- Understand the benefits of an automated version control system.
-- Configure and personalize Git to suit your own preferences.
-- Understand at a conceptual level how Git works; how information is stored and shared at each stage of Git's workflow.
-- Create and use Git local repositories using basic tools and commands; committing files, tracking changes and restoring files. 
-- Collaborate with others using remote repositories and understand the advantages of doing so. Push and pull to remote repositories. Handle conflicts and communicate with collaborators to resolve them, using Git tools and commands.
-{:.learning-outcomes}
-
-
-
 
 
 
@@ -147,38 +172,6 @@ _No task yet_
 
 
 
-## Badges
-
-1. ### [Gitting Started](badges/gitting-started.html)
-![Gitting Started Badge](badges/images/gitting-started.png)
-Use command line Git to create a new repository with a readme file, licence and gitignore. Additionally, publish the repository to GitHub.
-[&raquo; Assessment Details](badges/gitting-started.html)
-
-2. ### [Flying Solo](badges/flying-solo.html)
-![Flying Solo Badge](badges/images/flying-solo.png)
-Use command line Git to clone a repository. Confidently commit, push and pull changes from the remote repository.
-[&raquo; Assessment Details](badges/flying-solo.html)
-
-3. ### [Time Lord](badges/time-lord.html)
-![Time Lord Badge](badges/images/time-lord.png)
-Use command line Git to undo uncommitted changes, roll back the last commit, and revert a specific commit.
-[&raquo; Assessment Details](badges/time-lord.html)
-
-4. ### [Arborist](badges/arborist.html)
-![Arborist Badge](badges/images/arborist.png)
-Use command line Git to create a branch, make and commit some changes on that branch, merge them back into master, and retire the branch.
-[&raquo; Assessment Details](badges/arborist.html)
-
-5. ### [Contributor](badges/contributor.html)
-![Contributor Badge](badges/images/contributor.png)
-Submit a contribution to another user's repository via pull requests, either on the command line or using GitHub.
-[&raquo; Assessment Details](badges/contributor.html)
-
-6. ### [Mediator](badges/mediator.html)
-![Mediator Badge](badges/images/mediator.png)
-Use a diff tool to resolve single-line and multi-line merge conflicts in multiple files.
-[&raquo; Assessment Details](badges/mediator.html)
-{:.badges}
 
 
 

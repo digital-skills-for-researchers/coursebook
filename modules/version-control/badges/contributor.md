@@ -1,14 +1,11 @@
 ---
-layout: badge
-title: Pull Requests
+layout: default
+
+title: Contributor| Pull Requests
+subtitle: Contributing via pull requests with Git
+
+introduction: Fork a repository, make and commit a change, submit a pull request.
 ---
-
-# Contributor Badge
-_Contributing via pull requests with Git_
-
-## Description
-
-Fork a repository, make and commit a change, submit a pull request.
 
 
 
@@ -40,12 +37,12 @@ The contribution may be in either the documentation or the code. It can be simpl
 
 ## Assessor Checklist
 
-- Forked original repository
-- Made one or more commits
-- Submitted changes as a pull request
-- Pull request made by command line Git OR via GitHub
-- Pull request was concise and justified
-- Pull request follows requirements defined by project owner (if any)
-- Discussion was constructive
-- Request was ultimately accepted or rejected
+1. Forked original repository
+2. Made one or more commits
+3. Submitted changes as a pull request
+4. Pull request made by command line Git OR via GitHub
+5. Pull request was concise and justified
+6. Pull request follows requirements defined by project owner (if any)
+7. Discussion was constructive
+8. Request was ultimately accepted or rejected
 

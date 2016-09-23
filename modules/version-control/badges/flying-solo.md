@@ -1,17 +1,11 @@
 ---
-layout: badge
-title: Git Workflow
+layout: default
+
+title: Flying Solo | Git Workflow
+subtitle: Local-Remote Git workflow for a solo user
+
+introduction: Clone a repository then demonstrate committing, pushing and pulling changes.
 ---
-
-# Flying solo
-_Local-Remote Git workflow for a solo user_
-
-
-
-## Description
-
-Clone a repository then demonstrate committing, pushing and pulling changes.
-
 
 
 ## Student Task
@@ -45,13 +39,13 @@ You will be assessed on your ability to use command line Git to move code betwee
 
 ## Assessor Checklist
 
-- Cloned an existing repository from GitHub
-- Commit messages are clear and have a consistent format
-- Pushed changes to GitHub successfully
-- Merged changes back into original project
-- Used command line Git for all above steps
-- Identified the commit messages included in the pull/merge
-- Identified the files changed by at least one of those commits
+1. Cloned an existing repository from GitHub
+2. Commit messages are clear and have a consistent format
+3. Pushed changes to GitHub successfully
+4. Merged changes back into original project
+5. Used command line Git for all above steps
+6. Identified the commit messages included in the pull/merge
+7. Identified the files changed by at least one of those commits
 
 
-**Note 3:** For Step 6 and Step 7 the student may find info on what changed via command line or GitHub, the method is up to them.
+**Note:** For Step 6 and Step 7 the student may find info on what changed via command line or GitHub, the method is up to them.

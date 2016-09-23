@@ -1,24 +1,58 @@
 ---
-title: Introduction to programming with Python
-layout: module
+layout: default
+
+title: Python Programming
+
+introduction: This module will introduce you to programming using Python, a popular language for use in scientific computing. There are many code libraries built on top of Python, allowing you to extend its functionality for a wide range of purposes.  The skills you develop in this module will also be relevant in any other programming languages you may use in future.
+
+learning-outcomes:
+
+  - Understand and use basic control structures in Python
+  - Create simple Python programs using named variables and control structures
+  - Debug and create tests for basic Python programs.
+  - Understand why testing is used in software development. Write unit tests for functions.
+
+badges:
+
+  - serious-name: Conditionals
+    fun-name: Call Me Maybe
+    slug: call-me-maybe
+    description: Use a conditional statement to run different code based on a given value.
+
+  - serious-name: Loops
+    fun-name: Groundhog Day
+    slug: groundhog-day
+    description: Use a loop to find a cumulative or summative result in Python.
+
+  - serious-name: Functions
+    fun-name: Composer
+    slug: composer
+    description: Using Python, write a script which uses a function to improve the code structure and clarity.
+
+wip-badges:
+
+  - serious-name: Input and Output 
+    fun-name: Input Output
+    slug: input-output
+    description: Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
+
+  - serious-name: Defensive Programming
+    fun-name: Defender
+    slug: defender
+    description: Given a simple function, refactor the code to increase function stability by addressing edge cases and faulty or incorrect input.
+
+  - serious-name: Test-Driven Development
+    fun-name: The Stig
+    slug: the-stig
+    description: Use the Test Driven Development process of "red, green, refactor" to design, test and implement a function.
+
+  - serious-name: Error Handling
+    fun-name: Safety Net
+    slug: safety-net
+    description: Increase the stability of a piece of code by catching and handling common errors, then providing user feedback rather than exiting.
+
+  
 ---
-
-
-# Programming
-
-This module will introduce you to programming using Python, a popular language for use in scientific computing. There are many code libraries built on top of Python, allowing you to extend its functionality for a wide range of purposes.  The skills you develop in this module will also be relevant in any other programming languages you may use in future.
-
-
-## Learning Outcomes
-
-Upon completion of this module you should be able to:
-
--  Understand and use basic control structures in Python
--  Create simple Python programs using named variables and control structures
--  Debug and create tests for basic Python programs.
-- Understand why testing is used in software development. Write unit tests for functions.
-{:.learning-outcomes}
-
 
 
 ## Independent | Use Python
@@ -73,47 +107,5 @@ Begin writing programs that will help you analyse the data from your course proj
 
 - [Worksheet (TODO)](#)
 {:.resources}
-
-
-
-
-
-## Badges
-
-1. ### [Call Me Maybe | _Conditionals_](badges/call-me-maybe.html)
-  ![Conditionals Badge](badges/images/call-me-maybe.png)
-  Use a conditional statement to run different code based on a given value.
-  [&raquo; Assessment Details](badges/call-me-maybe.html)
-
-2. ### [Groundhog Day | _Loops_](badges/groundhog-day.html)
-  ![Loops Badge](badges/images/groundhog-day.png)
-  Use a loop to find a cumulative or summative result in Python.
-  [&raquo; Assessment Details](badges/groundhog-day.html)
-
-3. ### [Composer | _Functions_](badges/composer.html)
-  ![Functions Badge](badges/images/composer.png)
-  Using Python, write a script which uses a function to improve the code structure and clarity.
-  [&raquo; Assessment Details](badges/composer.html)
-
-4. ### [Input and Output](badges/input-output.html)
-  ![Input Output Badge](badges/images/input-output.png)
-  Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
-  [&raquo; Assessment Details](badges/input-output.html)
-
-5. ### Defender | _Defensive Programming_ (coming soon)
-  ![Defender Badge](badges/images/defender.png) 
-  Given a simple function, refactor the code to increase function stability by addressing edge cases and faulty or incorrect input.
-
-
-6. ### The Stig | _Test Driven Development_ (coming soon)
-  ![TDD Badge](badges/images/tdd.png)
-  Use the Test Driven Development process of "red, green, refactor" to design, test and implement a function.
-  
-
-7. ### Safety Net | _Error Handling_ (coming soon)
-  ![TDD Badge](badges/images/tdd.png)
-  Increase the stability of a piece of code by catching and handling common errors, then providing user feedback rather than exiting.
-{:.badges}
-
 
 

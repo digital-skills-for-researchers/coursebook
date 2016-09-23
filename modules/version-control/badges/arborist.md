@@ -1,17 +1,12 @@
 ---
-layout: badge
-title: Branching
+layout: default
+
+title: Arborist | Branching
+subtitle: Branching in Git
+
+introduction: Create a branch, make and commit some changes on that branch, merge them back into master, retire the branch.
+
 ---
-
-# Arborist Badge
-_Branching in Git_
-
-
-## Description
-
-Create a branch, make and commit some changes on that branch, merge them back into master, retire the branch.
-
-
 
 
 ## Student Task
