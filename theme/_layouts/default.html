@@ -62,6 +62,19 @@
 					</li>
 				{% endfor %}
 			</ol>
+
+			<h2>Unpublished {{ page.title }} Badges</h2>
+			<ol class="badges">
+				{% for badge in page.wip-badges %}
+					<li>
+						<h3>{{ badge.fun-name }} | <i>{{ badge.serious-name }} (Coming Soon)</i></h3>
+						<img src="badges/images/{{ badge.slug }}.png" alt="{{ badge.serious-name }} Badge">
+						<p>{{ badge.description }}</p>
+  						<p class="assessment-link">&raquo; Assessment Details</p>
+					</li>
+				{% endfor %}
+			</ol>
+
 		</section>
 	{% endif %}
 
