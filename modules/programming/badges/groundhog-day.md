@@ -34,13 +34,11 @@ You may use web search to complete this task, including the Python documentation
 
 You will need to show the code to your mentor and then answer the questions described under “Assessment Questions” below.
 
-Download the starter code for this task by right-clicking [here](looper.py) and choosing "Save link as...".
-
 
 <br>
 
 
-1. Download and open the starter script called `looper.py`.
+1. Right-click and save the script `groundhog-day-task.py` from [here](resources/groundhog-day-task.py)
 
 2. Check that you can successfully run the script.
 
