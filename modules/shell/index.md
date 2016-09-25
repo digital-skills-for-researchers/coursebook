@@ -13,13 +13,18 @@ learning-outcomes:
   - e. Reason about how to automate simple tasks using the command line.
 
 
-badges: 
+badges:
 
   - serious-name: File System Navigation
     fun-name: Navigator
     slug: navigator
     description: Given a unfamiliar set of folders and files, you are able to navigate from one folder to another folder in a different heirarchy, using **cd**
 
+
+
+wip-badges: 
+
+  
   - serious-name: Creating, Moving and Deleting
     fun-name: Organiser
     slug: organiser
