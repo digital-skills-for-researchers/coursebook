@@ -26,7 +26,7 @@ You will need to show the code to your mentor and then answer the questions desc
 
 This task is designed to assess whether you understand how to run different pieces of code based on a given value.
 
-You may use web search to complete this task, but you may not refer to your own previous work. This is to demonstrate that you can solve a task using publicly available resources.
+You may use web search to complete this task, including the Python documentation and StackOverflow. All research and compilation of the code must be your own work.
 
 You will need to show the code to your mentor and then answer the questions described under "Assessment Questions" below.
 
@@ -48,12 +48,6 @@ You will need to show the code to your mentor and then answer the questions desc
   _"Are you sure that was a good idea?"_
 
 4. Make sure the program doesn't crash if an invalid value is entered.
-
-
-<br>
-
-
-**Note:** You may use the web as a reference for this task, including the Python documentation and StackOverflow. You may not refer to your own previous work, even if it is hosted on GitHub.
 
 
 

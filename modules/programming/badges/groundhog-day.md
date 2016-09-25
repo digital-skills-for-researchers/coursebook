@@ -30,7 +30,7 @@ You will need to show the code to your mentor and then answer the questions desc
 
 This task is designed to assess your ability to use loops in Python to do find basic summative results for a data set.
 
-You may use web search to complete this task, but you may not refer to your own previous work. This is to demonstrate that you can solve a task using publicly available resources.
+You may use web search to complete this task, including the Python documentation and StackOverflow. All research and compilation of the code must be your own work.
 
 You will need to show the code to your mentor and then answer the questions described under “Assessment Questions” below.
 
@@ -63,13 +63,6 @@ Min Temp: 12.3 C
 Median temp: 13.3 C   
 Temp Range: 1.799999999999999 C
 ```
-
-
-<br>
-
-
-**Note:** You may use the web as a reference for this task, including the Python documentation and StackOverflow. You may not refer to your own previous work, even if it is hosted on GitHub.
-
 
 
 

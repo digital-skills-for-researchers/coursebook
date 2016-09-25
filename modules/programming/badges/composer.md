@@ -31,7 +31,7 @@ You will need to show the code to your mentor and then answer the questions desc
 
 This task is designed to assess whether you understand how to use functions to divide up code into purposeful pieces.
 
-You may use web search to complete this task, but you may not refer to your own previous work. This is to demonstrate that you can solve a task using publicly available resources.
+You may use web search to complete this task, including the Python documentation and StackOverflow. All research and compilation of the code must be your own work.
 
 You will need to show the code to your mentor and then answer the questions described under "Assessment Questions" below.
 
@@ -41,12 +41,6 @@ You will need to show the code to your mentor and then answer the questions desc
 1. Download the script `composer.py` from [here]()
 2. Refactor the script `composer.py` to use functions.
 3. Ensure the code meets the "Code Requirements" described below.
-
-
-<br>
-
-
-**Note:** You may use the web as a reference for this task, including the Python documentation and StackOverflow. You may not refer to your own previous work, even if it is hosted on GitHub.
 
 
 
