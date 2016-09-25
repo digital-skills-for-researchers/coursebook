@@ -20,16 +20,15 @@ badges:
     slug: navigator
     description: Given a unfamiliar set of folders and files, you are able to navigate from one folder to another folder in a different heirarchy, using **cd**
 
-
-
-wip-badges: 
-
-  
   - serious-name: Creating, Moving and Deleting
     fun-name: Organiser
     slug: organiser
     description: Given a unfamiliar set of folders and files, you are able to copy, move and delete files from different folders.
 
+
+
+wip-badges: 
+  
   - serious-name: Pipes and Filters
     fun-name: Pied Piper
     slug: pied-piper
