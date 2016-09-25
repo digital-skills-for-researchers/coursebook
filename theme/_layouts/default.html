@@ -56,7 +56,7 @@
 					<a href="badges/{{ badge.slug }}.html">
 						<h3>{{ badge.fun-name }} | <i>{{ badge.serious-name }}</i></h3>
 						<img src="badges/images/{{ badge.slug }}.png" alt="{{ badge.serious-name }} Badge">
-						<p>{{ badge.description }}</p>
+						<p>{{ badge.description | markdownify }}</p>
   						<p class="assessment-link">&raquo; Assessment Details</p>
 					</a>
 					</li>
@@ -74,7 +74,7 @@
 					<li>
 						<h3>{{ badge.fun-name }} | <i>{{ badge.serious-name }} (Coming Soon)</i></h3>
 						<img src="badges/images/{{ badge.slug }}.png" alt="{{ badge.serious-name }} Badge">
-						<p>{{ badge.description }}</p>
+						<p>{{ badge.description | markdownify}}</p>
   						<p class="assessment-link">&raquo; Assessment Details</p>
 					</li>
 				{% endfor %}
