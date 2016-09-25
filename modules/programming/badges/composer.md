@@ -38,8 +38,8 @@ You will need to show the code to your mentor and then answer the questions desc
 
 <br>
 
-1. Download the script `composer.py` from [here]()
-2. Refactor the script `composer.py` to use functions.
+1. Right-click and save the script `composer-task.py` from [here](resources/composer-task.py).
+2. Refactor the script `composer-task.py` to use functions.
 3. Ensure the code meets the "Code Requirements" described below.
 
 
