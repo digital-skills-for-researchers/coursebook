@@ -62,7 +62,12 @@
 					</li>
 				{% endfor %}
 			</ol>
+		</section>
+	{% endif %}
 
+
+	{% if page.wip-badges %}
+		<section class="badges">
 			<h2>Unpublished {{ page.title }} Badges</h2>
 			<ol class="badges">
 				{% for badge in page.wip-badges %}
@@ -74,7 +79,6 @@
 					</li>
 				{% endfor %}
 			</ol>
-
 		</section>
 	{% endif %}
 
