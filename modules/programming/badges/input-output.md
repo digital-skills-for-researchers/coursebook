@@ -1,30 +1,37 @@
 ---
-layout: badge
+layout: default
 title: Input and Output
+subtitle: Working with prompts and files in Python
+
+introduction: Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
 ---
 
-# Input and Output
-_Working with prompts and files in Python_
-
-## Description
-
-Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
 
 
+## Project-Based Assessment
 
-## Student Task
+For this assessment, you can use file read/write functionality in your existing project code as evidence of understanding.
+
+You will need to show the code to your mentor and then answer the questions described under "Assessment Questions" below.
+
+
+
+
+
+## Task-Based Assessment
 
 This task is designed to assess whether you understand how to write Python code for input and output via the shell, and how to read and write plain text files.
 
-You may use web search to complete this task, but you may not refer to your own previous work. This is to demonstrate that you can solve a task using publicly available resources.
+You may use web search to complete this task, including the Python documentation and StackOverflow. All research and compilation of the code must be your own work.
 
 You may assume that the source file will always be a text file.
 
 
 <br>
 
+1. Download the sample data file `TEK000.CSV` from [here](resources/TEK000.CSV).
 
-1. Create a new script called `input-output.py`.
+1. Create a new script called `input-output-task.py`.
 
 2. Prompt the user for the path to a file to process.
 
@@ -46,19 +53,15 @@ Size: 30 bytes
 Lines: 112
 ```
 
-**Note:** You may use the web as a reference for this task, including the Python documentation and StackOverflow. You may not refer to your own previous work, even if it is hosted on GitHub.
-
 
 
 
 ## Assessor Checklist
 
-- Script runs from shell.
-- Prompts the user for a file path.
-- Loads a relative file path successfully.
-- Loads an absolute file path successfully.
-- Produces a summary file with the correct name.
-- Summary file contains the correct information.
-- Script notifies the user when the summary has been produced.
-{:.checklist}
+1. Script runs from shell.
+2. Prompts the user for a file path.
+3. Loads a relative file path successfully.
+4. Produces a summary file with the correct name.
+5. Summary file contains the correct information.
+6. Script notifies the user when the summary has been produced.
 

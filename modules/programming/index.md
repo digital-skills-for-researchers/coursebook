@@ -29,12 +29,12 @@ badges:
     slug: composer
     description: Using Python, write a script which uses a function to improve the code structure and clarity.
 
-wip-badges:
-
   - serious-name: Input and Output 
     fun-name: Input Output
     slug: input-output
     description: Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
+
+wip-badges:
 
   - serious-name: Defensive Programming
     fun-name: Defender
