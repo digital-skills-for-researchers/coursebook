@@ -29,7 +29,7 @@ You may assume that the source file will always be a text file.
 
 <br>
 
-1. Download the sample data file `TEK000.CSV` from [here](resources/TEK000.CSV).
+1. Right-click and save the sample data file `TEK000.CSV` from [here](resources/TEK000.CSV).
 
 1. Create a new script called `input-output-task.py`.
 
