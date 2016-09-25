@@ -39,4 +39,4 @@ For this assessment, you will need to demonstrate the steps below under the guid
 ## Assessor Checklist
 
 1. Completed tasks without help, or only shell-based help eg. `man`
-2. Minimal number of mistakes made, by mentor judgement.
+2. Minimal number of mistakes made, by assessor judgement.
