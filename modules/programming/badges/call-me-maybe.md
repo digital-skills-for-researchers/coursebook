@@ -34,7 +34,7 @@ You will need to show the code to your mentor and then answer the questions desc
 <br>
 
 
-1. Create a new script called `conditionals.py`.
+1. Create a new script called `call-me-maybe-task.py`.
 
 2. Prompt the user to enter how many coffees they had today.
 
