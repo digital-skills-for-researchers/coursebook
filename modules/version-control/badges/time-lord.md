@@ -14,7 +14,7 @@ This task involves steps which will create commits in your repository's history.
 
 <br>
 
-1. Clone a fresh copy of your project from GitHub to a new location on your computer.
+1. **Clone a fresh copy of your project** from GitHub to a new location on your computer.
 
 2. Make some changes to your project:
   - Modify a file
@@ -23,7 +23,7 @@ This task involves steps which will create commits in your repository's history.
 
 3. Demonstrate how you would undo these changes, resetting your project back to the state it was in when you last made a commit.
 
-4. Make and commit some changes to your project:
+4. Make **and commit** some changes to your project:
   - Modify a file
   - Delete a file
 
@@ -37,13 +37,16 @@ This task involves steps which will create commits in your repository's history.
 
 <br>
 
-Note: After your badge has been assessed you may delete this duplicate repository.
+Note: Do not **push** this repository. After your badge has been assessed you may delete this duplicate repository.
 
 
 
 ## Assessor Checklist
 
-1. Student uses `git checkout master` to undo uncommitted changes.
-2. Student uses GitHub or `git status` to find commit hashes.
-3. Successfully rolls back the previous commit.
-4. Successfully rolls back the specified commit.
+1. Reset uncommitted changes.
+2. Reverted the previous commit.
+3. Identified files affected by a specific historic commit.
+4. Successfully reverted a specific historic commit.
+5. Showed that the revert was successful.
+
+Note: Browsing commit history may be done via the command line or via GitHub, it is the student's choice.
