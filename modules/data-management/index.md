@@ -23,13 +23,12 @@ badges:
     slug: captain-curator
     description: Given a raw data set, come up with an improved structure and file naming strategy. Sketch or create an example of this strategy and discuss its benefits with an assessor.  
 
+  - serious-name: ReadMe Files
+    fun-name: Tour Guide
+    slug: tour-guide
+    description: Create a comprehensive ReadMe file which gives the reader a clear understanding of the project purpose, structure, run requirements, expected output and licence.
 
 wip-badges:
-
-  - serious-name: ReadMe Files
-    fun-name: Project X for Dummies
-    slug: project-x-for-dummies
-    description: Given a simple scientific scenario with experimental data, create a README.txt file.
   
   - serious-name: Creating Metadata
     fun-name: That's So Meta
