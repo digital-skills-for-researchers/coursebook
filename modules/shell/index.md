@@ -18,12 +18,17 @@ badges:
   - serious-name: File System Navigation
     fun-name: Navigator
     slug: navigator
-    description: Given a unfamiliar set of folders and files, you are able to navigate from one folder to another folder in a different heirarchy, using **cd**
+    description: Starting from any directory, you are able to navigate efficiently to and from any other directory.
 
   - serious-name: Creating, Moving and Deleting
     fun-name: Organiser
     slug: organiser
-    description: Given a unfamiliar set of folders and files, you are able to copy, move and delete files from different folders.
+    description: Using the shell, you are able to create, move and delete files and directories.
+
+  - serious-name: Shell Scripting
+    fun-name: Born to Shell
+    slug: born-to-shell
+    description: Create a shell script that takes a file name as a variable, performs some calculations on the file data, such as number of rows, and prints the result to the consolse.
 
 
 
@@ -33,12 +38,6 @@ wip-badges:
     fun-name: Pied Piper
     slug: pied-piper
     description: Given a folder with a set of files, you are able to find all files of a certain type, i.e ".dat", filter those files based on a criteria such as the number of lines in a file, and write the resultng list of files into a text file.
-  
-
-  - serious-name: Shell Scripting
-    fun-name: Born to Shell
-    slug: born-to-shell
-    description: Create a shell script that takes a file name as a variable, performs some calculations on the file data, such as number of rows, and prints the result to the consolse.
   
 
   - serious-name: Regular Expressions
