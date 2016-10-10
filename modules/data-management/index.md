@@ -18,11 +18,14 @@ learning-outcomes:
 
 badges:
 
-  - serious-name: File Naming and organisation
+  - serious-name: File Naming and Organisation
     fun-name: Captain Curator
     slug: captain-curator
-    description: Given a list of poorly and inconsistently named files, come up with a improved naming convention. Create a folder structure for the files and move them into it.  
-  
+    description: Given a raw data set, come up with an improved structure and file naming strategy. Sketch or create an example of this strategy and discuss its benefits with an assessor.  
+
+
+wip-badges:
+
   - serious-name: ReadMe Files
     fun-name: Project X for Dummies
     slug: project-x-for-dummies
