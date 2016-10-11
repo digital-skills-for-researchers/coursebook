@@ -14,15 +14,19 @@ learning-outcomes:
   - f. Confidently participate in all aspects of the Scrum process in a team setting
 
 
+badges:
+
+  - fun-name: Triple Trifecta
+    serious-name: Scrum Basics
+    slug: scrum-basics
+    description: Demonstrate your understanding of Scrum by describing key elements of the process and discussing how to handle common scenarios.
+
+
 wip-badges:
 
   - serious-name: Agile Basics
     slug: agile-basics
     description: Identify and explain the four key values of Agile in a short interview with a tutor.
-
-  - serious-name: Scrum Basics
-    slug: scrum-basics
-    description: Identify and explain the purpose of each step of the Scrum process in a short interview with a tutor.
 
   - serious-name: Team Charter
     slug: team-charter
