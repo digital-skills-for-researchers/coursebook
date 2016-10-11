@@ -20,6 +20,11 @@ badges:
     serious-name: Scrum Basics
     slug: scrum-basics
     description: Demonstrate your understanding of Scrum by describing key elements of the process and discussing how to handle common scenarios.
+  
+  - serious-name: Team Charter
+    slug: team-charter
+    description: Organise and document an Agile Scrum project in the form of a Team Charter. Publish it with your project and have it reviewed.
+
 
 
 wip-badges:
@@ -27,10 +32,6 @@ wip-badges:
   - serious-name: Agile Basics
     slug: agile-basics
     description: Identify and explain the four key values of Agile in a short interview with a tutor.
-
-  - serious-name: Team Charter
-    slug: team-charter
-    description: Organise and document an Agile Scrum project in the form of a Team Charter. Publish it with your project and have it reviewed by a tutor.
 
   - serious-name: Visual Planner
     slug: visual-planner
