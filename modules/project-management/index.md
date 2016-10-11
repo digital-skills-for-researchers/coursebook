@@ -14,7 +14,7 @@ learning-outcomes:
   - f. Confidently participate in all aspects of the Scrum process in a team setting
 
 
-badges:
+wip-badges:
 
   - serious-name: Agile Basics
     slug: agile-basics
