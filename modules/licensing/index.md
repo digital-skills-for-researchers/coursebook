@@ -24,6 +24,11 @@ badges:
     slug: creative-commons
     description: Name and describe of each of the Creative Commons licenses, and situations where they might be used.
 
+  - serious-name: Project Licensing
+    fun-name: Project Licensing
+    slug: project-licensing
+    description: Choose and apply suitable licenses for the code, data and content parts of your project. 
+
 ---
 
 
