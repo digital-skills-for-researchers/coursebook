@@ -11,6 +11,19 @@ learning-outcomes:
   - b. Pick an appropriate license that matches the needs you have for how your data is going to be shared, and reused by others.
   - c. Understand the different philosophies behind licences and how those philosophies are implemented through the clauses in the different licences. 
 
+
+badges:
+
+  - serious-name: Software Licenses
+    fun-name: Software Licenses
+    slug: software-licensing
+    description: Name and describe of each of the three most commonly used open source software licenses, and situations where they might be used.
+
+  - serious-name: Creative Commons
+    fun-name: Creative Commons
+    slug: creative-commons
+    description: Name and describe of each of the Creative Commons licenses, and situations where they might be used.
+
 ---
 
 
