@@ -34,7 +34,7 @@ badges:
     slug: input-output
     description: Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
 
-wip-badges:
+hidden-badges:
 
   - serious-name: Defensive Programming
     fun-name: Defender

@@ -31,6 +31,9 @@ badges:
     slug: time-lord
     description: Use command line Git to undo uncommitted changes, roll back the last commit, and revert a specific commit.
 
+
+hidden-badges:
+
   - serious-name: Branching
     fun-name: Arborist
     slug: arborist
@@ -41,13 +44,22 @@ badges:
     slug: contributor
     description: Submit a contribution to another user's repository via pull requests, either on the command line or using GitHub.
 
-wip-badges:
-
   - serious-name: Merge Resolution
     fun-name: Mediator
     slug: mediator
     description: Use a diff tool to resolve single-line and multi-line merge conflicts in multiple files.
 
+
+
+lessons:
+
+  - name: Why We Use Git
+    slug: why-we-git
+    description: Short article about the main reasons why we use Git and GitHub.
+
+  - name: Visualising Git
+    slug: visualising-git
+    description: If we drew a picture of "Git", what would it look like?
 
 ---
 

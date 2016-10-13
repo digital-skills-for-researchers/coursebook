@@ -33,6 +33,9 @@ wip-badges:
     slug: agile-basics
     description: Identify and explain the four key values of Agile in a short interview with a tutor.
 
+
+hidden-badges:
+
   - serious-name: Visual Planner
     slug: visual-planner
     description: Use a Scrum board to manage your project for at least 3 weeks. Take a photo or screenshot of your board each week. Write 200 words reflecting on the benefits and difficulties (if any) of this style of visual planning.

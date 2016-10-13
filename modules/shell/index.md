@@ -32,7 +32,7 @@ badges:
 
 
 
-wip-badges: 
+hidden-badges: 
   
   - serious-name: Pipes and Filters
     fun-name: Pied Piper

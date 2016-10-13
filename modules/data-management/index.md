@@ -28,7 +28,7 @@ badges:
     slug: tour-guide
     description: Create a comprehensive ReadMe file which gives the reader a clear understanding of the project purpose, structure, run requirements, expected output and licence.
 
-wip-badges:
+hidden-badges:
   
   - serious-name: Creating Metadata
     fun-name: That's So Meta
