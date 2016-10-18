@@ -16,3 +16,6 @@ With an assessor, discuss your understanding of the following points:
 3. Which do you feel is the most important value, and why?
 4. Which of the values do you feel you could personally improve upon the most, and why?
 
+
+
+[&raquo; Assessor Guide](agile-basics-guide.html)
