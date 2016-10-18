@@ -17,10 +17,11 @@ _NOTE: The principles are not set in stone and many people have differing opinio
 _Timeboxing: All events have a set amount of time allowed to keep progress and feedbock flowing._
 _Self-Organising Teams: People work to their strengths, fulfil roles and complete tasks as needed without restriction._
 _Shippable Code: Working versions of the application are the main measure of progress. Regular delivery of value to the customer._
+_Iterative Process: Split into sprints which include work, feedback, and retrospective._
 
 2. Describe the key events in the Scrum process.
 _At least: Sprint Planning, Daily Standup, Sprint Retrospective._
-_Possible options: Sprint Planning, Sprint, Daily Standup, 
+_Possible options: Sprint Planning, Sprint, Daily Standup, Sprint Review, Sprint Retrospective._
 
 3. Name the three key roles in a Scrum team, and describe the responsibilities of each one.
 _Product Owner: Manages what's in the backlog and prioritises those items._
