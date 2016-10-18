@@ -25,3 +25,5 @@ With an assessor, discuss your understanding of the following points:
 6. Explain the relationship between Scrum and Agile.
 
 
+[&raquo; Assessor Guide](scrum-basics-guide.html)
+
