@@ -29,7 +29,7 @@ _Dev Team: Does the work of delivering shippable increments each sprint. Decides
 _Scrum Master: Responsible for guiding the team in working in an Agile fashion under the Scrum theory, practice and rules._
 
 4. Explain how a team using Scrum would handle the situation where a client's product requirements have changed.
-_The product owner would communicate with the client to add the new requirements to the backlog as stories. The team's workflow is not disrupted and the new requirements will be considered from the next sprint planning meeting._
+_The product owner would communicate with the client to add the new requirements to the product backlog as stories. The team's workflow is not disrupted and the new requirements will be considered from the next sprint planning meeting._
 
 5. Explain how a team using Scrum would handle the situation where the planned work for a sprint was not completed by the development team.
 _The team would discuss the shortcomings at the sprint review. They need to identify what caused them to not achieve what they planned, and how to mitigate those problems in future sprints. They may realise that they overestimated the number of story points they could achieve, and that they should take on less work for future sprints._
