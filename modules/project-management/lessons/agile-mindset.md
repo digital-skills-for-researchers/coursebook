@@ -144,10 +144,20 @@ Following a methodology will not necessarily make a team "be Agile", as Agile is
 A few of the more popular methodologies are described below.
 
 - **Scrum**
+  Time is divided into "Sprints" which are usually about 2 weeks in length. Each Sprint has a planning meeting, daily standup meetings to share progress, and retrospective meetings to improve sprint management and productivity. Key roles are Product Manager, Scrum Coach and Development Team Member.
 - **Lean**
+  The primary focus is delivering the maximum possible value while minimising the amount of waste. Waste may be traditional physical resources, or may be employee time. Close attention is paid to removing bottlenecks in the production process. Kanban is a style of Lean project management.
 - **Kanban**
+  Tasks are broken down as small as possible, and each task then proceeds through states of "To-Do", "In Progress", "Waiting" and "Done". Kanban's primary focus is limiting the amount of in-progress work, preventing multitasking and focusing on the continous flow of work.
 - **DSDM**
+  Stands for "Dynamic Systems Development Method". In this style of project management, the project is carried out under restrictions of time, budget and quality which are decided before the project begins development. Project requirements are strictly prioritised as "must have", "should have", "could have" and "won't have" in order to meet the specified restrictions. There are regular releases and re-prioritisation of requirements.
 
+All of these methodologies support an Agile process, so they all:
+
+- Support the 4 key values of Agile
+- Respect the 12 principles
+- Prioritise the delivery of high-value requirements
+- Deliver value in iterations
 
 
 
