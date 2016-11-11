@@ -13,10 +13,10 @@ The theme and the content are automatically combined into a website by Jekyll, w
 
 To edit the theme you will need to be comfortable with HTML and CSS. You will also need to take some time to understand how the files are split up and how Jekyll inserts dynamic content into the HTML.
 
-All code related to the display of the course can be found inside the `_theme` folder.
+All code related to the display of the course can be found inside the `theme` folder.
 
 ```
-_theme
+theme
     _includes
         foot.html
         footer.html
@@ -29,7 +29,7 @@ _theme
         typography.scss
         variables.scss
     assets
-        styles.css
+        styles.scss
 ```
 
 ### Layouts
@@ -90,9 +90,9 @@ Each file in the `_sass` folder contains CSS code for the appearance of a specif
 - **layout**
   Contains CSS for styling most things related to the layout of the website. Covers the styles for the sidebar, footer, content sections etc.
 
-Each of these SASS files is then combined into a single CSS file thanks to `assets/styles.css`.
+Each of these SASS files is then combined into a single CSS file thanks to `assets/styles.scss`.
 
-If you add a new `.scss` file to the `_sass` folder, make sure to also import that new file in `styles.css`.
+If you add a new `.scss` file to the `_sass` folder, make sure to also import that new file in `styles.scss`.
 
 
 
