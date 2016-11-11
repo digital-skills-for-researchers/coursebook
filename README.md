@@ -26,6 +26,7 @@ theme
         page.html
     _sass
         layout.scss
+        sidebar.scss
         typography.scss
         variables.scss
     assets
@@ -89,6 +90,9 @@ Each file in the `_sass` folder contains CSS code for the appearance of a specif
 
 - **layout**
   Contains CSS for styling most things related to the layout of the website. Covers the styles for the sidebar, footer, content sections etc.
+
+- **sidebar**
+  Contains CSS for styling the sidebar and its toggle button (which is only visible on mobile).
 
 Each of these SASS files is then combined into a single CSS file thanks to `assets/styles.scss`.
 
