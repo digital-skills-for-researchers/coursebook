@@ -184,6 +184,25 @@ _As an example, this page you're reading is written in Markdown, which you can v
 [markdown-syntax]: https://daringfireball.net/projects/markdown/syntax
 
 
+All modules should be structured as follows:
+
+- **module-name**
+  - index.md
+  - **badges**
+    - badge-1.md
+    - badge-1-guide.md
+    - badge-2.md
+    - badge-2-guide.md
+    - **images**
+      - badge-1.png
+      - badge-2.png
+  - **lessons**
+    - lesson-1.md
+    - lesson-1-guide.md
+    - lesson-2.md
+    - lesson-2-guide.md
+
+
 
 ---
 
