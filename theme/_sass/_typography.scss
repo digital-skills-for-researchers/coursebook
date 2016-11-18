@@ -1,25 +1,58 @@
 
+/* HEADINGS */
 h1 {
 	margin-top: 0;
 }
 
 h2 {
 	font-size: 200%;
-	margin-top: 60px;
+	margin-top: 4em;
+    color: dodgerblue;
+
+    /* Add an icon to the left of h2 elements */
+    &:before {
+        content:"keyboard_arrow_right";
+        font-family: 'Material Icons';
+        display:inline-block;
+        vertical-align: bottom;
+        margin-left: -1.2em;
+        margin-right: 0.2em;
+    }
 }
 
 h3 {
-	//border-top: 1px solid gray;
-	//padding-top: 30px;
-	//margin-top: 30px;
-
 	font-size: 150%;
-	margin-top: 30px;
+	margin-top: 2em;
+}
+
+
+/* LISTS */
+
+ol {
+
+    margin: 0;
+    padding: 0;
+
+    li {
+        margin: 0.3em 1em;
+    }
+}
+
+ul {
+
+    list-style-type: disc;
+
+    li {
+        list-style-type: disc;
+        margin: 0.3em 1em;
+    }
 }
 
 
 
 @media only screen and (max-width : 992px) {
+    /* START for small screens only */
+
 	h1 {
 		font-size: 200%;
 	}
@@ -27,4 +60,6 @@ h3 {
 	h2 {
 		font-size: 150%;
 	}
+
+    /* END for small screens only */
 }
