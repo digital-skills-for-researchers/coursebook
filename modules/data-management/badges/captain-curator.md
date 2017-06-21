@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Captain Curator
-
-introduction: Given a raw data set, come up with an improved structure and file naming strategy. Sketch or create an example of this strategy and discuss its benefits with an assessor.
-
 ---
+
+Given a raw data set, come up with an improved structure and file naming strategy. Sketch or create an example of this strategy and discuss its benefits with an assessor.
+
+
 
 
 ## Assessment Task

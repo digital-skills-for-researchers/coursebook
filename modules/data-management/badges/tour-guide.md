@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Tour Guide
-
-introduction: Create a comprehensive ReadMe file which gives the reader a clear understanding of the project purpose, structure, run requirements, expected output and licence.
-
 ---
+
+Create a comprehensive ReadMe file which gives the reader a clear understanding of the project purpose, structure, run requirements, expected output and licence.
+
+
 
 
 
