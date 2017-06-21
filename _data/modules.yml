@@ -60,16 +60,6 @@
     teachingResources: in-progress
     assessmentResources: not-started
 
-
-- name: Reproducible Workflows
-  slug: reproducible-workflows
-  status:
-    weeklySchedule: not-started
-    assessmentGuide: not-started
-    teachingGuide: not-started
-    teachingResources: not-started
-    assessmentResources: not-started
-
 - name: Data Visualisation
   slug: data-visualisation
   status:
