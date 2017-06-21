@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Sharing
+---
 
 title: Sharing Your Data and Research
 introduction: This module will introduce you to how to share your research and data, both with collaborators you are working with, and others who have an interest in your research and data. Sharing data doesnt come without a cost; we will discuss the different perspectives around sharing data and how they are changing. 

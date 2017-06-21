@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Shell
+---
 
 title: Shell
 introduction: This module will introduce you to the benefits of using shell commands to perform data management and analysis as part of your workflow. The shell offers a powerful and succint way of accessing the core functionality of your computer system, and can be used to automate data processing. You interact with the shell via the command line, typing out tasks you want your computer to perform.
@@ -45,7 +47,7 @@ hidden-badges:
     slug: pattern-matcher
     description: Create a shell script that uses a regular expression to find all files named using a certain pattern, rename those files using a different pattern, and save the list of changed files to a text file.
 
----
+
 
 
 

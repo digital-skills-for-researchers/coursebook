@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Version Control
+---
 
 title: Version Control
 introduction: This module will introduce you to the workflows used with the popular version control system Git. The concepts learned in this module will be applied to the management of your personal project throughout the course.

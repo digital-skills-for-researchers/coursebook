@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Licencing
+---
 
 title: Introduction to Licensing
 introduction: This module will introduce you to the different license available to you when you want to share your code or data with others. These licenses set the terms and conditions by which others can use and manipulate your data, your work is more likely to be used and cited by others if the conditions of how they can use your work and data are clear. Once you grasp the different licenses available, you can start sharing your project work.
@@ -29,7 +31,7 @@ badges:
     slug: project-licensing
     description: Choose and apply suitable licenses for the code, data and content parts of your project. 
 
----
+
 
 
 ## Classroom | What are Licenses and Why do we use them?
