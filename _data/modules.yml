@@ -69,15 +69,6 @@
     teachingResources: started
     assessmentResources: not-started
 
-- name: Sharing
-  slug: sharing
-  status:
-    weeklySchedule: not-started
-    assessmentGuide: not-started
-    teachingGuide: not-started
-    teachingResources: not-started
-    assessmentResources: not-started
-
 - name: Licensing
   slug: licensing
   status:
