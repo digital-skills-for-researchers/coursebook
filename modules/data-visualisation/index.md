@@ -3,52 +3,22 @@ layout: page
 title: Data Visualization
 ---
 
-title: Data Visualization
+# Data Visualization
 introduction: This module will introduce you to the theory of visualization, as well as how to create effective scientific visualizations in a variety of different forms. Developing your visualization skills will make you a more effective communicator. Now that you are comfortable doing basic programming in Python, you have access to some very powerful tools for visualizing your data. 
 
-learning-outcomes:
+## Learning Outcomes:
 
   - a. Understands the basic principles of data visulzation. Can apply these princples to design new, and improve existing, visulzations. 
   - b. Understand common ways of displaying scientific data, and can pick an appropriate way of displaying data
   - c. Can create visualizations methodically, considering what the message is, who are the audience and what is the nature of of the data.
   - e. Can generate visualizations in a programmatic/reproducible way using Python  
 
----
+## Lessons
+
+## Badges
 
 
 
-
-## Classroom | Getting Started With Python
-
-
-
-
-**Resources**
-
-- [Lecture Slides](http://linkhere.com)
-{:.resources}
-
-
-
-## Classroom | Creating functions and Good Development Practices
-
-
-**Resources**
-
-_No resources yet_
-
-
-
-
-## Independent | Project Data Analysis
-
-During this Hacky Hour you should start/continue creating code for visualizing your project data. Your days of using excel are now over. Try to make the creation of charts and figures part of your automated work flow. 
-
-
-**Resources**
-
-- [Hacky Hour Worksheet](hacky-hour-worksheet.html)
-{:.resources}
 
 
 

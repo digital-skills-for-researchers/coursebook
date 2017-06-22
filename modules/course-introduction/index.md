@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Management
+title: Course Introduction
 ---
 
 # Course Introduction
