@@ -1,5 +1,6 @@
 ---
 layout: activity
+title: Team Charter
 ---
 
 # Team Charter

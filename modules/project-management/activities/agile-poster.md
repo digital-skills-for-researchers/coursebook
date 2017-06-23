@@ -1,5 +1,6 @@
 ---
-layout: activity
+layout: page
+title: Agile Mindset Poster
 ---
 
 # Agile Mindset Poster

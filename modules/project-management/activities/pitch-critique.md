@@ -1,5 +1,6 @@
 ---
 layout: activity
+title: Pitch Critique
 ---
 
 # Pitch Critique

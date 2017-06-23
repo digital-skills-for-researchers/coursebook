@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: page
 title: Agile Basics Guide
-
-introduction: Describe and discuss the four key values of Agile in a short interview with an assessor.
-
 ---
 
+
+Describe and discuss the four key values of Agile in a short interview with an assessor.
 
 ## Assessment Task
 

@@ -1,3 +1,8 @@
+---
+layout: activity
+title: Scrum Boards
+---
+
 # Scrum Boards
 
 Board #1

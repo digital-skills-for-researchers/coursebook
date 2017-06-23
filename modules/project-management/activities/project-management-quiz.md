@@ -1,5 +1,6 @@
 ---
 layout: activity
+title: Project Management Quiz
 ---
 
 #Project Management Quiz

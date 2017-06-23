@@ -1,5 +1,6 @@
 ---
 layout: activity
+title: The Drucker Exercise
 ---
 
 # Project Management Reflection: The Drucker Excercise

@@ -1,5 +1,6 @@
 ---
 layout: activity
+title: The Coin Game
 ---
 
 
