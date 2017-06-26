@@ -1,17 +1,16 @@
 ---
-layout: default
-
+layout: page
 title: Groundhog Day | Loops
-subtitle: Use a loop to find a cumulative or summative result in Python
-
-introduction: |
-
-  Using Python, write a loop which finds a cumulative and/or summative result from a data set.
-
-  To claim this badge, you may either provide evidence from an existing project OR complete the student task. Both assessment options are detailed below.
-
-  As well as providing code evidence, you must also answer a series of questions about your loop code.
 ---
+
+
+
+Using Python, write a loop which finds a cumulative and/or summative result from a data set.
+
+To claim this badge, you may either provide evidence from an existing project OR complete the student task. Both assessment options are detailed below.
+
+As well as providing code evidence, you must also answer a series of questions about your loop code.
+
 
 
 
@@ -35,7 +34,7 @@ You may use web search to complete this task, including the Python documentation
 You will need to show the code to your mentor and then answer the questions described under “Assessment Questions” below.
 
 
-<br>
+
 
 
 1. Right-click and save the script `groundhog-day-task.py` from [here](resources/groundhog-day-task.py)
@@ -87,7 +86,7 @@ Using either your own project code OR the code from task described above, answer
   _Describe how you might implement this loop using a different type of loop, and why your choice is the better one. If using another type of loop is not possible, explain why._
 
 
-
+[View Assessor Guide](groundhog-day-guide.html)
 
 ## Assessor Checklist
 

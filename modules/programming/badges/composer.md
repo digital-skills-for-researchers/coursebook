@@ -1,18 +1,18 @@
 ---
-layout: default
-
+layout: page
 title: Composer
-subtitle: Clean code using functions in Python
-
-introduction: |
-    
-    Using Python, write a script which uses functions and cleanly formatted code to maximise program structure and clarity.
-
-    To claim this badge, you may either provide evidence from an existing project OR complete the student task. Both assessment options are detailed below.
-
-    As well as providing code evidence, you must also answer a series of questions about your code.
-
 ---
+
+Clean code using functions in Python
+
+
+    
+Using Python, write a script which uses functions and cleanly formatted code to maximise program structure and clarity.
+
+To claim this badge, you may either provide evidence from an existing project OR complete the student task. Both assessment options are detailed below.
+
+As well as providing code evidence, you must also answer a series of questions about your code.
+
 
 
 
@@ -36,7 +36,7 @@ You may use web search to complete this task, including the Python documentation
 You will need to show the code to your mentor and then answer the questions described under "Assessment Questions" below.
 
 
-<br>
+
 
 1. Right-click and save the script `composer-task.py` from [here](resources/composer-task.py).
 2. Refactor the script `composer-task.py` to use functions.
@@ -56,7 +56,7 @@ All code submitted for this assessment must meet the following requirements:
 5. The script usage and output must remain the same.
 
 
-
+[View Assessor Guide](composer-guide.html)
 
 ## Assessor Checklist
 

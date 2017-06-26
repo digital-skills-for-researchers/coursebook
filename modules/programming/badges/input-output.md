@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Input and Output
-subtitle: Working with prompts and files in Python
-
-introduction: Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
 ---
+
+Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
+
 
 
 
@@ -27,7 +27,7 @@ You may use web search to complete this task, including the Python documentation
 You may assume that the source file will always be a text file.
 
 
-<br>
+
 
 1. Right-click and save the sample data file `TEK000.CSV` from [here](resources/TEK000.CSV).
 
@@ -41,7 +41,6 @@ You may assume that the source file will always be a text file.
   
 6. Notify the user when the summary has been created.
 
-<br>
 
 **Note:** The summary file should be formatted as follows:
 
@@ -53,7 +52,7 @@ Size: 30 bytes
 Lines: 112
 ```
 
-
+[View Assessor Guide](input-output-guide.html)
 
 
 ## Assessor Checklist

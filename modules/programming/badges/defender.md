@@ -44,7 +44,7 @@ You may use web search to complete this task, but you may not refer to your own 
 
 **Note:** You may use the web as a reference for this task, including the Python documentation and StackOverflow. You may not refer to your own previous work, even if it is hosted on GitHub.
 
-
+[View Assessor Guide](defender-guide.html)
 
 
 ## Assessor Checklist
