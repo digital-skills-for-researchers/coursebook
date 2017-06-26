@@ -56,32 +56,37 @@ Getting started with Matlab. Assigning values to variables, control structures a
   - **Conditionals**
     ***Call Me Maybe***
     Use a conditional statement to run different code based on a given value.
+    [View Lesson](badges/call-me-maybe.html)
 
   - **Loops**
     ***Groundhog Day***
     Use a loop to find a cumulative or summative result in Python.
+    [View Lesson](badges/groundhog-day.html)
 
   - **Functions**
     ***Composer***
     Using Python, write a script which uses a function to improve the code structure and clarity.
+    [View Lesson](badges/composer.html)
 
   - **Input and Output**
     ***Input Output***
     Using Python, write a script to ask the user for a file to process, then save the program's output to another file.
-
-hidden-badges:
+    [View Lesson](badges/input-output.html)
 
   - **Defensive Programming**
     ***Defender***
     Given a simple function, refactor the code to increase function stability by addressing edge cases and faulty or incorrect input.
+    [View Lesson](badges/defender.html)
 
   - **Test-Driven Development**
     ***The Stig***
     Use the Test Driven Development process of "red, green, refactor" to design, test and implement a function.
+    [View Lesson](badges/the-stig.html)
 
   - **Error Handling**
     ***Safety Net***
     Increase the stability of a piece of code by catching and handling common errors, then providing user feedback rather than exiting.
+    [View Lesson](badges/safety-net.html)
 
   
 

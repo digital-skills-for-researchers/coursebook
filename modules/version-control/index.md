@@ -30,9 +30,6 @@ This module will introduce you to the workflows used with the popular version co
     ***Time Lord***
     Use command line Git to undo uncommitted changes, roll back the last commit, and revert a specific commit.
 
-
-hidden-badges:
-
   **Branching**
     **Arborist**
     Use command line Git to create a branch, make and commit some changes on that branch, merge them back into master, and retire the branch.
@@ -72,21 +69,11 @@ Introduction to the basics of Version Control, Git and GitHub.
 
 
 
-## Independent | Practising Git Shell
-
-Review the Git commands that you have learned by completing at least one of these online activities.
-
-- [Learn Git (GitHub)](https://try.github.io)
-- [Basic Git Workflow (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-workflow/exercises/hello-git)
-
-
-
-
-### Classroom | Everyday Git
+### Everyday Git
 
 Advanced functionality and commands using Git.
 
-**Resources**
+**Schedule**
 
 - [Exploring History](https://digital-skills-for-researchers.github.io/git-short-lesson/05-history/)
 - [Ignoring Things](https://digital-skills-for-researchers.github.io/git-short-lesson/06-ignore/)
@@ -95,20 +82,6 @@ Advanced functionality and commands using Git.
 - [Conflicts](https://digital-skills-for-researchers.github.io/git-short-lesson/09-conflict/)
 
 
-- [How to Backtrack (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-backtracking/exercises/backtracking-intro)
-- [Git Teamwork (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/remotes)
-- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-- [GitHub Flow (article)](http://scottchacon.com/2011/08/31/github-flow.html)
-
-
-
-## Additional Resources
-
-
-- [Git Branching (Codecademy)](https://www.codecademy.com/en/courses/learn-git/lessons/git-branching/exercises/why-branch)
-- [Open Science (Software Carpentry)](http://swcarpentry.github.io/git-novice/10-open.html)
-- [Licencing (Software Carpentry)](http://swcarpentry.github.io/git-novice/11-licensing.html)
-- [Hosting (Software Carpentry)](http://swcarpentry.github.io/git-novice/12-hosting.html)
 
 
 

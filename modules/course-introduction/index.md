@@ -5,7 +5,7 @@ title: Course Introduction
 
 # Course Introduction
 
-introduction: This course will guide you through a variety of digital tools for scientific research. You will apply the skills and tools to your own project throughout the course, giving you practical experience on top of the theoretical. Welcome to the future.
+This course will guide you through a variety of digital tools for scientific research. You will apply the skills and tools to your own project throughout the course, giving you practical experience on top of the theoretical. Welcome to the future.
 
 
 ## Classroom | Understanding Expectations

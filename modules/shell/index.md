@@ -8,11 +8,11 @@ This module will introduce you to the benefits of using shell commands to perfor
 
 ## Learning Outcomes
 
-  - a. Navigate through a file system and list files within different folders using the commmand line
-  - b. Create, move, and delete files using the command line
-  - c. Run programs and open files from the command line
-  - d. Combine commands, such as filters,  using pipes to perform more complex data processing tasks 
-  - e. Reason about how to automate simple tasks using the command line.
+  - Navigate through a file system and list files within different folders using the commmand line
+  - Create, move, and delete files using the command line
+  - Run programs and open files from the command line
+  - Combine commands, such as filters,  using pipes to perform more complex data processing tasks 
+  - Reason about how to automate simple tasks using the command line.
 
 
 ## Badges:
@@ -27,11 +27,7 @@ This module will introduce you to the benefits of using shell commands to perfor
 
   **Shell Scripting**
     ***Born to Shell***
-    Create a shell script that takes a file name as a variable, performs some calculations on the file data, such as number of rows, and prints the result to the console.
-
-
-
-hidden-badges: 
+    Create a shell script that takes a file name as a variable, performs some calculations on the file data, such as number of rows, and prints the result to the console. 
   
   **Pipes and Filters**
     ***Pied Piper***
@@ -41,9 +37,6 @@ hidden-badges:
   **Regular Expressions**
     ***Pattern Matcher***
     Create a shell script that uses a regular expression to find all files named using a certain pattern, rename those files using a different pattern, and save the list of changed files to a text file.
-
-
-
 
 
 ## Lessons  
@@ -74,41 +67,5 @@ How to automate the processing of data with the shell.
 
 
 
-
-
-
-
-## Independent | Murder Mystery
-
-Complete this game thingy in your own time to practice commands.
-
-- [Murder Mystery Game](https://github.com/veltman/clmystery)
-
-
-
-
-
-
-
-
-
-
-## Group | Stats
-
-Idea: gather stats on your project using commands you've learned. Document the command and the output of the command. Compose a script that outputs these current stats for you project.
-
-This Hacky Hour should be used to start managing and organising your data using the skills and concepts you learnt in the Data Management module, using the command line where possible. 
-
-- [Sample Data (TODO)](#)
-- [Instructions (TODO)](#)
-
-
-
-
-
-## Additional Resources
-
-- [Explain shell](explainshell.com)
-- [Regex 101](https://regex101.com/) [Regexr](http://regexr.com/) These sites break down regurlar expressions term by term, explain the different expressiona and allow you to test out expressions
 
 
